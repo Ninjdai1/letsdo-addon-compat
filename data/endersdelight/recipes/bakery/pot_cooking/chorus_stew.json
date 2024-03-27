@@ -1,0 +1,1 @@
+{"type":"bakery:pot_cooking","result":{"item":"endersdelight:chorus_stew"},"ingredients":[{"item":"minecraft:chorus_fruit"},{"item":"minecraft:chorus_flower"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":[["endersdelight","bakery"]]}],"conditions":[{"type":"forge:mod_loaded","modid":"endersdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}

@@ -1,16 +1,16 @@
 {
 	"schemaVersion":1,
-	"id":"letsdoaddon-dehydrationcompat",
-	"version":"1.0.0",
-	"name":"[Let's Do Addon] Dehydration Compat",
-	"description":"Adds compatibility between Dehydration and the let's do mods so you don't have to do it yourself",
+	"id":"letsdoaddon-compat",
+	"version":"1.1.0",
+	"name":"[Let's Do Addon] Compat",
+	"description":"Adds compatibility for the Let's Do mods so you don't have to",
 	"authors":[
         "Ninjdai_"
     ],
 	"contact":{
-        "homepage":"https://modrinth.com/datapack/lets-do-addon-dehydrationcompat",
-        "issues":"https://github.com/Ninjdai1/letsdo-addon-dehydrationcompat/issues",
-        "sources":"https://github.com/Ninjdai1/letsdo-addon-dehydrationcompat",
+        "homepage":"https://modrinth.com/datapack/lets-do-addon-compat",
+        "issues":"https://github.com/Ninjdai1/letsdo-addon-compat/issues",
+        "sources":"https://github.com/Ninjdai1/letsdo-addon-compat",
         "discord":"https://discord.com/invite/Vddst9txP8"
       },
 	"license":"MIT",
