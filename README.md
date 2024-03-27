@@ -1,10 +1,31 @@
-# [Let's Do Addon] Dehydration Compat
+# [Let's Do Addon] Compat
 
-This mod/datapack adds compatibility between the [Let's Do mods](https://modrinth.com/mods?q=let%27s+do) and [Dehydration](https://modrinth.com/mod/dehydration)
+This mod adds compatibility between the [Let's Do mods](https://modrinth.com/mods?q=let%27s+do) and a plethora of mods, so you don't have to do it
 
-Currently supported:
-* [Beachparty](https://modrinth.com/mod/lets-do-beachparty)
-* [Candlelight](https://modrinth.com/mod/lets-do-candlelight)
-* [Herbalbrews](https://modrinth.com/mod/lets-do-herbalbrews)
-* [Nethervinery](https://modrinth.com/mod/lets-do-nethervinery)
-* [Vinery](https://modrinth.com/mod/lets-do-vinery)
+Currently supported mods:
+* Aether Delight
+* Alex's Delight
+* Aquaculture Delight
+* Corn Delight
+* Crabbers Delight
+* Create
+* Cultural Delight
+* [Dehydration](https://modrinth.com/mod/dehydration)
+* Delightful
+* Ender's Delight
+* Expanded Delight
+* Farmer's Delight
+* Festive Delight
+* Fright's Delight
+* Haunted Harvest
+* Miner's Delight
+* Nether's Delight
+* Ocean's Delight
+* Pineapple Delight
+* Quark Delight
+* Twilight Delight
+* Undergarden Delight
+* Unusual Delight
+* Vegan Delight
+
+![Screenchot of wheat beer with hydration stat](https://cdn.modrinth.com/data/cached_images/0989eb34304969f199a2df9bffc7edbaca08deb6.png)
