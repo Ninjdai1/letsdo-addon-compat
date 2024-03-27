@@ -3,6 +3,6 @@ loaderVersion = '[40,)'
 license = 'MIT'
 showAsResourcePack = false
 mods = [
-	{ modId = 'letsdoaddon_compat', version = '1.1.1', displayName = "[Let's Do Addon] Compat", description = "Adds compatibility for the Let's Do mods so you don't have to", logoFile = 'pack.png', updateJSONURL = 'https://api.modrinth.com/updates/FNi5IMiX/forge_updates.json', authors = 'Ninjdai', displayURL = 'https://modrinth.com/datapack/lets-do-addon-compat' },
+	{ modId = 'letsdoaddon_compat', version = '1.1.2', displayName = "[Let's Do Addon] Compat", description = "Adds compatibility for the Let's Do mods so you don't have to", logoFile = 'pack.png', updateJSONURL = 'https://api.modrinth.com/updates/FNi5IMiX/forge_updates.json', authors = 'Ninjdai', displayURL = 'https://modrinth.com/datapack/lets-do-addon-compat' },
 ]
 issueTrackerURL = 'https://github.com/Ninjdai1/letsdo-addon-compat/issues'
