@@ -27,5 +27,7 @@ Currently supported mods:
 * Undergarden Delight
 * Unusual Delight
 * Vegan Delight
+* Vintage Delight
+* Youkai's Homecoming
 
 ![Screenchot of wheat beer with hydration stat](https://cdn.modrinth.com/data/cached_images/0989eb34304969f199a2df9bffc7edbaca08deb6.png)
