@@ -23,6 +23,7 @@ Currently supported mods:
 * Ocean's Delight
 * Pineapple Delight
 * Quark Delight
+* Rats (meadow cheese)
 * Twilight Delight
 * Undergarden Delight
 * Unusual Delight
