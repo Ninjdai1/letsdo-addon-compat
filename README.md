@@ -7,12 +7,14 @@ Currently supported mods:
 * Alex's Delight
 * Aquaculture Delight
 * Botany Pots
+* Casualness Delight
 * Corn Delight
 * Crabbers Delight
 * Create
 * Cultural Delight
 * [Dehydration](https://modrinth.com/mod/dehydration)
 * Delightful
+* End's Delight
 * Ender's Delight
 * Expanded Delight
 * Farmer's Delight
@@ -20,12 +22,14 @@ Currently supported mods:
 * Fright's Delight
 * Haunted Harvest
 * Miner's Delight
+* More Delight
 * Nether's Delight
 * Ocean's Delight
 * Pineapple Delight
 * Quark Delight
 * Rats (meadow cheese)
 * Twilight Delight
+* Ube's Delight
 * Undergarden Delight
 * Unusual Delight
 * Vegan Delight
