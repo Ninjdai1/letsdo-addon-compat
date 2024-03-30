@@ -6,6 +6,7 @@ Currently supported mods:
 * Aether Delight
 * Alex's Delight
 * Aquaculture Delight
+* Botany Pots
 * Corn Delight
 * Crabbers Delight
 * Create
