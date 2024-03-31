@@ -1,0 +1,1 @@
+{"type":"candlelight:pot_cooking","result":{"item":"ubesdelight:sugar_brown"},"ingredients":[{"item":"minecraft:sugar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["ubesdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"ubesdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}

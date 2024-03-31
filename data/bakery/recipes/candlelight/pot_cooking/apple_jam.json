@@ -1,0 +1,1 @@
+{"type":"candlelight:pot_cooking","result":{"item":"bakery:apple_jam"},"ingredients":[{"item":"minecraft:apple"},{"item":"minecraft:sugar"},{"item":"bakery:jar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["bakery","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"bakery"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
