@@ -1,0 +1,1 @@
+{"type":"create:mixing","results":[{"item":"createfood:salt_dough","count":6}],"ingredients":[{"tag":"c:flour"},{"tag":"c:salt"},{"tag":"c:water_buckets"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","create"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"create"}]}
