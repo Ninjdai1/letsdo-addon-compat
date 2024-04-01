@@ -1,0 +1,45 @@
+name: Datapack
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: "Datapack generation"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Prepare mod jar
+        run: |
+          zip -r ${{ github.event.repository.name }}-latest.jar . -x ".git/*" ".github/*" ".gitignore" "README.md" "LICENSE" "*.zip"
+
+      - name: Upload the mod
+        uses: actions/upload-artifact@v4.3.0
+        with:
+          name: letsdo-addon-structures-latest
+          path: ${{ github.event.repository.name }}-latest.jar
+
+  pre-release:
+    name: "Pre Release"
+    runs-on: "ubuntu-latest"
+
+    steps:
+      # ...
+      - name: "Build & test"
+        run: |
+          echo "done!"
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: "Development Build"
+          files: |
+            *.jar
