@@ -1,0 +1,1 @@
+{"type":"bakery:pot_cooking","result":{"item":"frightsdelight:apple_slime","count":1},"ingredients":[{"item":"minecraft:slime_ball"},{"item":"minecraft:apple"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["frightsdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"frightsdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}

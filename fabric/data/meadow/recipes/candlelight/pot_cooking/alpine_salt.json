@@ -1,0 +1,1 @@
+{"type":"candlelight:pot_cooking","result":{"item":"meadow:alpine_salt","count":4},"ingredients":[{"item":"minecraft:water_bucket"},{"item":"meadow:limestone"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["meadow","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"meadow"},{"type":"forge:mod_loaded","modid":"candlelight"}]}}

@@ -1,1 +1,0 @@
-{"type":"meadow:cooking","result":{"item":"delightful:crab_rangoon"},"ingredients":[{"tag":"forge:dough"},{"tag":"forge:milk"},{"tag":"forge:crab_meat"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["delightful","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"delightful"},{"type":"forge:mod_loaded","modid":"meadow"}]}}]}

@@ -15,15 +15,33 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Prepare mod jar
+      - name: Prepare fabric jar
+        working-directory: .
         run: |
-          zip -r ${{ github.event.repository.name }}-latest.jar . -x ".git/*" ".github/*" ".gitignore" "README.md" "LICENSE" "*.zip"
+          mkdir -p build/fabric
+          cp ./common/* ./build/fabric
+          cp -r ./fabric/* ./build/fabric
+          cd build/fabric
+          zip -r ${{ github.event.repository.name }}-fabric-latest.jar .
+          mv ${{ github.event.repository.name }}-fabric-latest.jar ..
+
+      - name: Prepare forge jar
+        working-directory: .
+        run: |
+          mkdir -p build/forge
+          cp ./common/* ./build/forge
+          cp -r ./forge/* ./build/forge
+          cd build/forge
+          zip -r ${{ github.event.repository.name }}-forge-latest.jar .
+          mv ${{ github.event.repository.name }}-forge-latest.jar ..
 
       - name: Upload the mod
         uses: actions/upload-artifact@v4.3.0
-        with:
-          name: letsdo-addon-structures-latest
-          path: ${{ github.event.repository.name }}-latest.jar
+        with: |
+          - name: letsdo-addon-structures-fabric-latest
+            path: build/${{ github.event.repository.name }}-fabric-latest.jar
+          - name: letsdo-addon-structures-forge-latest
+            path: build/${{ github.event.repository.name }}-forge-latest.jar
 
       - name: Prerelease with latest tag 
         uses: "marvinpinto/action-automatic-releases@latest"

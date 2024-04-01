@@ -1,0 +1,1 @@
+{"type":"create:mixing","results":[{"item":"createfood:sugar_dough","count":3}],"ingredients":[{"tag":"c:flour"},{"tag":"c:sugar"},{"tag":"c:eggs"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","create"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"create"}]}reate"}]}}
