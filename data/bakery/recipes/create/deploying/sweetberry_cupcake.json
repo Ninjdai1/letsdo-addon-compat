@@ -1,0 +1,1 @@
+{"type":"create:deploying","results":[{"item":"bakery:sweetberry_cupcake"}],"ingredients":[{"item":"bakery:cake_dough"},{"item":"bakery:sweetberry_jam"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["bakery","create"]}],"conditions":[{"type":"forge:mod_loaded","modid":"bakery"},{"type":"forge:mod_loaded","modid":"create"}]}
