@@ -1,4 +1,4 @@
-name: Datapack
+name: Mod build
 
 on:
   push:
