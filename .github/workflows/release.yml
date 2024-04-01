@@ -35,11 +35,14 @@ jobs:
           zip -r ${{ github.event.repository.name }}-forge-latest.jar .
           mv ${{ github.event.repository.name }}-forge-latest.jar ..
 
-      - name: Upload the mod
+      - name: Upload fabric jar
         uses: actions/upload-artifact@v4.3.0
-        with: |
+        with:
           - name: letsdo-addon-structures-fabric-latest
             path: build/${{ github.event.repository.name }}-fabric-latest.jar
+      - name: Upload forge jar
+        uses: actions/upload-artifact@v4.3.0
+        with:
           - name: letsdo-addon-structures-forge-latest
             path: build/${{ github.event.repository.name }}-forge-latest.jar
 
