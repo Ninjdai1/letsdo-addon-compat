@@ -1,1 +1,0 @@
-{"type":"bakery:pot_cooking","result":{"item":"oceansdelight:honey_fried_kelp"},"ingredients":[{"item":"minecraft:dried_kelp"},{"item":"minecraft:honey_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["oceansdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"oceansdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}

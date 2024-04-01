@@ -1,1 +1,0 @@
-{"type":"meadow:cooking","result":{"item":"createfood:hot_chocolate_bottle"},"ingredients":[{"tag":"c:chocolate_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"meadow"}]}ge:mod_loaded","modid":"meadow"}]}

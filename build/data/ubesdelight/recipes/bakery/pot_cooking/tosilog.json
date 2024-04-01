@@ -1,1 +1,0 @@
-{"type":"bakery:pot_cooking","result":{"item":"ubesdelight:tosilog"},"ingredients":[{"item":"ubesdelight:tocino"},{"item":"ubesdelight:sinangag"},{"tag":"c:cooked_eggs"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["ubesdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"ubesdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
