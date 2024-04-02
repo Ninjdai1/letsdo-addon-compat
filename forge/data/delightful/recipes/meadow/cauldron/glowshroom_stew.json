@@ -1,1 +1,44 @@
-{"type":"meadow:cooking","result":{"item":"biomemakeover:glowshroom_stew"},"ingredients":[{"item":"minecraft:bowl"},{"item":"biomemakeover:purple_glowshroom"},{"item":"biomemakeover:green_glowshroom"},{"item":"biomemakeover:orange_glowshroom"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["delightful","biomemakeover","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"delightful"},{"type":"forge:mod_loaded","modid":"biomemakeover"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "biomemakeover:glowshroom_stew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "biomemakeover:purple_glowshroom"
+        },
+        {
+            "item": "biomemakeover:green_glowshroom"
+        },
+        {
+            "item": "biomemakeover:orange_glowshroom"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "delightful",
+                "biomemakeover",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "biomemakeover"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

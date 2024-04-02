@@ -1,1 +1,39 @@
-{"type":"meadow:cooking","result":{"item":"oceansdelight:braised_sea_pickle"},"ingredients":[{"item":"minecraft:bowl"},{"item":"minecraft:sea_pickle"},{"item":"minecraft:brown_mushroom"},{"item":"minecraft:brown_mushroom"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["oceansdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"oceansdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "oceansdelight:braised_sea_pickle"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "oceansdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "oceansdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

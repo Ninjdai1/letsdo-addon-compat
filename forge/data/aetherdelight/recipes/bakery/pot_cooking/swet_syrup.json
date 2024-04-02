@@ -1,1 +1,36 @@
-{"type":"bakery:pot_cooking","result":{"item":"aetherdelight:swet_syrup"},"ingredients":[{"item":"aether:swet_ball"},{"item":"aether:blue_berry"},{"item":"aetherdelight:ambrosia_dew"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aetherdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aetherdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "aetherdelight:swet_syrup"
+    },
+    "ingredients": [
+        {
+            "item": "aether:swet_ball"
+        },
+        {
+            "item": "aether:blue_berry"
+        },
+        {
+            "item": "aetherdelight:ambrosia_dew"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aetherdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

@@ -1,1 +1,44 @@
-{"type":"candlelight:pot_cooking","result":{"item":"ecologics:tropical_stew"},"ingredients":[{"tag":"forge:cooked_crab"},{"tag":"forge:crops/rice"},{"tag":"forge:crops/onion"}],"container":{"item":"ecologics:coconut_slice"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["delightful","ecologics","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"delightful"},{"type":"forge:mod_loaded","modid":"ecologics"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "ecologics:tropical_stew"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:cooked_crab"
+        },
+        {
+            "tag": "forge:crops/rice"
+        },
+        {
+            "tag": "forge:crops/onion"
+        }
+    ],
+    "container": {
+        "item": "ecologics:coconut_slice"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "delightful",
+                "ecologics",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "ecologics"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

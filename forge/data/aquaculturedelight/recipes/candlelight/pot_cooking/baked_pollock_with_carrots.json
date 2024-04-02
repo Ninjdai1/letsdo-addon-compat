@@ -1,1 +1,42 @@
-{"type":"candlelight:pot_cooking","result":{"item":"aquaculturedelight:baked_pollock_with_carrots"},"ingredients":[{"tag":"forge:raw_fishes/pollock"},{"item":"minecraft:carrot"},{"tag":"forge:vegetables"},{"tag":"forge:crops/cabbage"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aquaculturedelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aquaculturedelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "aquaculturedelight:baked_pollock_with_carrots"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_fishes/pollock"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "forge:vegetables"
+        },
+        {
+            "tag": "forge:crops/cabbage"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aquaculturedelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

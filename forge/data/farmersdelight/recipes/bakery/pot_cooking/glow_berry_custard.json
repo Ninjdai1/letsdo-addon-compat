@@ -1,1 +1,39 @@
-{"type":"bakery:pot_cooking","result":{"item":"farmersdelight:glow_berry_custard"},"ingredients":[{"item":"minecraft:glow_berries"},{"tag":"forge:milk"},{"tag":"forge:eggs"},{"item":"minecraft:sugar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "farmersdelight:glow_berry_custard"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "tag": "forge:milk"
+        },
+        {
+            "tag": "forge:eggs"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

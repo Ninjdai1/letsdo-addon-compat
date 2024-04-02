@@ -1,1 +1,36 @@
-{"type":"meadow:cooking","result":{"item":"youkaishomecoming:yashouma_dango"},"ingredients":[{"tag":"forge:grain/rice"},{"item":"minecraft:pink_dye"},{"item":"minecraft:green_dye"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:yashouma_dango"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:grain/rice"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:green_dye"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

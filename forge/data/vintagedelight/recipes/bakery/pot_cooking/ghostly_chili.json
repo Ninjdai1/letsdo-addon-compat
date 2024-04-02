@@ -1,1 +1,42 @@
-{"type":"bakery:pot_cooking","result":{"item":"vintagedelight:ghostly_chili"},"ingredients":[{"item":"vintagedelight:ghost_pepper"},{"item":"vintagedelight:ghost_pepper"},{"item":"minecraft:carrot"},{"item":"farmersdelight:tomato"},{"item":"farmersdelight:minced_beef"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vintagedelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vintagedelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "vintagedelight:ghostly_chili"
+    },
+    "ingredients": [
+        {
+            "item": "vintagedelight:ghost_pepper"
+        },
+        {
+            "item": "vintagedelight:ghost_pepper"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "farmersdelight:tomato"
+        },
+        {
+            "item": "farmersdelight:minced_beef"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vintagedelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vintagedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

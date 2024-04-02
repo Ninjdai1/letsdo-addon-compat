@@ -1,1 +1,45 @@
-{"type":"candlelight:pot_cooking","result":{"item":"youkaishomecoming:seven_colored_yokan"},"ingredients":[{"item":"youkaishomecoming:redbean"},{"item":"youkaishomecoming:soybean"},{"item":"minecraft:cherry_leaves"},{"tag":"forge:matcha"},{"item":"youkaishomecoming:udumbara_flower"}],"container":{"item":"youkaishomecoming:saucer"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:seven_colored_yokan"
+    },
+    "ingredients": [
+        {
+            "item": "youkaishomecoming:redbean"
+        },
+        {
+            "item": "youkaishomecoming:soybean"
+        },
+        {
+            "item": "minecraft:cherry_leaves"
+        },
+        {
+            "tag": "forge:matcha"
+        },
+        {
+            "item": "youkaishomecoming:udumbara_flower"
+        }
+    ],
+    "container": {
+        "item": "youkaishomecoming:saucer"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

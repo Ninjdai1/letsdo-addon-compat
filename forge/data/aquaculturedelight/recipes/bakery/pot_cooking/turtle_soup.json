@@ -1,1 +1,35 @@
-{"type":"bakery:pot_cooking","result":{"item":"aquaculture:turtle_soup"},"ingredients":[{"tag":"aquaculturedelight:turtle_meats"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aquaculturedelight","aquaculture","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aquaculturedelight"},{"type":"forge:mod_loaded","modid":"aquaculture"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "aquaculture:turtle_soup"
+    },
+    "ingredients": [
+        {
+            "tag": "aquaculturedelight:turtle_meats"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aquaculturedelight",
+                "aquaculture",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculture"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

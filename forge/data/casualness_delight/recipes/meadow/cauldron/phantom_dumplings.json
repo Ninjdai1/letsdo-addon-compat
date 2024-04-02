@@ -1,1 +1,51 @@
-{"type":"meadow:cooking","result":{"count":2,"item":"casualness_delight:phantom_dumplings"},"ingredients":[{"item":"minecraft:phantom_membrane"},{"tag":"forge:crops/cabbage"},{"tag":"forge:vegetables/onion"},[{"tag":"forge:raw_chicken"},{"tag":"forge:raw_pork"},{"tag":"forge:raw_beef"},{"item":"minecraft:brown_mushroom"}]],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["casualness_delight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"casualness_delight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "count": 2,
+        "item": "casualness_delight:phantom_dumplings"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
+            "tag": "forge:crops/cabbage"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        },
+        [
+            {
+                "tag": "forge:raw_chicken"
+            },
+            {
+                "tag": "forge:raw_pork"
+            },
+            {
+                "tag": "forge:raw_beef"
+            },
+            {
+                "item": "minecraft:brown_mushroom"
+            }
+        ]
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "casualness_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

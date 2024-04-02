@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"farmersdelight:noodle_soup"},"ingredients":[{"tag":"forge:pasta"},{"tag":"forge:cooked_eggs"},{"item":"minecraft:dried_kelp"},{"tag":"forge:raw_pork"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "farmersdelight:noodle_soup"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:pasta"
+        },
+        {
+            "tag": "forge:cooked_eggs"
+        },
+        {
+            "item": "minecraft:dried_kelp"
+        },
+        {
+            "tag": "forge:raw_pork"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

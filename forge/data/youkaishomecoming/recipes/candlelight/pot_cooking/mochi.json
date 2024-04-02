@@ -1,1 +1,34 @@
-{"type":"candlelight:pot_cooking","result":{"count":2,"item":"youkaishomecoming:mochi"},"ingredients":[{"tag":"forge:grain/rice"},{"item":"youkaishomecoming:redbean"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "count": 2,
+        "item": "youkaishomecoming:mochi"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:grain/rice"
+        },
+        {
+            "item": "youkaishomecoming:redbean"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

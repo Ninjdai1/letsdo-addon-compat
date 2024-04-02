@@ -1,1 +1,39 @@
-{"type":"bakery:pot_cooking","result":{"item":"farmersdelight:dog_food"},"ingredients":[{"item":"minecraft:rotten_flesh"},{"item":"minecraft:bone_meal"},{"tag":"farmersdelight:wolf_prey"},{"tag":"forge:crops/rice"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "farmersdelight:dog_food"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "tag": "farmersdelight:wolf_prey"
+        },
+        {
+            "tag": "forge:crops/rice"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

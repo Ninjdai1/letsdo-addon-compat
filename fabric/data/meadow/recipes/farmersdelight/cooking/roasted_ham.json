@@ -1,1 +1,46 @@
-{"type":"farmersdelight:cooking","result":{"item":"meadow:roasted_ham","count":2},"ingredients":[{"item":"meadow:raw_bear_meat"},{"item":"meadow:raw_bear_meat"},{"item":"meadow:raw_bear_meat"},{"item":"meadow:alpine_salt"},{"item":"minecraft:potato"},{"item":"minecraft:carrot"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["meadow","farmersdelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"meadow"},{"type":"forge:mod_loaded","modid":"farmersdelight"}]}
+{
+    "type": "farmersdelight:cooking",
+    "result": {
+        "item": "meadow:roasted_ham",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "meadow:raw_bear_meat"
+        },
+        {
+            "item": "meadow:raw_bear_meat"
+        },
+        {
+            "item": "meadow:raw_bear_meat"
+        },
+        {
+            "item": "meadow:alpine_salt"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:carrot"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "meadow",
+                "farmersdelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

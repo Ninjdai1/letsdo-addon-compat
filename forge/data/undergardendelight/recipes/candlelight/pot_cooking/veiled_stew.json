@@ -1,1 +1,44 @@
-{"type":"candlelight:pot_cooking","result":{"item":"undergarden:veiled_stew"},"ingredients":[{"item":"undergarden:veil_mushroom"},{"item":"undergarden:veil_mushroom"},{"item":"undergarden:veil_mushroom"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["undergardendelight","undergarden","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"undergardendelight"},{"type":"forge:mod_loaded","modid":"undergarden"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "undergarden:veiled_stew"
+    },
+    "ingredients": [
+        {
+            "item": "undergarden:veil_mushroom"
+        },
+        {
+            "item": "undergarden:veil_mushroom"
+        },
+        {
+            "item": "undergarden:veil_mushroom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "undergardendelight",
+                "undergarden",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergarden"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

@@ -1,1 +1,36 @@
-{"type":"bakery:pot_cooking","result":{"item":"moredelight:pasta_with_milk_cream_and_ham"},"ingredients":[{"tag":"c:milk/milk_bottle"},{"tag":"c:pasta/raw_pasta"},{"item":"farmersdelight:ham"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["moredelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"moredelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "moredelight:pasta_with_milk_cream_and_ham"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk/milk_bottle"
+        },
+        {
+            "tag": "c:pasta/raw_pasta"
+        },
+        {
+            "item": "farmersdelight:ham"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "moredelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "moredelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

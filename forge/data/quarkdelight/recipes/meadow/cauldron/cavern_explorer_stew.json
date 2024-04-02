@@ -1,1 +1,39 @@
-{"type":"meadow:cooking","result":{"item":"quarkdelight:cavern_explorer_stew"},"ingredients":[{"item":"minecraft:bowl"},{"item":"quark:glow_shroom"},{"item":"minecraft:glow_ink_sac"},{"tag":"forge:vegetables"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["quarkdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"quarkdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "quarkdelight:cavern_explorer_stew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "quark:glow_shroom"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "tag": "forge:vegetables"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "quarkdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "quarkdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

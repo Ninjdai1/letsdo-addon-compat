@@ -1,1 +1,33 @@
-{"type":"bakery:pot_cooking","result":{"item":"delightful:nut_butter_bottle"},"ingredients":[{"tag":"forge:nuts"},{"tag":"forge:sugar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["delightful","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"delightful"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "delightful:nut_butter_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:nuts"
+        },
+        {
+            "tag": "forge:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "delightful",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

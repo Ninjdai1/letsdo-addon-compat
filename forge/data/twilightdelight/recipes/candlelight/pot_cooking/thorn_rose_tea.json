@@ -1,1 +1,36 @@
-{"type":"candlelight:pot_cooking","result":{"item":"twilightdelight:thorn_rose_tea"},"ingredients":[{"item":"twilightforest:thorn_rose"},{"item":"minecraft:sugar"}],"container":{"item":"minecraft:glass_bottle"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["twilightdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"twilightdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "twilightdelight:thorn_rose_tea"
+    },
+    "ingredients": [
+        {
+            "item": "twilightforest:thorn_rose"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "twilightdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

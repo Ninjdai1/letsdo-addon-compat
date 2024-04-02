@@ -1,1 +1,33 @@
-{"type":"bakery:pot_cooking","result":{"item":"unusual_delight:glow_ink_sauce"},"ingredients":[{"item":"minecraft:glow_ink_sac"},{"item":"minecraft:glow_ink_sac"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["unusual_delight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"unusual_delight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "unusual_delight:glow_ink_sauce"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "unusual_delight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

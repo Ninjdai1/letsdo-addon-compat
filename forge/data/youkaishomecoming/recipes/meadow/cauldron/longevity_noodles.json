@@ -1,1 +1,42 @@
-{"type":"meadow:cooking","result":{"item":"youkaishomecoming:longevity_noodles"},"ingredients":[{"item":"minecraft:bowl"},{"tag":"forge:pasta"},{"tag":"forge:vegetables"},{"item":"minecraft:brown_mushroom"},{"tag":"forge:raw_pork"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:longevity_noodles"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "tag": "forge:pasta"
+        },
+        {
+            "tag": "forge:vegetables"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "tag": "forge:raw_pork"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

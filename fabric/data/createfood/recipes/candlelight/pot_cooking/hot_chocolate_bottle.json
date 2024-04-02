@@ -1,1 +1,34 @@
-{"type":"candlelight:pot_cooking","result":{"item":"createfood:hot_chocolate_bottle"},"ingredients":[{"tag":"c:chocolate_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"candlelight"}]}d_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "createfood:hot_chocolate_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:chocolate_bottle"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "createfood"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

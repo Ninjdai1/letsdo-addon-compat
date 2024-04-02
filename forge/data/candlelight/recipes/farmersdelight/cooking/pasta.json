@@ -1,1 +1,40 @@
-{"type":"farmersdelight:cooking","result":{"item":"candlelight:pasta","count":4},"ingredients":[{"tag":"candlelight:pasta"},{"item":"candlelight:tomato_soup"},{"tag":"candlelight:red_effect"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["candlelight","farmersdelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"candlelight"},{"type":"forge:mod_loaded","modid":"farmersdelight"}]}
+{
+    "type": "farmersdelight:cooking",
+    "result": {
+        "item": "candlelight:pasta",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "tag": "candlelight:pasta"
+        },
+        {
+            "item": "candlelight:tomato_soup"
+        },
+        {
+            "tag": "candlelight:red_effect"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "candlelight",
+                "farmersdelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

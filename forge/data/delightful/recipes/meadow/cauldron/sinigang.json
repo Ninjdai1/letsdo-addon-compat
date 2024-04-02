@@ -1,1 +1,48 @@
-{"type":"meadow:cooking","result":{"item":"delightful:sinigang"},"ingredients":[{"tag":"forge:raw_pork"},{"tag":"forge:raw_fishes"},{"tag":"forge:crops/rice"},{"tag":"forge:crops/tomato"},{"tag":"forge:fruits"},{"tag":"forge:crops/onion"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["delightful","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"delightful"},{"type":"forge:mod_loaded","modid":"meadow"}]}"modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "delightful:sinigang"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "tag": "forge:raw_fishes"
+        },
+        {
+            "tag": "forge:crops/rice"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        },
+        {
+            "tag": "forge:fruits"
+        },
+        {
+            "tag": "forge:crops/onion"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "delightful",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}"
+        }
+    ]
+}

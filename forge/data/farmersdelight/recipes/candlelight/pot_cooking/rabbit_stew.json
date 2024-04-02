@@ -1,1 +1,52 @@
-{"type":"candlelight:pot_cooking","result":{"item":"minecraft:rabbit_stew"},"ingredients":[{"item":"minecraft:baked_potato"},{"item":"minecraft:rabbit"},{"item":"minecraft:carrot"},[{"item":"minecraft:brown_mushroom"},{"item":"minecraft:red_mushroom"}]],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","minecraft","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"minecraft"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "minecraft:rabbit_stew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:baked_potato"
+        },
+        {
+            "item": "minecraft:rabbit"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        [
+            {
+                "item": "minecraft:brown_mushroom"
+            },
+            {
+                "item": "minecraft:red_mushroom"
+            }
+        ]
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "minecraft",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

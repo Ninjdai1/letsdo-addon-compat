@@ -1,1 +1,39 @@
-{"type":"meadow:cooking","result":{"item":"vintagedelight:nut_milk_bottle"},"ingredients":[{"item":"minecraft:glass_bottle"},{"item":"vintagedelight:peanut"},{"item":"vintagedelight:peanut"},{"item":"minecraft:sugar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vintagedelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vintagedelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "vintagedelight:nut_milk_bottle"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "vintagedelight:peanut"
+        },
+        {
+            "item": "vintagedelight:peanut"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vintagedelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vintagedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

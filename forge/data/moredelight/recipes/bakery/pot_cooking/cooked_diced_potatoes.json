@@ -1,1 +1,45 @@
-{"type":"bakery:pot_cooking","result":{"item":"moredelight:cooked_diced_potatoes"},"ingredients":[{"item":"moredelight:diced_potatoes"},{"item":"moredelight:diced_potatoes"},{"item":"moredelight:diced_potatoes"},{"item":"moredelight:diced_potatoes"},{"item":"moredelight:diced_potatoes"},{"item":"moredelight:diced_potatoes"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["moredelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"moredelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "moredelight:cooked_diced_potatoes"
+    },
+    "ingredients": [
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "moredelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "moredelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

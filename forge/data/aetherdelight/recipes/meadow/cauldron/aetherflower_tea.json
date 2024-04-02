@@ -1,1 +1,39 @@
-{"type":"meadow:cooking","result":{"item":"aetherdelight:aetherflower_tea"},"ingredients":[{"item":"minecraft:glass_bottle"},{"item":"aether:purple_flower"},{"item":"aether:white_flower"},{"tag":"forge:berries"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aetherdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aetherdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "aetherdelight:aetherflower_tea"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "aether:purple_flower"
+        },
+        {
+            "item": "aether:white_flower"
+        },
+        {
+            "tag": "forge:berries"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aetherdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

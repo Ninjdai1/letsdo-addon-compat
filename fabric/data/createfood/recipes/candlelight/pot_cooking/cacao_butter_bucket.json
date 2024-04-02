@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"createfood:cacao_butter_bucket"},"ingredients":[{"tag":"c:cacao_butter"},{"tag":"c:cacao_butter"},{"tag":"c:cacao_butter"}],"container":{"item":"minecraft:bucket"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "createfood:cacao_butter_bucket"
+    },
+    "ingredients": [
+        {
+            "tag": "c:cacao_butter"
+        },
+        {
+            "tag": "c:cacao_butter"
+        },
+        {
+            "tag": "c:cacao_butter"
+        },
+        {
+            "item": "minecraft:bucket"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "createfood"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}}

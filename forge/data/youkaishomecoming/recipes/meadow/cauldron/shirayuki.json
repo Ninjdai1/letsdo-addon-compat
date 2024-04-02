@@ -1,1 +1,45 @@
-{"type":"meadow:cooking","result":{"item":"youkaishomecoming:shirayuki"},"ingredients":[{"item":"minecraft:bowl"},{"item":"minecraft:pufferfish"},{"tag":"youkaishomecoming:raw_eel"},{"item":"minecraft:kelp"},{"item":"youkaishomecoming:tofu"},{"tag":"forge:vegetables"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:shirayuki"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:pufferfish"
+        },
+        {
+            "tag": "youkaishomecoming:raw_eel"
+        },
+        {
+            "item": "minecraft:kelp"
+        },
+        {
+            "item": "youkaishomecoming:tofu"
+        },
+        {
+            "tag": "forge:vegetables"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

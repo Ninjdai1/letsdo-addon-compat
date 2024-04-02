@@ -1,1 +1,33 @@
-{"type":"meadow:cooking","result":{"item":"miners_delight:bat_soup"},"ingredients":[{"tag":"miners_delight:bat_wing"},{"tag":"miners_delight:bat_wing"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["miners_delight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"miners_delight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "miners_delight:bat_soup"
+    },
+    "ingredients": [
+        {
+            "tag": "miners_delight:bat_wing"
+        },
+        {
+            "tag": "miners_delight:bat_wing"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "miners_delight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "miners_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,1 +1,37 @@
-{"type":"bakery:pot_cooking","result":{"item":"vintagedelight:cheese_curds","count":4},"ingredients":[{"item":"minecraft:milk_bucket"},{"tag":"forge:salt"},{"item":"vintagedelight:vinegar_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vintagedelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vintagedelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "vintagedelight:cheese_curds",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:milk_bucket"
+        },
+        {
+            "tag": "forge:salt"
+        },
+        {
+            "item": "vintagedelight:vinegar_bottle"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vintagedelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vintagedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

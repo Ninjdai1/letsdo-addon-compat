@@ -1,1 +1,43 @@
-{"type":"candlelight:pot_cooking","result":{"item":"createfood:caramel_bucket"},"ingredients":[{"tag":"c:caramel"},{"tag":"c:caramel"}],"container":{"item":"minecraft:bucket"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"candlelight"}]}d":"createfood"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "createfood:caramel_bucket"
+    },
+    "ingredients": [
+        {
+            "tag": "c:caramel"
+        },
+        {
+            "tag": "c:caramel"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bucket"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "createfood"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}did": "createfood"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

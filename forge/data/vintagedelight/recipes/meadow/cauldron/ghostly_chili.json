@@ -1,1 +1,45 @@
-{"type":"meadow:cooking","result":{"item":"vintagedelight:ghostly_chili"},"ingredients":[{"item":"minecraft:bowl"},{"item":"vintagedelight:ghost_pepper"},{"item":"vintagedelight:ghost_pepper"},{"item":"minecraft:carrot"},{"item":"farmersdelight:tomato"},{"item":"farmersdelight:minced_beef"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vintagedelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vintagedelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "vintagedelight:ghostly_chili"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "vintagedelight:ghost_pepper"
+        },
+        {
+            "item": "vintagedelight:ghost_pepper"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "farmersdelight:tomato"
+        },
+        {
+            "item": "farmersdelight:minced_beef"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vintagedelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vintagedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

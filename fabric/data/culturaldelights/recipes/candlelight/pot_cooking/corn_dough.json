@@ -1,1 +1,37 @@
-{"type":"candlelight:pot_cooking","result":{"item":"culturaldelights:corn_dough","count":3},"ingredients":[{"tag":"c:crops/corn"},{"tag":"c:crops/corn"},{"tag":"c:crops/corn"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["culturaldelights","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"culturaldelights"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "culturaldelights:corn_dough",
+        "count": 3
+    },
+    "ingredients": [
+        {
+            "tag": "c:crops/corn"
+        },
+        {
+            "tag": "c:crops/corn"
+        },
+        {
+            "tag": "c:crops/corn"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "culturaldelights",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "culturaldelights"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

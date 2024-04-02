@@ -1,1 +1,33 @@
-{"type":"meadow:cooking","result":{"item":"farmersdelight:cabbage_rolls"},"ingredients":[{"tag":"c:crops/cabbage"},{"tag":"farmersdelight:cabbage_roll_ingredients"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farmersdelight:cabbage_rolls"
+    },
+    "ingredients": [
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "farmersdelight:cabbage_roll_ingredients"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

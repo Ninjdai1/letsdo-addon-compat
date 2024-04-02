@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"aquaculturedelight:bass_stew"},"ingredients":[{"tag":"forge:raw_fishes/bass"},{"tag":"forge:crops/cabbage"},{"tag":"forge:mushrooms"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aquaculturedelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aquaculturedelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "aquaculturedelight:bass_stew"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_fishes/bass"
+        },
+        {
+            "tag": "forge:crops/cabbage"
+        },
+        {
+            "tag": "forge:mushrooms"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aquaculturedelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

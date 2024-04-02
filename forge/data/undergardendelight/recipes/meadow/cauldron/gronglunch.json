@@ -1,1 +1,39 @@
-{"type":"meadow:cooking","result":{"item":"undergardendelight:gronglunch"},"ingredients":[{"item":"minecraft:bowl"},{"item":"undergarden:gronglet"},{"item":"undergardendelight:shimmerpearl"},{"item":"undergarden:roasted_underbeans"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["undergardendelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"undergardendelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "undergardendelight:gronglunch"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "undergarden:gronglet"
+        },
+        {
+            "item": "undergardendelight:shimmerpearl"
+        },
+        {
+            "item": "undergarden:roasted_underbeans"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "undergardendelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

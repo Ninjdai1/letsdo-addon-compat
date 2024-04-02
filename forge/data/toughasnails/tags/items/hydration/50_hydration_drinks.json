@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "beachparty:refreshing_drink",
+            "required": false
+        },
+        {
+            "id": "candlelight:tomato_soup",
+            "required": false
+        }
+    ]
+}

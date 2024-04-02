@@ -1,1 +1,37 @@
-{"type":"bakery:pot_cooking","result":{"item":"frightsdelight:undead_kebab","count":1},"ingredients":[{"item":"minecraft:rotten_flesh"},{"item":"minecraft:phantom_membrane"},{"item":"minecraft:spider_eye"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["frightsdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"frightsdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "frightsdelight:undead_kebab",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "frightsdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "frightsdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"twilightdelight:mushgloom_meef_pasta"},"ingredients":[{"item":"twilightdelight:mushgloom_sauce"},{"tag":"twilightdelight:meef_raw"},{"item":"farmersdelight:raw_pasta"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["twilightdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"twilightdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "twilightdelight:mushgloom_meef_pasta"
+    },
+    "ingredients": [
+        {
+            "item": "twilightdelight:mushgloom_sauce"
+        },
+        {
+            "tag": "twilightdelight:meef_raw"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "twilightdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

@@ -1,1 +1,41 @@
-{"type":"meadow:cooking","result":{"item":"candlelight:chicken_teriyaki","count":4,"experience":0.4},"ingredients":[{"item":"minecraft:bowl"},{"item":"candlelight:veggie_plate"},{"item":"minecraft:chicken"},{"tag":"candlelight:crops/cabbage"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["candlelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"candlelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "candlelight:chicken_teriyaki",
+        "count": 4,
+        "experience": 0.4
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "candlelight:veggie_plate"
+        },
+        {
+            "item": "minecraft:chicken"
+        },
+        {
+            "tag": "candlelight:crops/cabbage"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "candlelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

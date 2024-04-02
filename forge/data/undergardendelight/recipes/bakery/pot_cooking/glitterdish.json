@@ -1,1 +1,36 @@
-{"type":"bakery:pot_cooking","result":{"item":"undergardendelight:glitterdish"},"ingredients":[{"item":"undergarden:glitterkelp"},{"item":"undergarden:ditchbulb"},{"item":"undergarden:blisterberry"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["undergardendelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"undergardendelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "undergardendelight:glitterdish"
+    },
+    "ingredients": [
+        {
+            "item": "undergarden:glitterkelp"
+        },
+        {
+            "item": "undergarden:ditchbulb"
+        },
+        {
+            "item": "undergarden:blisterberry"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "undergardendelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

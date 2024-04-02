@@ -1,1 +1,33 @@
-{"type":"meadow:cooking","result":{"item":"createfood:bar_of_white_chocolate"},"ingredients":[{"tag":"c:cacao_butter"},{"item":"minecraft:milk_bucket"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:bar_of_white_chocolate"
+    },
+    "ingredients": [
+        {
+            "tag": "c:cacao_butter"
+        },
+        {
+            "item": "minecraft:milk_bucket"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "createfood"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

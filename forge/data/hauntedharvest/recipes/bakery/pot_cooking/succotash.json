@@ -1,1 +1,39 @@
-{"type":"bakery:pot_cooking","result":{"item":"hauntedharvest:succotash"},"ingredients":[{"item":"minecraft:beetroot"},{"tag":"forge:crops/tomato"},{"tag":"forge:cooked_pork"},{"tag":"forge:crops/corn"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["hauntedharvest","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"hauntedharvest"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "hauntedharvest:succotash"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        },
+        {
+            "tag": "forge:cooked_pork"
+        },
+        {
+            "tag": "forge:crops/corn"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "hauntedharvest",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "hauntedharvest"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

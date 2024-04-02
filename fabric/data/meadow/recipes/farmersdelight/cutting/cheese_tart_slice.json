@@ -1,1 +1,36 @@
-{"type":"farmersdelight:cutting","ingredients":[{"item":"meadow:cheese_tart"}],"result":[{"item":"meadow:cheese_tart_slice","count":4}],"tool":{"tag":"letsdo_addon_compat:tools/knives"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["meadow","farmersdelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"meadow"},{"type":"forge:mod_loaded","modid":"farmersdelight"}]}
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "meadow:cheese_tart"
+        }
+    ],
+    "result": [
+        {
+            "item": "meadow:cheese_tart_slice",
+            "count": 4
+        }
+    ],
+    "tool": {
+        "tag": "letsdo_addon_compat:tools/knives"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "meadow",
+                "farmersdelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

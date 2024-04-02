@@ -1,1 +1,34 @@
-{"type":"bakery:pot_cooking","result":{"item":"candlelight:pasta_raw","count":4},"ingredients":[{"tag":"candlelight:dough"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["candlelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"candlelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "candlelight:pasta_raw",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "tag": "candlelight:dough"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "candlelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

@@ -1,1 +1,34 @@
-{"type":"meadow:cooking","result":{"item":"candlelight:pasta_raw","count":4},"ingredients":[{"item":"minecraft:bowl"},{"tag":"candlelight:dough"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["candlelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"candlelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "candlelight:pasta_raw",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "tag": "candlelight:dough"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "candlelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,1 +1,39 @@
-{"type":"bakery:pot_cooking","result":{"item":"sunflowerdelight:lilac_tincture"},"ingredients":[{"item":"sunflowerdelight:lilac_flower"},{"item":"minecraft:torchflower"},{"item":"minecraft:glow_berries"},{"item":"minecraft:glow_berries"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["sunflowerdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"sunflowerdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "sunflowerdelight:lilac_tincture"
+    },
+    "ingredients": [
+        {
+            "item": "sunflowerdelight:lilac_flower"
+        },
+        {
+            "item": "minecraft:torchflower"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "sunflowerdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "sunflowerdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

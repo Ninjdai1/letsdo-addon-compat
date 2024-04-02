@@ -1,1 +1,45 @@
-{"type":"candlelight:pot_cooking","result":{"item":"ubesdelight:arroz_caldo"},"ingredients":[{"tag":"c:raw_chicken"},{"tag":"c:grain"},{"tag":"c:vegetables/garlic"},{"tag":"c:vegetables/ginger"},{"tag":"c:crops/lemongrass"},{"item":"ubesdelight:fish_sauce_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["ubesdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"ubesdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "ubesdelight:arroz_caldo"
+    },
+    "ingredients": [
+        {
+            "tag": "c:raw_chicken"
+        },
+        {
+            "tag": "c:grain"
+        },
+        {
+            "tag": "c:vegetables/garlic"
+        },
+        {
+            "tag": "c:vegetables/ginger"
+        },
+        {
+            "tag": "c:crops/lemongrass"
+        },
+        {
+            "item": "ubesdelight:fish_sauce_bottle"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "ubesdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

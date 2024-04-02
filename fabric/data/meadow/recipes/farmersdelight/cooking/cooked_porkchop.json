@@ -1,1 +1,39 @@
-{"type":"farmersdelight:cooking","result":{"item":"minecraft:cooked_porkchop","count":4},"ingredients":[{"item":"minecraft:porkchop"},{"item":"meadow:alpine_salt"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["meadow","minecraft","farmersdelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"meadow"},{"type":"forge:mod_loaded","modid":"minecraft"},{"type":"forge:mod_loaded","modid":"farmersdelight"}]}
+{
+    "type": "farmersdelight:cooking",
+    "result": {
+        "item": "minecraft:cooked_porkchop",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:porkchop"
+        },
+        {
+            "item": "meadow:alpine_salt"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "meadow",
+                "minecraft",
+                "farmersdelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

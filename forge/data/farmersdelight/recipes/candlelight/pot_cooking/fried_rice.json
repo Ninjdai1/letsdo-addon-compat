@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"farmersdelight:fried_rice"},"ingredients":[{"tag":"forge:crops/rice"},{"tag":"forge:eggs"},{"item":"minecraft:carrot"},{"tag":"forge:crops/onion"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "farmersdelight:fried_rice"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:crops/rice"
+        },
+        {
+            "tag": "forge:eggs"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "forge:crops/onion"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

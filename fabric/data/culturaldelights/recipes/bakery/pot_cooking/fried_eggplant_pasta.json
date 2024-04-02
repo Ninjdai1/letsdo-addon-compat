@@ -1,1 +1,37 @@
-{"type":"bakery:pot_cooking","result":{"item":"culturaldelights:fried_eggplant_pasta","count":1},"ingredients":[{"tag":"culturaldelights:regular_eggplants"},{"item":"farmersdelight:raw_pasta"},{"item":"farmersdelight:tomato_sauce"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["culturaldelights","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"culturaldelights"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "culturaldelights:fried_eggplant_pasta",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "culturaldelights:regular_eggplants"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "culturaldelights",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "culturaldelights"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

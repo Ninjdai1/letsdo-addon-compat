@@ -1,1 +1,51 @@
-{"type":"candlelight:pot_cooking","result":{"item":"vegandelight:silken_tofu"},"ingredients":[[{"item":"vegandelight:soymilk_bucket"},{"item":"vegandelight:soymilk_bottle"}],[{"tag":"forge:salts"},{"tag":"forge:salt"}],[{"item":"minecraft:water_bucket"}]],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vegandelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vegandelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "vegandelight:silken_tofu"
+    },
+    "ingredients": [
+        [
+            {
+                "item": "vegandelight:soymilk_bucket"
+            },
+            {
+                "item": "vegandelight:soymilk_bottle"
+            }
+        ],
+        [
+            {
+                "tag": "forge:salts"
+            },
+            {
+                "tag": "forge:salt"
+            }
+        ],
+        [
+            {
+                "item": "minecraft:water_bucket"
+            }
+        ]
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vegandelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vegandelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

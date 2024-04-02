@@ -1,1 +1,42 @@
-{"type":"bakery:pot_cooking","result":{"item":"nethersdelight:grilled_strider"},"ingredients":[{"tag":"nethersdelight:raw_strider"},{"item":"minecraft:warped_fungus"},{"item":"minecraft:crimson_fungus"},{"item":"minecraft:warped_roots"},{"item":"minecraft:crimson_roots"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["nethersdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"nethersdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "nethersdelight:grilled_strider"
+    },
+    "ingredients": [
+        {
+            "tag": "nethersdelight:raw_strider"
+        },
+        {
+            "item": "minecraft:warped_fungus"
+        },
+        {
+            "item": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "minecraft:warped_roots"
+        },
+        {
+            "item": "minecraft:crimson_roots"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "nethersdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "nethersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

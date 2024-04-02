@@ -1,1 +1,45 @@
-{"type":"bakery:pot_cooking","result":{"item":"oceansdelight:guardian_soup"},"ingredients":[{"item":"oceansdelight:guardian"},{"tag":"forge:crops/onion"},{"tag":"forge:eggs"},{"tag":"forge:eggs"},{"tag":"forge:crops/tomato"},{"tag":"forge:crops/tomato"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["oceansdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"oceansdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "oceansdelight:guardian_soup"
+    },
+    "ingredients": [
+        {
+            "item": "oceansdelight:guardian"
+        },
+        {
+            "tag": "forge:crops/onion"
+        },
+        {
+            "tag": "forge:eggs"
+        },
+        {
+            "tag": "forge:eggs"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "oceansdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "oceansdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

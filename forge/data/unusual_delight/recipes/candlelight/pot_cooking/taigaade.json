@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"unusual_delight:taigaade"},"ingredients":[{"item":"minecraft:snowball"},{"item":"minecraft:sweet_berries"},{"item":"minecraft:ice"}],"container":{"item":"minecraft:glass_bottle"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["unusual_delight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"unusual_delight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "unusual_delight:taigaade"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:snowball"
+        },
+        {
+            "item": "minecraft:sweet_berries"
+        },
+        {
+            "item": "minecraft:ice"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "unusual_delight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

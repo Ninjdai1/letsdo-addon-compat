@@ -1,1 +1,42 @@
-{"type":"bakery:pot_cooking","result":{"item":"twilightdelight:glow_venison_rib_with_pasta"},"ingredients":[{"item":"twilightdelight:glowstew"},{"tag":"twilightdelight:vension_raw"},{"item":"farmersdelight:raw_pasta"},{"item":"twilightforest:liveroot"},{"item":"minecraft:beetroot"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["twilightdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"twilightdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "twilightdelight:glow_venison_rib_with_pasta"
+    },
+    "ingredients": [
+        {
+            "item": "twilightdelight:glowstew"
+        },
+        {
+            "tag": "twilightdelight:vension_raw"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "twilightforest:liveroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "twilightdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

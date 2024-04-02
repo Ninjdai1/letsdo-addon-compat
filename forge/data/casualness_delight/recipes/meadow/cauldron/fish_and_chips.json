@@ -1,1 +1,42 @@
-{"type":"meadow:cooking","result":{"item":"casualness_delight:fish_and_chips"},"ingredients":[{"item":"minecraft:bowl"},{"item":"farmersdelight:cod_slice"},{"tag":"forge:vegetables/potato"},{"tag":"forge:vegetables/potato"},{"tag":"forge:dough"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["casualness_delight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"casualness_delight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "casualness_delight:fish_and_chips"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "farmersdelight:cod_slice"
+        },
+        {
+            "tag": "forge:vegetables/potato"
+        },
+        {
+            "tag": "forge:vegetables/potato"
+        },
+        {
+            "tag": "forge:dough"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "casualness_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"type":"meadow:cooking","result":{"item":"youkaishomecoming:tutu_congee"},"ingredients":[{"tag":"forge:grain/rice"},{"item":"minecraft:bamboo"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:tutu_congee"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:grain/rice"
+        },
+        {
+            "item": "minecraft:bamboo"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

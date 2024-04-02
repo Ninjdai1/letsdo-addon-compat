@@ -1,0 +1,53 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "beachparty:coconut_cocktail",
+            "required": false
+        },
+        {
+            "id": "beachparty:sweetberries_cocktail",
+            "required": false
+        },
+        {
+            "id": "beachparty:cocoa_cocktail",
+            "required": false
+        },
+        {
+            "id": "beachparty:pumpkin_cocktail",
+            "required": false
+        },
+        {
+            "id": "beachparty:melon_cocktail",
+            "required": false
+        },
+        {
+            "id": "beachparty:honey_cocktail",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:armor_flask",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:armor_flask_big",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:damage_flask",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:damage_flask_big",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:feral_flask",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:feral_flask_big",
+            "required": false
+        }
+    ]
+}

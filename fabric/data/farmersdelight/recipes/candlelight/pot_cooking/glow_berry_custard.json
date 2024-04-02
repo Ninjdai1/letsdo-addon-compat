@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"farmersdelight:glow_berry_custard"},"ingredients":[{"item":"minecraft:glow_berries"},{"tag":"c:milk"},{"tag":"c:eggs"},{"item":"minecraft:sugar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "farmersdelight:glow_berry_custard"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

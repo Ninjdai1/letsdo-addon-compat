@@ -1,1 +1,38 @@
-{"type":"create:mixing","results":[{"item":"vinery:jo_special_mixture"}],"ingredients":[{"tag":"vinery:grapejuice_red"},{"tag":"vinery:grapejuice_white"},{"item":"minecraft:redstone"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vinery","create"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vinery"},{"type":"forge:mod_loaded","modid":"create"}]}
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:jo_special_mixture"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "vinery:grapejuice_red"
+        },
+        {
+            "tag": "vinery:grapejuice_white"
+        },
+        {
+            "item": "minecraft:redstone"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ]
+}

@@ -1,1 +1,45 @@
-{"type":"bakery:pot_cooking","result":{"item":"casualness_delight:beef_noodles"},"ingredients":[{"item":"minecraft:beef"},{"item":"minecraft:beef"},{"tag":"forge:pasta"},{"tag":"forge:vegetables/carrot"},{"tag":"forge:crops/cabbage"},{"tag":"forge:vegetables/onion"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["casualness_delight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"casualness_delight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "casualness_delight:beef_noodles"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:beef"
+        },
+        {
+            "item": "minecraft:beef"
+        },
+        {
+            "tag": "forge:pasta"
+        },
+        {
+            "tag": "forge:vegetables/carrot"
+        },
+        {
+            "tag": "forge:crops/cabbage"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "casualness_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

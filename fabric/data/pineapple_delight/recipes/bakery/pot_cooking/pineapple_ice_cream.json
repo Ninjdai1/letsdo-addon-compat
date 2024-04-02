@@ -1,1 +1,42 @@
-{"type":"bakery:pot_cooking","result":{"item":"pineapple_delight:pineapple_ice_cream"},"ingredients":[{"item":"pineapple_delight:pineapple_side"},{"item":"pineapple_delight:pineapple_side"},{"tag":"c:milk"},{"item":"minecraft:sugar"},{"item":"minecraft:snowball"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["pineapple_delight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"pineapple_delight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "pineapple_delight:pineapple_ice_cream"
+    },
+    "ingredients": [
+        {
+            "item": "pineapple_delight:pineapple_side"
+        },
+        {
+            "item": "pineapple_delight:pineapple_side"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:snowball"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "pineapple_delight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "pineapple_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

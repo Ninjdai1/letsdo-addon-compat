@@ -1,1 +1,33 @@
-{"type":"bakery:pot_cooking","result":{"item":"delightful:matcha"},"ingredients":[{"tag":"forge:tea_leaves/green"},{"tag":"forge:tea_leaves/green"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["delightful","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"delightful"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "delightful:matcha"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:tea_leaves/green"
+        },
+        {
+            "tag": "forge:tea_leaves/green"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "delightful",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

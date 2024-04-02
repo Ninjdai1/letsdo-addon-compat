@@ -1,1 +1,40 @@
-{"type":"meadow:cooking","result":{"item":"candlelight:tomato_soup","count":1},"ingredients":[{"item":"minecraft:bowl"},{"tag":"candlelight:crops/tomato"},{"item":"minecraft:sugar"},{"tag":"candlelight:all_effects"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["candlelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"candlelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "candlelight:tomato_soup",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "tag": "candlelight:crops/tomato"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "tag": "candlelight:all_effects"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "candlelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

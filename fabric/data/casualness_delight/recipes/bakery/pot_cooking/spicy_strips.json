@@ -1,1 +1,40 @@
-{"type":"bakery:pot_cooking","result":{"count":1,"item":"casualness_delight:spicy_strips"},"ingredients":[{"item":"minecraft:rotten_flesh"},{"item":"minecraft:rotten_flesh"},{"tag":"c:dough"},{"tag":"c:vegetables/onion"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["casualness_delight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"casualness_delight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "count": 1,
+        "item": "casualness_delight:spicy_strips"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "tag": "c:dough"
+        },
+        {
+            "tag": "c:vegetables/onion"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "casualness_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

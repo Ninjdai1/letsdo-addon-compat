@@ -1,1 +1,39 @@
-{"type":"meadow:cooking","result":{"item":"youkaishomecoming:koishi_mousse"},"ingredients":[{"item":"youkaishomecoming:tofu"},{"tag":"forge:vegetables/onion"},{"item":"minecraft:honey_bottle"},{"item":"youkaishomecoming:butter"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:koishi_mousse"
+    },
+    "ingredients": [
+        {
+            "item": "youkaishomecoming:tofu"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "item": "youkaishomecoming:butter"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,1 +1,39 @@
-{"type":"meadow:cooking","result":{"item":"expandeddelight:asparagus_soup"},"ingredients":[{"item":"minecraft:bowl"},{"item":"minecraft:water_bucket"},{"tag":"c:crops/asparagus"},{"tag":"c:salad_ingredients"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["expandeddelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"expandeddelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "expandeddelight:asparagus_soup"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "tag": "c:crops/asparagus"
+        },
+        {
+            "tag": "c:salad_ingredients"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "expandeddelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "expandeddelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

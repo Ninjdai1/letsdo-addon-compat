@@ -1,1 +1,44 @@
-{"type":"meadow:cooking","result":{"item":"expandeddelight:asparagus_and_bacon_cheesy"},"ingredients":[{"item":"minecraft:bowl"},[{"tag":"c:raw_pork"}],{"tag":"c:crops/asparagus"},{"tag":"c:crops/onion"},{"item":"expandeddelight:cheese_slice"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["expandeddelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"expandeddelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "expandeddelight:asparagus_and_bacon_cheesy"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        [
+            {
+                "tag": "c:raw_pork"
+            }
+        ],
+        {
+            "tag": "c:crops/asparagus"
+        },
+        {
+            "tag": "c:crops/onion"
+        },
+        {
+            "item": "expandeddelight:cheese_slice"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "expandeddelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "expandeddelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"alexsdelight:lobster_pasta"},"ingredients":[{"item":"alexsmobs:lobster_tail"},{"item":"farmersdelight:raw_pasta"},{"item":"farmersdelight:tomato_sauce"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["alexsdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"alexsdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "alexsdelight:lobster_pasta"
+    },
+    "ingredients": [
+        {
+            "item": "alexsmobs:lobster_tail"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "alexsdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "alexsdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

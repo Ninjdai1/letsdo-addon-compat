@@ -1,1 +1,40 @@
-{"type":"meadow:cooking","result":{"item":"frightsdelight:undead_kebab","count":1},"ingredients":[{"item":"minecraft:stick"},{"item":"minecraft:rotten_flesh"},{"item":"minecraft:phantom_membrane"},{"item":"minecraft:spider_eye"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["frightsdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"frightsdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "frightsdelight:undead_kebab",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "frightsdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "frightsdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

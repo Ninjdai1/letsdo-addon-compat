@@ -1,1 +1,42 @@
-{"type":"bakery:pot_cooking","result":{"count":3,"item":"aether_redux:blue_swet_jelly"},"ingredients":[{"item":"aether:swet_ball"},{"item":"aether:swet_ball"},{"item":"minecraft:sugar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aetherdelight","aether_redux","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aetherdelight"},{"type":"forge:mod_loaded","modid":"aether_redux"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "count": 3,
+        "item": "aether_redux:blue_swet_jelly"
+    },
+    "ingredients": [
+        {
+            "item": "aether:swet_ball"
+        },
+        {
+            "item": "aether:swet_ball"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aetherdelight",
+                "aether_redux",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aether_redux"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

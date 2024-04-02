@@ -1,20 +1,20 @@
 {
-    "1": {
-        "replace": false,
-        "items": [
-            "candlelight:mozzarella"
-        ]
-    },
-    "4": {
-        "replace": false,
-        "items": [
-            "candlelight:mushroom_soup"
-        ]
-    },
-    "5": {
-        "replace": false,
-        "items": [
-            "candlelight:tomato_soup"
-        ]
-    }
+    "1": [
+        {
+            "id": "candlelight:mozzarella",
+            "required": false
+        }
+    ],
+    "4": [
+        {
+            "id": "candlelight:mushroom_soup",
+            "required": false
+        }
+    ],
+    "5": [
+        {
+            "id": "candlelight:tomato_soup",
+            "required": false
+        }
+    ]
 }

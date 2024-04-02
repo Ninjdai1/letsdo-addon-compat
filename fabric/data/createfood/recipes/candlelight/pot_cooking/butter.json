@@ -1,1 +1,37 @@
-{"type":"candlelight:pot_cooking","result":{"item":"createfood:butter"},"ingredients":[{"tag":"c:milk"},{"tag":"c:salt"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["createfood","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"createfood"},{"type":"forge:mod_loaded","modid":"candlelight"}]}","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "createfood:butter"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk"
+        },
+        {
+            "tag": "c:salt"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "createfood"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}ded",
+            "modid": "candlelight"
+        }
+    ]
+}

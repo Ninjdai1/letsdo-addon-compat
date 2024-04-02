@@ -1,1 +1,39 @@
-{"type":"bakery:pot_cooking","result":{"item":"undergardendelight:mogsteak"},"ingredients":[{"tag":"undergardendelight:raw_dweller_meat"},{"item":"undergarden:mogmoss"},{"item":"undergarden:blisterberry"},{"tag":"forge:salad_ingredients"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["undergardendelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"undergardendelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "undergardendelight:mogsteak"
+    },
+    "ingredients": [
+        {
+            "tag": "undergardendelight:raw_dweller_meat"
+        },
+        {
+            "item": "undergarden:mogmoss"
+        },
+        {
+            "item": "undergarden:blisterberry"
+        },
+        {
+            "tag": "forge:salad_ingredients"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "undergardendelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

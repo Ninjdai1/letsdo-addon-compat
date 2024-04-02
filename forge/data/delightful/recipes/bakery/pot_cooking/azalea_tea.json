@@ -1,1 +1,39 @@
-{"type":"bakery:pot_cooking","result":{"item":"delightful:azalea_tea"},"ingredients":[{"type":"forge:nbt","count":1,"item":"minecraft:potion","nbt":"{Potion:\"minecraft:water\"}"},{"item":"delightful:green_tea_leaf"},{"item":"ecologics:azalea_flower"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["delightful","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"delightful"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "delightful:azalea_tea"
+    },
+    "ingredients": [
+        {
+            "type": "forge:nbt",
+            "count": 1,
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:water\"}"
+        },
+        {
+            "item": "delightful:green_tea_leaf"
+        },
+        {
+            "item": "ecologics:azalea_flower"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "delightful",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

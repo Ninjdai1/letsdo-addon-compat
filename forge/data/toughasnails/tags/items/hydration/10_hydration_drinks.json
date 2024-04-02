@@ -1,0 +1,45 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "beachparty:coconut_open",
+            "required": false
+        },
+        {
+            "id": "beachparty:sweetberry_milkshake",
+            "required": false
+        },
+        {
+            "id": "beachparty:coconut_milkshake",
+            "required": false
+        },
+        {
+            "id": "beachparty:chocolate_milkshake",
+            "required": false
+        },
+        {
+            "id": "brewery:whiskey_jojannik",
+            "required": false
+        },
+        {
+            "id": "brewery:whiskey_lilitusinglemalt",
+            "required": false
+        },
+        {
+            "id": "brewery:whiskey_cristelwalker",
+            "required": false
+        },
+        {
+            "id": "brewery:whiskey_carrasconlabel",
+            "required": false
+        },
+        {
+            "id": "brewery:whiskey_magoallan",
+            "required": false
+        },
+        {
+            "id": "candlelight:mozzarella",
+            "required": false
+        }
+    ]
+}

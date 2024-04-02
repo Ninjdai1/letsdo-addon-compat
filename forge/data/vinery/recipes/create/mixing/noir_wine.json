@@ -1,1 +1,32 @@
-{"type":"create:mixing","results":[{"item":"vinery:noir_wine"}],"ingredients":[{"item":"vinery:taiga_red_grapejuice_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vinery","create"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vinery"},{"type":"forge:mod_loaded","modid":"create"}]}
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:noir_wine"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "vinery:taiga_red_grapejuice_bottle"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ]
+}

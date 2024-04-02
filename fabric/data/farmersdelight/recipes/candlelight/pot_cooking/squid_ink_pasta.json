@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"farmersdelight:squid_ink_pasta"},"ingredients":[{"tag":"c:raw_fishes"},{"tag":"c:pasta"},{"tag":"c:crops/tomato"},{"item":"minecraft:ink_sac"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "farmersdelight:squid_ink_pasta"
+    },
+    "ingredients": [
+        {
+            "tag": "c:raw_fishes"
+        },
+        {
+            "tag": "c:pasta"
+        },
+        {
+            "tag": "c:crops/tomato"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

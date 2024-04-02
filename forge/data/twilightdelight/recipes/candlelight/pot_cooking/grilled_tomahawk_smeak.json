@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"twilightdelight:grilled_tomahawk_smeak"},"ingredients":[{"item":"twilightdelight:raw_tomahawk_smeak"},{"item":"twilightdelight:mushgloom_sauce"},{"item":"farmersdelight:milk_bottle"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["twilightdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"twilightdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "twilightdelight:grilled_tomahawk_smeak"
+    },
+    "ingredients": [
+        {
+            "item": "twilightdelight:raw_tomahawk_smeak"
+        },
+        {
+            "item": "twilightdelight:mushgloom_sauce"
+        },
+        {
+            "item": "farmersdelight:milk_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "twilightdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

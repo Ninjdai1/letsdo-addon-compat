@@ -1,1 +1,30 @@
-{"type":"meadow:cooking","result":{"item":"ubesdelight:milk_powder"},"ingredients":[{"tag":"c:milk/milk_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["ubesdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"ubesdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "ubesdelight:milk_powder"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk/milk_bottle"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "ubesdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

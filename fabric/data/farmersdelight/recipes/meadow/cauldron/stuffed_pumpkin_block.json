@@ -1,1 +1,48 @@
-{"type":"meadow:cooking","result":{"item":"farmersdelight:stuffed_pumpkin_block"},"ingredients":[{"item":"minecraft:pumpkin"},{"tag":"c:crops/rice"},{"tag":"c:crops/onion"},{"item":"minecraft:brown_mushroom"},{"item":"minecraft:potato"},{"tag":"c:berries"},{"tag":"c:vegetables"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["farmersdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"farmersdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farmersdelight:stuffed_pumpkin_block"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:pumpkin"
+        },
+        {
+            "tag": "c:crops/rice"
+        },
+        {
+            "tag": "c:crops/onion"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "tag": "c:berries"
+        },
+        {
+            "tag": "c:vegetables"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

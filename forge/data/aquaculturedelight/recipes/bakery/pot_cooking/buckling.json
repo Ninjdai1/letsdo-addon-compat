@@ -1,1 +1,36 @@
-{"type":"bakery:pot_cooking","result":{"item":"aquaculturedelight:buckling"},"ingredients":[{"tag":"forge:raw_fishes/herring"},{"tag":"forge:crops/cabbage"},{"tag":"forge:eggs"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aquaculturedelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aquaculturedelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "aquaculturedelight:buckling"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_fishes/herring"
+        },
+        {
+            "tag": "forge:crops/cabbage"
+        },
+        {
+            "tag": "forge:eggs"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aquaculturedelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

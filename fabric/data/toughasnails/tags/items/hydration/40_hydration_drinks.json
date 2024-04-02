@@ -1,0 +1,53 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "brewery:beer_wheat",
+            "required": false
+        },
+        {
+            "id": "brewery:beer_barley",
+            "required": false
+        },
+        {
+            "id": "brewery:beer_hops",
+            "required": false
+        },
+        {
+            "id": "brewery:beer_haley",
+            "required": false
+        },
+        {
+            "id": "candlelight:mushroom_soup",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:green_tea",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:black_tea",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:hibiscus_tea",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:lavender_tea",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:yerba_mate_tea",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:rooibos_tea",
+            "required": false
+        },
+        {
+            "id": "herbalbrews:oolong_tea",
+            "required": false
+        }
+    ]
+}

@@ -1,1 +1,42 @@
-{"type":"meadow:cooking","result":{"item":"aetherdelight:quail_stew"},"ingredients":[{"item":"minecraft:bowl"},{"item":"deep_aether:raw_quail"},{"item":"aether:blue_berry"},{"item":"aether:white_flower"},{"item":"aether:skyroot_sapling"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["aetherdelight","meadow"]}],"conditions":[{"type":"forge:mod_loaded","modid":"aetherdelight"},{"type":"forge:mod_loaded","modid":"meadow"}]}
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "aetherdelight:quail_stew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "deep_aether:raw_quail"
+        },
+        {
+            "item": "aether:blue_berry"
+        },
+        {
+            "item": "aether:white_flower"
+        },
+        {
+            "item": "aether:skyroot_sapling"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "aetherdelight",
+                "meadow"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

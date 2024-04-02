@@ -1,1 +1,36 @@
-{"type":"bakery:pot_cooking","result":{"item":"alexsdelight:acacia_blossom_soup"},"ingredients":[{"item":"farmersdelight:onion"},{"item":"farmersdelight:raw_pasta"},{"item":"alexsmobs:acacia_blossom"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["alexsdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"alexsdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "alexsdelight:acacia_blossom_soup"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "alexsmobs:acacia_blossom"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "alexsdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "alexsdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

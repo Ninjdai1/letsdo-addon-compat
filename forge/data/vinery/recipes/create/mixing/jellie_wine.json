@@ -1,1 +1,41 @@
-{"type":"create:mixing","results":[{"item":"vinery:jellie_wine"}],"ingredients":[{"item":"vinery:apple_wine"},{"item":"vinery:chorus_wine"},{"item":"vinery:chenet_wine"},{"item":"vinery:bolvar_wine"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["vinery","create"]}],"conditions":[{"type":"forge:mod_loaded","modid":"vinery"},{"type":"forge:mod_loaded","modid":"create"}]}
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:jellie_wine"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "vinery:apple_wine"
+        },
+        {
+            "item": "vinery:chorus_wine"
+        },
+        {
+            "item": "vinery:chenet_wine"
+        },
+        {
+            "item": "vinery:bolvar_wine"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ]
+}

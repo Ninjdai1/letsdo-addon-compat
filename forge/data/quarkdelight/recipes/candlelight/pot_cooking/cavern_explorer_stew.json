@@ -1,1 +1,39 @@
-{"type":"candlelight:pot_cooking","result":{"item":"quarkdelight:cavern_explorer_stew"},"ingredients":[{"item":"quark:glow_shroom"},{"item":"minecraft:glow_ink_sac"},{"tag":"forge:vegetables"}],"container":{"item":"minecraft:bowl"},"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["quarkdelight","candlelight"]}],"conditions":[{"type":"forge:mod_loaded","modid":"quarkdelight"},{"type":"forge:mod_loaded","modid":"candlelight"}]}
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "quarkdelight:cavern_explorer_stew"
+    },
+    "ingredients": [
+        {
+            "item": "quark:glow_shroom"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "tag": "forge:vegetables"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "quarkdelight",
+                "candlelight"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "quarkdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

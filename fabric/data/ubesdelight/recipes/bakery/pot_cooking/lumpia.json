@@ -1,1 +1,39 @@
-{"type":"bakery:pot_cooking","result":{"item":"ubesdelight:lumpia"},"ingredients":[{"tag":"farmersdelight:cabbage_roll_ingredients"},{"tag":"c:salad_ingredients"},{"tag":"c:crops/lemongrass"},{"tag":"c:food_wrappers/lumpia_wrapper"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["ubesdelight","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"ubesdelight"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "ubesdelight:lumpia"
+    },
+    "ingredients": [
+        {
+            "tag": "farmersdelight:cabbage_roll_ingredients"
+        },
+        {
+            "tag": "c:salad_ingredients"
+        },
+        {
+            "tag": "c:crops/lemongrass"
+        },
+        {
+            "tag": "c:food_wrappers/lumpia_wrapper"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "ubesdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

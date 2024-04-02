@@ -1,45 +1,156 @@
 {
-    "3": {
-        "replace": false,
-        "items": [
-            "vinery:chenet_wine",
-            "vinery:lilitu_wine",
-            "vinery:noir_wine",
-            "vinery:bolvar_wine",
-            "vinery:stal_wine",
-            "vinery:kelp_cider",
-            "vinery:bottle_mojang_noir",
-            "vinery:cherry_wine",
-            "vinery:red_wine",
-            "vinery:creepers_crush",
-            "vinery:cristel_wine",
-            "vinery:jellie_wine",
-            "vinery:jo_special_mixture",
-            "vinery:villagers_fright",
-            "vinery:clark_wine",
-            "vinery:mellohi_wine",
-            "vinery:strad_wine",
-            "vinery:eiswein",
-            "vinery:strad_wine",
-            "vinery:aegis_wine",
-            "vinery:solaris_wine",
-            "vinery:chorus_wine",
-            "vinery:knulp_wine",
-            "vinery:glowing_wine",
-            "vinery:creepers_crush",
-            "vinery:cristel_wine",
-            "vinery:jellie_wine",
-            "vinery:jo_special_mixture",
-            "vinery:villagers_fright",
-            "vinery:cherry_wine",
-            "vinery:magnetic_wine",
-            "vinery:chorus_wine",
-            "vinery:apple_cider",
-            "vinery:kelp_cider",
-            "vinery:solaris_wine",
-            "vinery:jellie_wine",
-            "vinery:aegis_wine",
-            "vinery:apple_wine"
-        ]
-    }
+    "3": [
+        {
+            "id": "vinery:chenet_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:lilitu_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:noir_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:bolvar_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:stal_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:kelp_cider",
+            "required": false
+        },
+        {
+            "id": "vinery:bottle_mojang_noir",
+            "required": false
+        },
+        {
+            "id": "vinery:cherry_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:red_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:creepers_crush",
+            "required": false
+        },
+        {
+            "id": "vinery:cristel_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:jellie_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:jo_special_mixture",
+            "required": false
+        },
+        {
+            "id": "vinery:villagers_fright",
+            "required": false
+        },
+        {
+            "id": "vinery:clark_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:mellohi_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:strad_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:eiswein",
+            "required": false
+        },
+        {
+            "id": "vinery:strad_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:aegis_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:solaris_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:chorus_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:knulp_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:glowing_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:creepers_crush",
+            "required": false
+        },
+        {
+            "id": "vinery:cristel_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:jellie_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:jo_special_mixture",
+            "required": false
+        },
+        {
+            "id": "vinery:villagers_fright",
+            "required": false
+        },
+        {
+            "id": "vinery:cherry_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:magnetic_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:chorus_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:apple_cider",
+            "required": false
+        },
+        {
+            "id": "vinery:kelp_cider",
+            "required": false
+        },
+        {
+            "id": "vinery:solaris_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:jellie_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:aegis_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:apple_wine",
+            "required": false
+        }
+    ]
 }

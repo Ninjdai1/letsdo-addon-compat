@@ -1,1 +1,45 @@
-{"type":"bakery:pot_cooking","result":{"item":"youkaishomecoming:mitarashi_dango"},"ingredients":[{"tag":"youkaishomecoming:dango"},{"tag":"youkaishomecoming:dango"},{"tag":"youkaishomecoming:dango"},{"item":"youkaishomecoming:soybean"},{"item":"youkaishomecoming:soy_sauce_bottle"},{"item":"minecraft:sugar"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:mitarashi_dango"
+    },
+    "ingredients": [
+        {
+            "tag": "youkaishomecoming:dango"
+        },
+        {
+            "tag": "youkaishomecoming:dango"
+        },
+        {
+            "tag": "youkaishomecoming:dango"
+        },
+        {
+            "item": "youkaishomecoming:soybean"
+        },
+        {
+            "item": "youkaishomecoming:soy_sauce_bottle"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

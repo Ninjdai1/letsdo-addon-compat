@@ -1,1 +1,45 @@
-{"type":"bakery:pot_cooking","result":{"item":"youkaishomecoming:imitation_bear_paw"},"ingredients":[{"item":"minecraft:pufferfish"},{"item":"minecraft:bamboo"},{"tag":"forge:raw_pork"},{"tag":"forge:vegetables/onion"},{"tag":"youkaishomecoming:raw_eel"},{"item":"youkaishomecoming:soy_sauce_bottle"}],"fabric:load_conditions":[{"condition":"fabric:all_mods_loaded","values":["youkaishomecoming","bakery"]}],"conditions":[{"type":"forge:mod_loaded","modid":"youkaishomecoming"},{"type":"forge:mod_loaded","modid":"bakery"}]}
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:imitation_bear_paw"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:pufferfish"
+        },
+        {
+            "item": "minecraft:bamboo"
+        },
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        },
+        {
+            "tag": "youkaishomecoming:raw_eel"
+        },
+        {
+            "item": "youkaishomecoming:soy_sauce_bottle"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "youkaishomecoming",
+                "bakery"
+            ]
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}
