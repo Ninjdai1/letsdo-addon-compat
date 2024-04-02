@@ -28,6 +28,7 @@ Currently supported mods:
 * Pineapple Delight
 * Quark Delight
 * Rats (meadow cheese)
+* Tough as nails
 * Twilight Delight
 * Ube's Delight
 * Undergarden Delight
