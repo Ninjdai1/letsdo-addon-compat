@@ -15,11 +15,11 @@
         },
         {
             "tag": "c:cacao_nibs"
-        },
-        {
-            "item": "minecraft:bucket"
         }
     ],
+    "container": {
+        "item": "minecraft:bucket"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
@@ -39,4 +39,4 @@
             "modid": "candlelight"
         }
     ]
-}}
+}

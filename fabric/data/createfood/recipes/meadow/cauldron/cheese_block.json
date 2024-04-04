@@ -5,10 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
-        },
-        {
-            "tag": "c:milk_buckets"
+            "item": "minecraft:milk_bucket"
         },
         {
             "tag": "c:salt"

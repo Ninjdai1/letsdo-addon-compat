@@ -6,9 +6,6 @@
     "ingredients": [
         {
             "tag": "c:dark_chocolate_bottle"
-        },
-        {
-            "item": "minecraft:glass_bottle"
         }
     ],
     "fabric:load_conditions": [
