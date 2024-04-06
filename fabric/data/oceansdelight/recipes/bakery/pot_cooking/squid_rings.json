@@ -11,23 +11,7 @@
             "tag": "c:dough"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "oceansdelight",
-                "bakery"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "oceansdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

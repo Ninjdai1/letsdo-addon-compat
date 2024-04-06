@@ -21,23 +21,7 @@
             "item": "minecraft:milk_bucket"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "ubesdelight",
-                "bakery"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ubesdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

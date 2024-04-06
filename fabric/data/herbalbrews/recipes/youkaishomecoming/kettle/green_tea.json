@@ -10,24 +10,5 @@
         {
             "item": "herbalbrews:dried_green_tea"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "herbalbrews",
-                "youkaishomecoming"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "herbalbrews"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "youkaishomecoming"
-        }
     ]
 }

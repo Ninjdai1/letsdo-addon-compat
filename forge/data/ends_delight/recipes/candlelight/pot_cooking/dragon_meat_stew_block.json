@@ -25,24 +25,5 @@
     ],
     "container": {
         "item": "ends_delight:half_dragon_egg_shell"
-    },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "ends_delight",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ends_delight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    }
 }

@@ -19,24 +19,5 @@
         {
             "item": "minecraft:sugar"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "expandeddelight",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "expandeddelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
 }

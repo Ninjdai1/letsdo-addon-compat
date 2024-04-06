@@ -13,24 +13,5 @@
         {
             "tag": "c:crops/onion"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "farmersdelight",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "farmersdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
 }

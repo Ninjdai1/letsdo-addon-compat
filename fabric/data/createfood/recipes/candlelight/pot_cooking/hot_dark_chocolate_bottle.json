@@ -8,23 +8,12 @@
             "tag": "c:dark_chocolate_bottle"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "createfood",
-                "candlelight"
-            ]
-        }
+    "container": {
+        "item": "minecraft:air"
+    }
+}
     ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "createfood"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

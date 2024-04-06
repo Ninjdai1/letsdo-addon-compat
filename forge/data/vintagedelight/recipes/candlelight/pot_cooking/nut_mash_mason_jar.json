@@ -25,24 +25,5 @@
     ],
     "container": {
         "item": "vintagedelight:mason_jar"
-    },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "vintagedelight",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "vintagedelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    }
 }

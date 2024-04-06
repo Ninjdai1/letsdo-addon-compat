@@ -19,24 +19,5 @@
         {
             "item": "minecraft:glow_berries"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "sunflowerdelight",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "sunflowerdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
 }

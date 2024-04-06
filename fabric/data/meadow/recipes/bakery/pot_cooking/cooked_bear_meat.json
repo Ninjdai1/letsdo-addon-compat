@@ -15,23 +15,7 @@
             "tag": "meadow:water_bottles"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "meadow",
-                "bakery"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

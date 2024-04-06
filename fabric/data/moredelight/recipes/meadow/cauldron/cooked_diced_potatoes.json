@@ -25,24 +25,5 @@
         {
             "item": "moredelight:diced_potatoes"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "moredelight",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "moredelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
 }

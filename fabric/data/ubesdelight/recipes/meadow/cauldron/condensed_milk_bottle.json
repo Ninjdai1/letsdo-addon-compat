@@ -20,24 +20,5 @@
         {
             "item": "minecraft:milk_bucket"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "ubesdelight",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ubesdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
 }

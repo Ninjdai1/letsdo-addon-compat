@@ -23,23 +23,7 @@
             "item": "farmersdelight:onion"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "crabbersdelight",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "crabbersdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

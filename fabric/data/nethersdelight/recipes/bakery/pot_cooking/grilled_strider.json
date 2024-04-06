@@ -20,23 +20,7 @@
             "item": "minecraft:crimson_roots"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "nethersdelight",
-                "bakery"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "nethersdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

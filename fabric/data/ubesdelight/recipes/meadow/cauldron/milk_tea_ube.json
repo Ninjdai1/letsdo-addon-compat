@@ -13,38 +13,17 @@
         {
             "item": "ubesdelight:condensed_milk_bottle"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "ubesdelight",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ubesdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
-}eadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ubesdelight"
+}e"
         },
         {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
+            "item": "ubesdelight:condensed_milk_bottle"
+        },
+        {
+            "item": "ubesdelight:condensed_milk_bottle"
+        },
+        {
+            "item": "ubesdelight:condensed_milk_bottle"
         }
     ]
 }

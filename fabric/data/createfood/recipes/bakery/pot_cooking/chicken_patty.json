@@ -15,37 +15,17 @@
             "tag": "c:toast"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "createfood",
-                "bakery"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "createfood"
+    "container": {
+        "item": "minecraft:air"
+    }
+}      {
+            "tag": "c:unbreaded_chicken_patty"
         },
         {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
-}     "bakery"
-            ]
+            "tag": "c:unbreaded_chicken_patty"
         }
     ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "createfood"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
+    "container": {
+        "item": "minecraft:bowl"
+    }
 }

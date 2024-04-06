@@ -55,24 +55,5 @@
                 "item": "vinery:jungle_grapes_red"
             }
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "vinery",
-                "botanypots"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "vinery"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "botanypots"
-        }
     ]
 }

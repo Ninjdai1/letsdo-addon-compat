@@ -17,31 +17,13 @@
             "tag": "forge:tea_leaves/green"
         },
         {
-            "tag": "forge:crops/ginger"
+            "tag": "forge:salad_ingredients/cabbage"
         },
         {
             "tag": "forge:crops/onion"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "delightful",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "delightful"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
-}    }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

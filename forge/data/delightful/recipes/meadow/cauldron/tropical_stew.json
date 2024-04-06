@@ -16,29 +16,5 @@
         {
             "tag": "forge:crops/onion"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "delightful",
-                "ecologics",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "delightful"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ecologics"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
 }

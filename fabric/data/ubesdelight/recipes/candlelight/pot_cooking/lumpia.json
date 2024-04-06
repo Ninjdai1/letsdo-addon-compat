@@ -17,23 +17,7 @@
             "tag": "c:food_wrappers/lumpia_wrapper"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "ubesdelight",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ubesdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

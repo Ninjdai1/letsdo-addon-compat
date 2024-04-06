@@ -21,28 +21,7 @@
             "tag": "meadow:cheese"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "meadow",
-                "minecraft",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "minecraft"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

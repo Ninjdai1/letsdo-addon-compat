@@ -20,24 +20,5 @@
     ],
     "container": {
         "item": "minecraft:bowl"
-    },
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "candlelight",
-                "farmersdelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "farmersdelight"
-        }
-    ]
+    }
 }

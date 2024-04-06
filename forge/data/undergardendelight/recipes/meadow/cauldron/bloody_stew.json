@@ -16,29 +16,5 @@
         {
             "item": "undergarden:blood_mushroom"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "undergardendelight",
-                "undergarden",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "undergardendelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "undergarden"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
 }

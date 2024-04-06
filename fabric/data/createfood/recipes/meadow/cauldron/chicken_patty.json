@@ -17,32 +17,14 @@
         {
             "tag": "c:toast"
         }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "createfood",
-                "meadow"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "createfood"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
-        }
     ]
-}        "type": "forge:mod_loaded",
-            "modid": "createfood"
+}  "tag": "c:toast_slice"
         },
         {
-            "type": "forge:mod_loaded",
-            "modid": "meadow"
+            "tag": "c:unbreaded_chicken_patty"
+        },
+        {
+            "tag": "c:unbreaded_chicken_patty"
         }
     ]
 }

@@ -14,37 +14,19 @@
             "item": "ubesdelight:condensed_milk_bottle"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "ubesdelight",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ubesdelight"
+    "container": {
+        "item": "minecraft:air"
+    }
+}ondensed_milk_bottle"
         },
         {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
-}"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "ubesdelight"
+            "item": "ubesdelight:condensed_milk_bottle"
         },
         {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
+            "item": "ubesdelight:condensed_milk_bottle"
         }
-    ]
+    ],
+    "container": {
+        "item": "minecraft:air"
+    }
 }

@@ -13,31 +13,16 @@
     ],
     "container": {
         "item": "minecraft:bucket"
-    },
-    "fabric:load_conditions": [
+    }
+}   },
         {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "createfood",
-                "candlelight"
-            ]
+            "item": "minecraft:sugar"
         }
     ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "createfood"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
-}did": "createfood"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    "container": {
+        "item": "minecraft:bucket"
+    }
+}   "container": {
+        "item": "minecraft:air"
+    }
 }

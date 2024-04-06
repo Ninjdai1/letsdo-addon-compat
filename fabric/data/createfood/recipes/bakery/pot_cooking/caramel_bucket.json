@@ -11,30 +11,15 @@
             "tag": "c:caramel"
         }
     ],
-    "fabric:load_conditions": [
+    "container": {
+        "item": "minecraft:air"
+    }
+}      },
         {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "createfood",
-                "bakery"
-            ]
+            "item": "minecraft:sugar"
         }
     ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "createfood"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
-}  "modid": "createfood"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

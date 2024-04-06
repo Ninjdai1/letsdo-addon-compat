@@ -20,28 +20,7 @@
             "item": "farmersdelight:onion"
         }
     ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "twilightdelight",
-                "twilightforest",
-                "bakery"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "twilightdelight"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "twilightforest"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "bakery"
-        }
-    ]
+    "container": {
+        "item": "minecraft:air"
+    }
 }

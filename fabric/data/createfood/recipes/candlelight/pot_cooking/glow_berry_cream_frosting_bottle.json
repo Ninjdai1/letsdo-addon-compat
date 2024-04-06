@@ -5,36 +5,19 @@
     },
     "ingredients": [
         {
-            "tag": "c:milk"
-        },
-        {
             "item": "minecraft:sugar"
         },
         {
-            "item": "minecraft:glow_berries"
-        }
-    ],
-    "fabric:load_conditions": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "createfood",
-                "candlelight"
-            ]
-        }
-    ],
-    "conditions": [
-        {
-            "type": "forge:mod_loaded",
-            "modid": "createfood"
+            "tag": "c:milk"
         },
         {
-            "type": "forge:mod_loaded",
-            "modid": "candlelight"
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
-    ]
-}:mod_loaded",
-            "modid": "candlelight"
-        }
-    ]
+    ],
+    "container": {
+        "item": "minecraft:air"
+    }
 }
