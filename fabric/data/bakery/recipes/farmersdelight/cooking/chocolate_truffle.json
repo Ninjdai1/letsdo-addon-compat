@@ -6,9 +6,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
-        },
-        {
             "item": "minecraft:sugar"
         },
         {
@@ -16,6 +13,9 @@
         },
         {
             "tag": "bakery:milk"
+        },
+        {
+            "item": "minecraft:bowl"
         }
     ]
 }

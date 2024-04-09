@@ -5,24 +5,22 @@
     },
     "ingredients": [
         {
-            "tag": "c:caramel"
+            "item": "minecraft:sugar"
         },
         {
-            "tag": "c:caramel"
-        }
-    ],
-    "container": {
-        "item": "minecraft:bucket"
-    }
-}   },
+            "item": "minecraft:sugar"
+        },
         {
             "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:bucket"
         }
     ],
     "container": {
-        "item": "minecraft:bucket"
-    }
-}   "container": {
         "item": "minecraft:air"
     }
 }

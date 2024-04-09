@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
+            "item": "minecraft:beetroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "item": "minecraft:bowl"
         }
     ]
 }

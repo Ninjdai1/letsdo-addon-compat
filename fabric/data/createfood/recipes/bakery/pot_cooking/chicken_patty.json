@@ -16,10 +16,9 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "createfood:unbreaded_chicken_patty"
     }
-}      {
-            "tag": "c:unbreaded_chicken_patty"
+}tag": "c:unbreaded_chicken_patty"
         },
         {
             "tag": "c:unbreaded_chicken_patty"

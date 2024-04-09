@@ -19,6 +19,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:glass_bottle",
+        "count": 4
     }
 }

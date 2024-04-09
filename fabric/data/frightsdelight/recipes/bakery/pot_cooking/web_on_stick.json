@@ -13,6 +13,6 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:stick"
     }
 }

@@ -24,6 +24,6 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ends_delight:half_dragon_egg_shell"
     }
 }

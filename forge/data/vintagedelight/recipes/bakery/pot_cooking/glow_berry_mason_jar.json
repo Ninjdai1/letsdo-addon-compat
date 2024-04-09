@@ -24,6 +24,6 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "vintagedelight:mason_jar"
     }
 }

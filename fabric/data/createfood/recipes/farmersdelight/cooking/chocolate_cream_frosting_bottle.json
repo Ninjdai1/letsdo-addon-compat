@@ -5,9 +5,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:glass_bottle"
-        },
-        {
             "item": "minecraft:sugar"
         },
         {
@@ -15,6 +12,9 @@
         },
         {
             "tag": "c:cocoa_powder"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
     ]
 }

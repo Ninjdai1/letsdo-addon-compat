@@ -12,6 +12,6 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bucket"
     }
 }

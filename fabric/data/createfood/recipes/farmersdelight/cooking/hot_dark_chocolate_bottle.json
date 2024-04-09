@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:glass_bottle"
+            "tag": "c:dark_chocolate_bottle"
         },
         {
-            "tag": "c:dark_chocolate_bottle"
+            "item": "minecraft:glass_bottle"
         }
     ]
 }

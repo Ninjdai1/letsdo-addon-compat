@@ -5,13 +5,13 @@
     },
     "ingredients": [
         {
-            "item": "bakery:jar"
-        },
-        {
             "item": "minecraft:sweet_berries"
         },
         {
             "item": "minecraft:sugar"
+        },
+        {
+            "item": "bakery:jar"
         }
     ]
 }

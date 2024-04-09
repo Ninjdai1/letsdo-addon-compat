@@ -21,6 +21,6 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "delightful:cantaloupe"
     }
 }

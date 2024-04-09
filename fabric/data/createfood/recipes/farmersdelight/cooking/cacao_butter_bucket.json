@@ -5,16 +5,16 @@
     },
     "ingredients": [
         {
+            "tag": "c:cacao_butter"
+        },
+        {
+            "tag": "c:cacao_butter"
+        },
+        {
+            "tag": "c:cacao_butter"
+        },
+        {
             "item": "minecraft:bucket"
-        },
-        {
-            "tag": "c:cacao_butter"
-        },
-        {
-            "tag": "c:cacao_butter"
-        },
-        {
-            "tag": "c:cacao_butter"
         }
     ]
 }

@@ -5,9 +5,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
-        },
-        {
             "item": "minecraft:sugar"
         },
         {
@@ -15,6 +12,9 @@
         },
         {
             "tag": "c:gelatin"
+        },
+        {
+            "item": "minecraft:bowl"
         }
     ]
 }

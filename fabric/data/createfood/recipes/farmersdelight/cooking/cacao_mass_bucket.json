@@ -5,19 +5,19 @@
     },
     "ingredients": [
         {
+            "tag": "c:cacao_nibs"
+        },
+        {
+            "tag": "c:cacao_nibs"
+        },
+        {
+            "tag": "c:cacao_nibs"
+        },
+        {
+            "tag": "c:cacao_nibs"
+        },
+        {
             "item": "minecraft:bucket"
-        },
-        {
-            "tag": "c:cacao_nibs"
-        },
-        {
-            "tag": "c:cacao_nibs"
-        },
-        {
-            "tag": "c:cacao_nibs"
-        },
-        {
-            "tag": "c:cacao_nibs"
         }
     ]
 }
