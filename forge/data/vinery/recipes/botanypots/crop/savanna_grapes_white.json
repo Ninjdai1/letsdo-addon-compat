@@ -55,5 +55,15 @@
                 "item": "vinery:savanna_grapes_white"
             }
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "botanypots"
+        }
     ]
 }

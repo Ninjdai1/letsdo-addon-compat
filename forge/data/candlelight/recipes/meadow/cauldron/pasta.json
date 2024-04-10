@@ -17,5 +17,15 @@
         {
             "tag": "candlelight:red_effect"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

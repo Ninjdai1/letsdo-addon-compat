@@ -19,5 +19,15 @@
     ],
     "container": {
         "item": "quark:bottled_cloud"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "quarkdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

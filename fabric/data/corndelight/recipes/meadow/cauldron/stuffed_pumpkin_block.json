@@ -22,5 +22,15 @@
         {
             "item": "minecraft:sweet_berries"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "corndelight",
+                "farmersdelight",
+                "meadow"
+            ]
+        }
     ]
 }

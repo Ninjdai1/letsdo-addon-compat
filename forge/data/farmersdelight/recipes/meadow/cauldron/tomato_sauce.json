@@ -10,5 +10,15 @@
         {
             "tag": "forge:crops/tomato"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

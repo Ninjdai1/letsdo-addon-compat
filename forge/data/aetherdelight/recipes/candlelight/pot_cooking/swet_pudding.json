@@ -19,5 +19,15 @@
     ],
     "container": {
         "item": "minecraft:bowl"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

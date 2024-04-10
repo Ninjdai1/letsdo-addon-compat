@@ -12,5 +12,15 @@
         {
             "item": "minecraft:gunpowder"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
     ]
 }

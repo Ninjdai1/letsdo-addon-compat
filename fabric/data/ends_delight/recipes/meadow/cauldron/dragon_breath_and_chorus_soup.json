@@ -19,5 +19,14 @@
         {
             "item": "minecraft:chorus_fruit"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ends_delight",
+                "meadow"
+            ]
+        }
     ]
 }

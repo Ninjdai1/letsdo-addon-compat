@@ -14,5 +14,15 @@
         {
             "tag": "meadow:water_bottles"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "meadow",
+                "minecraft",
+                "farmersdelight"
+            ]
+        }
     ]
 }

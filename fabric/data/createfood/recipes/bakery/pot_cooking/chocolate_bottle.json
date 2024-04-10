@@ -10,5 +10,14 @@
     ],
     "container": {
         "item": "minecraft:glass_bottle"
-    }
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "bakery"
+            ]
+        }
+    ]
 }

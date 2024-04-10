@@ -21,5 +21,14 @@
     "container": {
         "item": "minecraft:glass_bottle",
         "count": 4
-    }
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "frightsdelight",
+                "candlelight"
+            ]
+        }
+    ]
 }

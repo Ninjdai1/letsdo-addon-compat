@@ -16,5 +16,14 @@
         {
             "tag": "c:salad_ingredients"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "meadow"
+            ]
+        }
     ]
 }

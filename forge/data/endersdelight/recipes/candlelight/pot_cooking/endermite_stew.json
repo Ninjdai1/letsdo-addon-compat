@@ -13,5 +13,15 @@
     ],
     "container": {
         "item": "endersdelight:shulker_bowl"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "endersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

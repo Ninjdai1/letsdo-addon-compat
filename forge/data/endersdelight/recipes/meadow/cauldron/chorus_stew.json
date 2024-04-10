@@ -13,5 +13,15 @@
         {
             "item": "minecraft:chorus_flower"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "endersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

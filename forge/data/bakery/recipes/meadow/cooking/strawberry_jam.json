@@ -13,5 +13,15 @@
         {
             "item": "minecraft:sugar"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

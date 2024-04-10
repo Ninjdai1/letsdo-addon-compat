@@ -12,5 +12,15 @@
         {
             "item": "minecraft:chorus_fruit"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
     ]
 }

@@ -22,5 +22,15 @@
     ],
     "container": {
         "item": "minecraft:pumpkin"
-    }
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "corndelight",
+                "farmersdelight",
+                "candlelight"
+            ]
+        }
+    ]
 }

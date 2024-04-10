@@ -22,5 +22,15 @@
         {
             "item": "youkaishomecoming:soy_sauce_bottle"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

@@ -13,13 +13,21 @@
         {
             "tag": "c:caramel"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
     ]
-}     },
-        {
-            "item": "minecraft:sugar"
-        },
-        {
-            "item": "minecraft:sugar"
+}ric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
         }
     ]
 }

@@ -16,6 +16,16 @@
     ],
     "container": {
         "item": "minecraft:air"
-    }
-}}
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}]
 }

@@ -13,5 +13,14 @@
         {
             "item": "minecraft:sugar"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "bakery",
+                "meadow"
+            ]
+        }
     ]
 }

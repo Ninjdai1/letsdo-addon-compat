@@ -19,5 +19,15 @@
     ],
     "container": {
         "item": "minecraft:air"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "hauntedharvest"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

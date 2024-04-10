@@ -55,5 +55,14 @@
                 "item": "vinery:white_grape"
             }
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "botanypots"
+            ]
+        }
     ]
 }

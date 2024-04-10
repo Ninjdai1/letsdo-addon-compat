@@ -16,5 +16,15 @@
         {
             "item": "farmersdelight:milk_bottle"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

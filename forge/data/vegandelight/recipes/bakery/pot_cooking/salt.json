@@ -11,5 +11,15 @@
     ],
     "container": {
         "item": "minecraft:air"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vegandelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
 }

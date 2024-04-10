@@ -22,5 +22,19 @@
         {
             "item": "farmersdelight:onion"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightforest"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

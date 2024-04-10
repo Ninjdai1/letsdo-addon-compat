@@ -22,5 +22,15 @@
         {
             "item": "farmersdelight:pumpkin_slice"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

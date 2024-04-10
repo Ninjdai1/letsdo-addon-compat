@@ -16,5 +16,15 @@
         {
             "item": "farmersdelight:wheat_dough"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

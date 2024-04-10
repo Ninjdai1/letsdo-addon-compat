@@ -13,5 +13,15 @@
     ],
     "container": {
         "item": "minecraft:bowl"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vintagedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
 }

@@ -13,5 +13,14 @@
     ],
     "container": {
         "item": "expandeddelight:glass_jar"
-    }
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "expandeddelight",
+                "bakery"
+            ]
+        }
+    ]
 }

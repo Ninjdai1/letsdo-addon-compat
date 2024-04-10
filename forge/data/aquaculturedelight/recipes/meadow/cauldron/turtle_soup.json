@@ -10,5 +10,19 @@
         {
             "tag": "aquaculturedelight:turtle_meats"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculture"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

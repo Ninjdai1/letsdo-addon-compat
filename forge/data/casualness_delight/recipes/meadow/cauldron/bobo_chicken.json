@@ -25,5 +25,15 @@
         {
             "item": "casualness_delight:raw_chicken_bobo_chicken"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "casualness_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

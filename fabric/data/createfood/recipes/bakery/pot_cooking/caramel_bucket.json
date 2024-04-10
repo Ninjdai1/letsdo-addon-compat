@@ -13,13 +13,21 @@
     ],
     "container": {
         "item": "minecraft:bucket"
-    }
-}   },
+    },
+    "fabric:load_conditions": [
         {
-            "item": "minecraft:sugar"
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "bakery"
+            ]
         }
-    ],
-    "container": {
-        "item": "minecraft:bucket"
-    }
+    ]
+}ric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "bakery"
+            ]
+        }
+    ]
 }

@@ -16,5 +16,14 @@
         {
             "tag": "c:cacao_butter"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
     ]
 }

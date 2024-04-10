@@ -16,5 +16,15 @@
         {
             "item": "aetherdelight:ambrosia_dew"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

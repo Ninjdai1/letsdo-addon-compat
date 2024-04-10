@@ -16,5 +16,15 @@
         {
             "item": "unusual_delight:raw_mite_meat"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

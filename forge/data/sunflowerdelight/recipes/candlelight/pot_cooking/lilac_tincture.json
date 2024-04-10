@@ -19,5 +19,15 @@
     ],
     "container": {
         "item": "minecraft:glass_bottle"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "sunflowerdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

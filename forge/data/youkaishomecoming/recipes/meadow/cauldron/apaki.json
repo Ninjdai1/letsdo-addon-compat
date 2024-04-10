@@ -16,5 +16,15 @@
         {
             "item": "minecraft:pink_petals"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

@@ -25,5 +25,15 @@
     ],
     "container": {
         "item": "minecraft:pumpkin"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
 }

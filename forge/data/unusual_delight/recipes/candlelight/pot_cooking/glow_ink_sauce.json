@@ -13,5 +13,15 @@
     ],
     "container": {
         "item": "minecraft:bowl"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

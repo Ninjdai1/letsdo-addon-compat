@@ -19,5 +19,15 @@
     ],
     "container": {
         "item": "minecraft:lava_bucket"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "nethersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

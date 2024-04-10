@@ -17,5 +17,15 @@
         {
             "item": "minecraft:water_bucket"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "herbalbrews"
+        }
     ]
 }

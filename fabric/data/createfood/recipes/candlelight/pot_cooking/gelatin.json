@@ -1,8 +1,8 @@
 {
     "type": "candlelight:pot_cooking",
     "result": {
-        "item": "createfood:gelatin",
-        "count": 4
+        "count": 4,
+        "item": "createfood:gelatin"
     },
     "ingredients": [
         {
@@ -13,18 +13,26 @@
         },
         {
             "item": "minecraft:bone"
-        },
-        {
-            "item": "minecraft:bone"
-        },
-        {
-            "item": "minecraft:bone"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
     "container": {
         "item": "minecraft:air"
-    }
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ]
+}      {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ]
 }

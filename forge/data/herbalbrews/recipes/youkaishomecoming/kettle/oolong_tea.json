@@ -10,5 +10,15 @@
         {
             "item": "herbalbrews:dried_oolong_tea"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "herbalbrews"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        }
     ]
 }

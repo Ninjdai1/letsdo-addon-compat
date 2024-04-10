@@ -16,5 +16,15 @@
     ],
     "container": {
         "item": "minecraft:paper"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
 }

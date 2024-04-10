@@ -7,5 +7,14 @@
         {
             "tag": "c:milk/milk_bottle"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "meadow"
+            ]
+        }
     ]
 }

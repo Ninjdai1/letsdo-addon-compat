@@ -22,5 +22,19 @@
     ],
     "container": {
         "item": "minecraft:pumpkin"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "corndelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

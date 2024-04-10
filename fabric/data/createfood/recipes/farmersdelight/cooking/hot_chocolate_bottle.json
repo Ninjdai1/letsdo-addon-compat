@@ -6,9 +6,18 @@
     "ingredients": [
         {
             "tag": "c:chocolate_bottle"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:glass_bottle"
-    }
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "farmersdelight"
+            ]
+        }
+    ]
 }

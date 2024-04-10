@@ -10,10 +10,19 @@
         {
             "tag": "c:milk"
         }
-    ]
-}},
+    ],
+    "fabric:load_conditions": [
         {
-            "tag": "c:cocoa_powder"
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}atefood",
+                "meadow"
+            ]
         }
     ]
 }

@@ -17,5 +17,19 @@
     ],
     "container": {
         "item": "minecraft:air"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aether_redux"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
 }

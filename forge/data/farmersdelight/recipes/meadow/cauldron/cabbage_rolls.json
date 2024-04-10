@@ -10,5 +10,15 @@
         {
             "tag": "farmersdelight:cabbage_roll_ingredients"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

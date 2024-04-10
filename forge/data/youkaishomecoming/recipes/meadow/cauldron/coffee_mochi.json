@@ -11,5 +11,15 @@
         {
             "item": "youkaishomecoming:coffee_powder"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

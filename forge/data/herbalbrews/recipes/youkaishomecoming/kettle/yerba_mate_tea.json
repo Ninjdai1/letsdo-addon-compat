@@ -13,5 +13,15 @@
         {
             "item": "minecraft:sugar"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "herbalbrews"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        }
     ]
 }

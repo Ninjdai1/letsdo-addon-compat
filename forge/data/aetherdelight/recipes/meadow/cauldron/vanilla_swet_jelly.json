@@ -14,5 +14,19 @@
         {
             "item": "minecraft:sugar"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aether_redux"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

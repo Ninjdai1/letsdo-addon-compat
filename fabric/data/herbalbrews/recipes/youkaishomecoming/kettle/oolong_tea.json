@@ -10,5 +10,14 @@
         {
             "item": "herbalbrews:dried_oolong_tea"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "herbalbrews",
+                "youkaishomecoming"
+            ]
+        }
     ]
 }

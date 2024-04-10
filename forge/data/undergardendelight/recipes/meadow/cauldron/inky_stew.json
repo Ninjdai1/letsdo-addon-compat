@@ -16,5 +16,19 @@
         {
             "item": "undergarden:ink_mushroom"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergarden"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

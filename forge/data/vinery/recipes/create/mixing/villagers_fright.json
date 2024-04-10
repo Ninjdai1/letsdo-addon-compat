@@ -15,5 +15,15 @@
         {
             "item": "minecraft:emerald"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
     ]
 }

@@ -16,5 +16,15 @@
         {
             "item": "sunflowerdelight:peeled_sunflower_seed"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "sunflowerdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

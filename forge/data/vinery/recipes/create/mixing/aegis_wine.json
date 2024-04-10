@@ -18,5 +18,15 @@
         {
             "item": "vinery:savanna_white_grapejuice_bottle"
         }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
     ]
 }

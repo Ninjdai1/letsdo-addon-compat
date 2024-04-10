@@ -19,5 +19,14 @@
         {
             "tag": "c:green_dyes"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
     ]
 }

@@ -20,5 +20,15 @@
                 "tag": "forge:salt"
             }
         ]
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vegandelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

@@ -13,5 +13,15 @@
     ],
     "tool": {
         "tag": "letsdo_addon_compat:tools/knives"
-    }
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
 }

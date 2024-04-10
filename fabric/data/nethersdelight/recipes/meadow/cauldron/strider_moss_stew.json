@@ -19,5 +19,14 @@
         {
             "tag": "nethersdelight:raw_strider"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "nethersdelight",
+                "meadow"
+            ]
+        }
     ]
 }

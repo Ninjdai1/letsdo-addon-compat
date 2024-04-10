@@ -5,22 +5,33 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:sugar"
+            "tag": "c:caramel"
         },
         {
-            "item": "minecraft:sugar"
-        },
-        {
-            "item": "minecraft:sugar"
-        },
-        {
-            "item": "minecraft:sugar"
-        },
-        {
-            "item": "minecraft:bucket"
+            "tag": "c:caramel"
         }
     ],
     "container": {
-        "item": "minecraft:air"
-    }
+        "item": "minecraft:bucket"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ]
+}ll_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ]
+}            "candlelight"
+            ]
+        }
+    ]
 }

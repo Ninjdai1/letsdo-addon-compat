@@ -25,5 +25,14 @@
         {
             "item": "casualness_delight:raw_chicken_bobo_chicken"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "meadow"
+            ]
+        }
     ]
 }

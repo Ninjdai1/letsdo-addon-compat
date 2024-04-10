@@ -14,5 +14,14 @@
     ],
     "container": {
         "item": "minecraft:stick"
-    }
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "frightsdelight",
+                "bakery"
+            ]
+        }
+    ]
 }

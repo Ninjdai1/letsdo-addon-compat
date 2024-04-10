@@ -24,5 +24,19 @@
                 "item": "minecraft:red_mushroom"
             }
         ]
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
     ]
 }

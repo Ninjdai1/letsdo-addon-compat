@@ -17,14 +17,23 @@
     ],
     "container": {
         "item": "createfood:unbreaded_chicken_patty"
-    }
-}           "tag": "c:unbreaded_chicken_patty"
-        },
+    },
+    "fabric:load_conditions": [
         {
-            "item": "minecraft:bowl"
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
         }
-    ],
-    "container": {
-        "item": "minecraft:air"
-    }
+    ]
+} [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ]
 }
