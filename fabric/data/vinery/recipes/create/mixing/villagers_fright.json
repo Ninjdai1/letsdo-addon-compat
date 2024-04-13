@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:villagers_fright"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "vinery:grapejuice"
+        },
+        {
+            "item": "minecraft:emerald"
+        },
+        {
+            "item": "minecraft:emerald"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}

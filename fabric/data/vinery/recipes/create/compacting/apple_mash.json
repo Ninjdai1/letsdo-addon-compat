@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "results": [
+        {
+            "item": "vinery:apple_mash"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "minecraft:apple"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}

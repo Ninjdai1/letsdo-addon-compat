@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:aegis_wine"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:kelp"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        {
+            "item": "vinery:savanna_white_grapejuice_bottle"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}

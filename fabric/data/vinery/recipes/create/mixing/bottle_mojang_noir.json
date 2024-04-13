@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:bottle_mojang_noir"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "vinery:grapejuice_red"
+        },
+        {
+            "item": "minecraft:beetroot"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}

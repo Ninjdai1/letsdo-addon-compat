@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:glowing_wine"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "vinery:savanna_white_grapejuice_bottle"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}

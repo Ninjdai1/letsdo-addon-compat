@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:cristel_wine"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "vinery:grapejuice"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:feather"
+        },
+        {
+            "item": "minecraft:blaze_rod"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}

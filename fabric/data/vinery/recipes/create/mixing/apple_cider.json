@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:apple_cider"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "vinery:apple_juice"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}

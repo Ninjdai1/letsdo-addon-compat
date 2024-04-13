@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "vinery:kelp_cider"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "vinery:savanna_red_grapejuice_bottle"
+        },
+        {
+            "item": "minecraft:kelp"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "vinery",
+                "create"
+            ]
+        }
+    ]
+}
