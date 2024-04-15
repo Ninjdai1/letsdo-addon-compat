@@ -1,0 +1,46 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+        "item": "bloomingnature:aspen_sapling"
+    },
+    "categories": [
+        "dirt"
+    ],
+    "growthTicks": 2400,
+    "display": {
+        "block": "bloomingnature:aspen_sapling"
+    },
+    "drops": [
+        {
+            "chance": 1,
+            "output": {
+                "item": "bloomingnature:aspen_log"
+            },
+            "minRolls": 2,
+            "maxRolls": 4
+        },
+        {
+            "chance": 0.25,
+            "output": {
+                "item": "minecraft:stick"
+            },
+            "minRolls": 1,
+            "maxRolls": 2
+        },
+        {
+            "chance": 0.01,
+            "output": {
+                "item": "bloomingnature:aspen_sapling"
+            }
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "bloomingnature",
+                "botanypots"
+            ]
+        }
+    ]
+}
