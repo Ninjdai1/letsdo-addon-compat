@@ -11,10 +11,10 @@
             "tag": "c:salad_ingredients"
         },
         {
-            "tag": "c:raw_pork"
+            "tag": "c:foods/raw_meats/raw_pork"
         },
         {
-            "tag": "c:milk"
+            "tag": "c:milks"
         }
     ],
     "fabric:load_conditions": [

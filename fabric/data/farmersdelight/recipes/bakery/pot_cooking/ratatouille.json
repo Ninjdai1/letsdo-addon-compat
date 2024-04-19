@@ -14,7 +14,7 @@
             "item": "minecraft:beetroot"
         },
         {
-            "tag": "c:vegetables"
+            "tag": "c:foods/vegetables"
         }
     ],
     "container": {

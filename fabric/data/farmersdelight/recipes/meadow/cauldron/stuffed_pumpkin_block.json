@@ -20,10 +20,10 @@
             "item": "minecraft:potato"
         },
         {
-            "tag": "c:berries"
+            "tag": "c:foods/berries"
         },
         {
-            "tag": "c:vegetables"
+            "tag": "c:foods/vegetables"
         }
     ],
     "fabric:load_conditions": [

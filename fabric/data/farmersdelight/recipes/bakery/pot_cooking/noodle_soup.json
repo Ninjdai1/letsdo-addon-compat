@@ -5,16 +5,16 @@
     },
     "ingredients": [
         {
-            "tag": "c:pasta"
+            "tag": "c:foods/pastas"
         },
         {
-            "tag": "c:cooked_eggs"
+            "tag": "c:foods/cooked_meats/cooked_eggs"
         },
         {
             "item": "minecraft:dried_kelp"
         },
         {
-            "tag": "c:raw_pork"
+            "tag": "c:foods/raw_meats/raw_pork"
         }
     ],
     "container": {

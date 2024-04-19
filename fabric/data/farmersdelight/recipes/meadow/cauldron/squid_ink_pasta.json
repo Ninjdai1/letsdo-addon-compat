@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "tag": "c:raw_fishes"
+            "tag": "c:foods/raw_fishes"
         },
         {
-            "tag": "c:pasta"
+            "tag": "c:foods/pastas"
         },
         {
             "tag": "c:crops/tomato"

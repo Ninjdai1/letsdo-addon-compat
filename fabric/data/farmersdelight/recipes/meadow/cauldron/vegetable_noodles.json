@@ -11,13 +11,13 @@
             "item": "minecraft:brown_mushroom"
         },
         {
-            "tag": "c:pasta"
+            "tag": "c:foods/pastas"
         },
         {
             "tag": "c:salad_ingredients"
         },
         {
-            "tag": "c:vegetables"
+            "tag": "c:foods/vegetables"
         }
     ],
     "fabric:load_conditions": [
