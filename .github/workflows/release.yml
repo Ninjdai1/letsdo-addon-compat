@@ -1,16 +1,18 @@
-name: Mod build
+name: Mod release
+
+permissions:
+  contents: write
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    tags:
+      - "v[0-9]+(\.[0-9]+)*([-\.]\S+)?"
 
   workflow_dispatch:
 
 jobs:
   build:
-    name: "Datapack generation"
+    name: ""
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -22,8 +24,8 @@ jobs:
           cp ./common/* ./build/fabric
           cp -r ./fabric/* ./build/fabric
           cd build/fabric
-          zip -r ${{ github.event.repository.name }}-fabric-latest.jar .
-          mv ${{ github.event.repository.name }}-fabric-latest.jar ..
+          zip -r ${{ github.event.repository.name }}-fabric-$GITHUB_REF_NAME.jar .
+          mv ${{ github.event.repository.name }}-fabric-$GITHUB_REF_NAME.jar ..
 
       - name: Prepare forge jar
         working-directory: .
@@ -32,26 +34,23 @@ jobs:
           cp ./common/* ./build/forge
           cp -r ./forge/* ./build/forge
           cd build/forge
-          zip -r ${{ github.event.repository.name }}-forge-latest.jar .
-          mv ${{ github.event.repository.name }}-forge-latest.jar ..
+          zip -r ${{ github.event.repository.name }}-forge-$GITHUB_REF_NAME.jar .
+          mv ${{ github.event.repository.name }}-forge-$GITHUB_REF_NAME.jar ..
 
       - name: Upload fabric jar
         uses: actions/upload-artifact@v4.3.0
         with:
-          name: letsdo-addon-structures-fabric-latest
-          path: build/${{ github.event.repository.name }}-fabric-latest.jar
+          name: ${{ github.event.repository.name }}-fabric-$GITHUB_REF_NAME
+          path: build/${{ github.event.repository.name }}-fabric-$GITHUB_REF_NAME.jar
       - name: Upload forge jar
         uses: actions/upload-artifact@v4.3.0
         with:
-          name: letsdo-addon-structures-forge-latest
-          path: build/${{ github.event.repository.name }}-forge-latest.jar
+          name: ${{ github.event.repository.name }}-forge-$GITHUB_REF_NAME
+          path: build/${{ github.event.repository.name }}-forge-$GITHUB_REF_NAME.jar
 
-      - name: Prerelease with latest tag 
-        uses: "marvinpinto/action-automatic-releases@latest"
-        with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "latest"
-          prerelease: true
-          title: "Development Build"
-          files: |
-            build/*.jar
+      - run: |
+          gh release create $GITHUB_REF_NAME build/*.jar
+        env:
+          GITHUB_TOKEN: ${{ github.TOKEN }}
+        shell: bash
+        name: Creates a release in Github and uploads files from the build directory

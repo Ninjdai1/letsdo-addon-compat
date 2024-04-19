@@ -1,0 +1,57 @@
+name: Mod prerelease
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: "Datapack generation"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Prepare fabric jar
+        working-directory: .
+        run: |
+          mkdir -p build/fabric
+          cp ./common/* ./build/fabric
+          cp -r ./fabric/* ./build/fabric
+          cd build/fabric
+          zip -r ${{ github.event.repository.name }}-fabric-latest.jar .
+          mv ${{ github.event.repository.name }}-fabric-latest.jar ..
+
+      - name: Prepare forge jar
+        working-directory: .
+        run: |
+          mkdir -p build/forge
+          cp ./common/* ./build/forge
+          cp -r ./forge/* ./build/forge
+          cd build/forge
+          zip -r ${{ github.event.repository.name }}-forge-latest.jar .
+          mv ${{ github.event.repository.name }}-forge-latest.jar ..
+
+      - name: Upload fabric jar
+        uses: actions/upload-artifact@v4.3.0
+        with:
+          name: letsdo-addon-structures-fabric-latest
+          path: build/${{ github.event.repository.name }}-fabric-latest.jar
+      - name: Upload forge jar
+        uses: actions/upload-artifact@v4.3.0
+        with:
+          name: letsdo-addon-structures-forge-latest
+          path: build/${{ github.event.repository.name }}-forge-latest.jar
+
+      - name: Prerelease with latest tag 
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: "Development Build"
+          files: |
+            build/*.jar
