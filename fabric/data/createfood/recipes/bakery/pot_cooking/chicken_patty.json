@@ -27,13 +27,4 @@
             ]
         }
     ]
-}ns": [
-        {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-                "createfood",
-                "bakery"
-            ]
-        }
-    ]
 }
