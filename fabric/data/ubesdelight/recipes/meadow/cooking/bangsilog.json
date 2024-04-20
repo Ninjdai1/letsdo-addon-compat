@@ -8,14 +8,11 @@
             "tag": "minecraft:fishes"
         },
         {
-            "item": "ubesdelight:sinangag"
-        },
-        {
             "tag": "c:foods/cooked_meats/cooked_eggs"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ubesdelight:sinangag"
     },
     "fabric:load_conditions": [
         {

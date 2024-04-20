@@ -6,13 +6,10 @@
     "ingredients": [
         {
             "item": "ubesdelight:chicken_inasal"
-        },
-        {
-            "item": "ubesdelight:sinangag"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ubesdelight:sinangag"
     },
     "fabric:load_conditions": [
         {
