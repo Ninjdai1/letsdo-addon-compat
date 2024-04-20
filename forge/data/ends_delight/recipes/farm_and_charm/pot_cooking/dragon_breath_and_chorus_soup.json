@@ -5,9 +5,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:suspicious_stew"
-        },
-        {
             "item": "minecraft:dragon_breath"
         },
         {
@@ -21,7 +18,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:suspicious_stew"
     },
     "conditions": [
         {
