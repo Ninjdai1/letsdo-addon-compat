@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "brewinandchewin:horror_lasagna"
+    },
+    "ingredients": [
+        {
+            "item": "brewinandchewin:scarlet_cheese_wedge"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "tag": "brewinandchewin:horror_lasagna_meats"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "brewinandchewin",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

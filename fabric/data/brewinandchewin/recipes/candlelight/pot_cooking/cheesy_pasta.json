@@ -1,0 +1,32 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "brewinandchewin:cheesy_pasta"
+    },
+    "ingredients": [
+        {
+            "item": "brewinandchewin:flaxen_cheese_wedge"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "farmersdelight:tomato"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "brewinandchewin",
+                "candlelight"
+            ]
+        }
+    ]
+}

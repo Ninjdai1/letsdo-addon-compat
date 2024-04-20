@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "tag": "c:milk/milk_bottle"
+            "tag": "c:milks/milk_bottles"
         }
     ],
     "container": {

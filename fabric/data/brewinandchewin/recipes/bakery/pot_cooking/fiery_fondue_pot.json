@@ -1,0 +1,38 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "brewinandchewin:fiery_fondue_pot"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "brewinandchewin:scarlet_cheese_wheel"
+        },
+        {
+            "item": "farmersdelight:ham"
+        },
+        {
+            "item": "minecraft:bread"
+        }
+    ],
+    "container": {
+        "item": "minecraft:cauldron"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "brewinandchewin",
+                "bakery"
+            ]
+        }
+    ]
+}

@@ -5,13 +5,13 @@
     },
     "ingredients": [
         {
-            "tag": "c:raw_pork"
+            "tag": "c:foods/raw_meats/raw_pork"
         },
         {
             "tag": "c:tea_ingredients/sweet/weak"
         },
         {
-            "tag": "c:vegetables/ginger"
+            "tag": "c:crops/ginger"
         },
         {
             "item": "minecraft:beetroot"

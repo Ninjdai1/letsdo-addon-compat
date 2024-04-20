@@ -5,16 +5,16 @@
     },
     "ingredients": [
         {
-            "tag": "c:raw_chicken"
+            "tag": "c:foods/raw_meats/raw_chicken"
         },
         {
-            "tag": "c:grain"
+            "tag": "c:grains"
         },
         {
-            "tag": "c:vegetables/garlic"
+            "tag": "c:crops/garlic"
         },
         {
-            "tag": "c:vegetables/ginger"
+            "tag": "c:crops/ginger"
         },
         {
             "tag": "c:crops/lemongrass"
