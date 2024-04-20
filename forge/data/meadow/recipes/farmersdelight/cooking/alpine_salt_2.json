@@ -1,0 +1,25 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "meadow:alpine_salt",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:calcite"
+        }
+    ],
+    "container": {
+        "item": "minecraft:water_bucket"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

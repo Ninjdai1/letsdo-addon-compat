@@ -1,0 +1,31 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "meadow:ham_cheese",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "meadow:raw_bear_meat"
+        },
+        {
+            "item": "meadow:alpine_salt"
+        },
+        {
+            "tag": "meadow:cheese"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

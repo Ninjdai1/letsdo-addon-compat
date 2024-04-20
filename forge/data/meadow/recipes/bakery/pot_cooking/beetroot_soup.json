@@ -1,0 +1,41 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "minecraft:beetroot_soup",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

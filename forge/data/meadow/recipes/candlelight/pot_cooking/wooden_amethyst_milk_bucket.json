@@ -1,0 +1,28 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "meadow:wooden_amethyst_milk_bucket",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:amethyst_cluster"
+        },
+        {
+            "item": "meadow:alpine_salt"
+        }
+    ],
+    "container": {
+        "tag": "meadow:milk"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

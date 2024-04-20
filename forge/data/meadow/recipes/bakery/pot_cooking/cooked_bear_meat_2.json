@@ -1,0 +1,28 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "meadow:cooked_bear_meat",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "meadow:raw_bear_meat"
+        },
+        {
+            "item": "meadow:alpine_salt"
+        }
+    ],
+    "container": {
+        "tag": "meadow:water_bottles"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

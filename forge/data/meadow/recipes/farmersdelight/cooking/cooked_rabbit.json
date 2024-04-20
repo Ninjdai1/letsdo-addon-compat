@@ -1,0 +1,32 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "minecraft:cooked_rabbit",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:rabbit"
+        },
+        {
+            "item": "meadow:alpine_salt"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

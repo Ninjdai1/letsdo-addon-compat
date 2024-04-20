@@ -1,0 +1,44 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "minecraft:leather",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

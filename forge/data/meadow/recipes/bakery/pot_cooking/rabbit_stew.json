@@ -1,0 +1,38 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "minecraft:rabbit_stew",
+        "count": 6
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:baked_potato"
+        },
+        {
+            "item": "minecraft:cooked_rabbit"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "meadow:cheese"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "create:compacting",
+    "results": [
+        {
+            "item": "meadow:sheep_cheese_block"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "meadow:rennet"
+        },
+        {
+            "item": "meadow:wooden_sheep_milk_bucket"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ]
+}
