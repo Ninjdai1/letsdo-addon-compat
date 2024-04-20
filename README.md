@@ -6,6 +6,7 @@ Currently supported mods:
 * Aether Delight
 * Alex's Delight
 * Aquaculture Delight
+* Argentina's Delight
 * Botany Pots
 * Casualness Delight
 * Corn Delight
@@ -17,7 +18,7 @@ Currently supported mods:
 * End's Delight
 * Ender's Delight
 * Expanded Delight
-* Farmer's Delight
+* Farmer's Delight Refabricated
 * Festive Delight
 * Fright's Delight
 * Haunted Harvest
@@ -28,6 +29,7 @@ Currently supported mods:
 * Pineapple Delight
 * Quark Delight
 * Rats (meadow cheese)
+* Sunflower Delight
 * Tough as nails
 * Twilight Delight
 * Ube's Delight

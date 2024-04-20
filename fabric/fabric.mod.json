@@ -1,7 +1,7 @@
 {
 	"schemaVersion":1,
 	"id":"letsdoaddon-compat",
-	"version":"1.4.0",
+	"version":"1.5.0",
 	"name":"[Let's Do Addon] Compat",
 	"description":"Adds compatibility for the Let's Do mods so you don't have to",
 	"authors":[
