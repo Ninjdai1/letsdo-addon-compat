@@ -1,0 +1,36 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "vegandelight:applesauce"
+    },
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:apple"
+            }
+        ],
+        [
+            {
+                "item": "minecraft:sugar"
+            }
+        ],
+        [
+            {
+                "item": "minecraft:water_bucket"
+            }
+        ]
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vegandelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}
