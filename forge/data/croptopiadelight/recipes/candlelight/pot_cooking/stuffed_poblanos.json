@@ -1,0 +1,43 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "croptopia:stuffed_poblanos"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:cheese"
+        },
+        {
+            "item": "croptopia:chile_pepper"
+        },
+        {
+            "item": "croptopia:corn"
+        },
+        {
+            "item": "croptopia:blackbean"
+        },
+        {
+            "tag": "forge:rice"
+        },
+        {
+            "tag": "croptopia:beef_replacements"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

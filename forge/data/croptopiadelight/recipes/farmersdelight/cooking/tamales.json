@@ -1,0 +1,43 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "croptopia:tamales"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:vegetables/onion"
+        },
+        {
+            "item": "croptopia:chile_pepper"
+        },
+        {
+            "item": "croptopia:flour"
+        },
+        {
+            "item": "croptopia:salt"
+        },
+        {
+            "item": "croptopia:corn_husk"
+        },
+        {
+            "tag": "forge:raw_chicken"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

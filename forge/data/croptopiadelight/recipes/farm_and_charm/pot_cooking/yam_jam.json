@@ -1,0 +1,37 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "croptopia:yam_jam"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:vanilla"
+        },
+        {
+            "item": "croptopia:yam"
+        },
+        {
+            "tag": "forge:milks"
+        },
+        {
+            "tag": "forge:milks"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

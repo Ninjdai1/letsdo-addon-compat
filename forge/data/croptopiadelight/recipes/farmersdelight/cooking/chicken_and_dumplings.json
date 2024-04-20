@@ -1,0 +1,34 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "croptopia:chicken_and_dumplings"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:dough"
+        },
+        {
+            "item": "croptopia:chile_pepper"
+        },
+        {
+            "tag": "forge:raw_chicken"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "croptopia:borscht"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "forge:cabbage"
+        },
+        {
+            "tag": "forge:water_bottles"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

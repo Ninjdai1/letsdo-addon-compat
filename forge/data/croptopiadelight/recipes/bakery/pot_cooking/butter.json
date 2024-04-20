@@ -1,0 +1,31 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "croptopia:butter"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:milks"
+        },
+        {
+            "item": "croptopia:salt"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "croptopia:apricot_jam"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:apricot"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

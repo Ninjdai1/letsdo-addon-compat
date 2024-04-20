@@ -1,0 +1,40 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "croptopia:chili_relleno"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:chile_pepper"
+        },
+        {
+            "item": "croptopia:flour"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "croptopia:salt"
+        },
+        {
+            "item": "croptopia:olive_oil"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "croptopia:onion_rings"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:flour"
+        },
+        {
+            "item": "croptopia:olive_oil"
+        },
+        {
+            "tag": "forge:onions"
+        },
+        {
+            "item": "croptopia:salt"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

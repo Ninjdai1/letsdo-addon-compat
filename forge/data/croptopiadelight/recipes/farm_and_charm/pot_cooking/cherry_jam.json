@@ -1,0 +1,31 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "croptopia:cherry_jam"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:cherry"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

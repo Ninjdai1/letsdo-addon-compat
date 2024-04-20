@@ -1,0 +1,43 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "croptopia:rum_raisin_ice_cream"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:rum"
+        },
+        {
+            "item": "croptopia:raisins"
+        },
+        {
+            "tag": "forge:milks"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:snowball"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

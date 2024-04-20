@@ -1,0 +1,43 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "croptopia:beetroot_salad"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "croptopia:lemon"
+        },
+        {
+            "item": "croptopia:cheese"
+        },
+        {
+            "item": "croptopia:lettuce"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

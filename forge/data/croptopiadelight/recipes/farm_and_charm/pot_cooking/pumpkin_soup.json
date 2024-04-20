@@ -1,0 +1,40 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "croptopia:pumpkin_soup"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:pumpkin_slice"
+        },
+        {
+            "item": "croptopia:garlic"
+        },
+        {
+            "item": "croptopia:pepper"
+        },
+        {
+            "tag": "forge:onions"
+        },
+        {
+            "item": "croptopia:salt"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

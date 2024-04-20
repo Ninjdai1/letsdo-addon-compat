@@ -1,0 +1,40 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "croptopia:chocolate_ice_cream"
+    },
+    "ingredients": [
+        {
+            "item": "croptopia:chocolate"
+        },
+        {
+            "tag": "forge:milks"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:snowball"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

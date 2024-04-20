@@ -1,0 +1,34 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "farmersdelight:tomato_sauce"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:crops/tomato"
+        },
+        {
+            "tag": "forge:crops/onion"
+        },
+        {
+            "item": "croptopia:garlic"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}

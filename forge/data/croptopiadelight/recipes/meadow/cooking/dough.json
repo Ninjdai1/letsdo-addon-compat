@@ -1,0 +1,31 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "croptopia:dough"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:water_bottles"
+        },
+        {
+            "item": "croptopia:flour"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopiadelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "croptopia"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}
