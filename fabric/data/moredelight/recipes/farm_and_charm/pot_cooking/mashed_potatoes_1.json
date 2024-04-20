@@ -1,26 +1,17 @@
 {
     "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "moredelight:cooked_diced_potatoes"
+        "item": "moredelight:mashed_potatoes"
     },
     "ingredients": [
         {
-            "item": "moredelight:diced_potatoes"
+            "tag": "c:milk"
         },
         {
-            "item": "moredelight:diced_potatoes"
+            "item": "casualness_delight:potato_slice"
         },
         {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
+            "item": "casualness_delight:potato_slice"
         }
     ],
     "container": {

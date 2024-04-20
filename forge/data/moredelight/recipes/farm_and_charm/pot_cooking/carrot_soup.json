@@ -1,26 +1,17 @@
 {
     "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "moredelight:cooked_diced_potatoes"
+        "item": "moredelight:carrot_soup"
     },
     "ingredients": [
         {
-            "item": "moredelight:diced_potatoes"
+            "tag": "forge:milk"
         },
         {
-            "item": "moredelight:diced_potatoes"
+            "tag": "forge:vegetables/carrot"
         },
         {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
+            "tag": "forge:vegetables/carrot"
         }
     ],
     "container": {

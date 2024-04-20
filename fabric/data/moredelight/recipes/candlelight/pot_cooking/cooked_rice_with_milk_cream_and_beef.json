@@ -5,13 +5,13 @@
     },
     "ingredients": [
         {
-            "tag": "c:milk/milk_bottle"
+            "tag": "c:milk"
         },
         {
-            "tag": "c:crops/rice"
+            "tag": "c:grain/rice"
         },
         {
-            "tag": "c:raw_beef"
+            "tag": "c:cooked_beef"
         }
     ],
     "container": {

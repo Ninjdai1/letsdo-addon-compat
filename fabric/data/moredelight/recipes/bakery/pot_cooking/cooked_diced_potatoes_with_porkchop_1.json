@@ -1,26 +1,17 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "item": "moredelight:cooked_diced_potatoes"
+        "item": "moredelight:cooked_diced_potatoes_with_porkchop"
     },
     "ingredients": [
         {
-            "item": "moredelight:diced_potatoes"
+            "item": "minecraft:porkchop"
         },
         {
-            "item": "moredelight:diced_potatoes"
+            "item": "casualness_delight:potato_slice"
         },
         {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
+            "tag": "c:vegetables/onion"
         }
     ],
     "container": {

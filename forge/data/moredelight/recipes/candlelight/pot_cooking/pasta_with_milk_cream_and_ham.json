@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:milk/milk_bottle"
+            "tag": "forge:milk"
         },
         {
             "tag": "forge:pasta/raw_pasta"

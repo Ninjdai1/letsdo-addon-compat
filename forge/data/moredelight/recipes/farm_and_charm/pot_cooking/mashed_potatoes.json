@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "moredelight:mashed_potatoes"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:milk"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "moredelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

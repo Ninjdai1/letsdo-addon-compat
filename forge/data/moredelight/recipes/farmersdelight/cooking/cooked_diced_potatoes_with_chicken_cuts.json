@@ -1,26 +1,17 @@
 {
     "type": "farmersdelight:pot_cooking",
     "result": {
-        "item": "moredelight:cooked_diced_potatoes"
+        "item": "moredelight:cooked_diced_potatoes_with_chicken_cuts"
     },
     "ingredients": [
         {
-            "item": "moredelight:diced_potatoes"
+            "tag": "forge:raw_chicken"
         },
         {
             "item": "moredelight:diced_potatoes"
         },
         {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
+            "tag": "forge:vegetables/onion"
         }
     ],
     "container": {

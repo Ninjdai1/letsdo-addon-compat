@@ -1,0 +1,29 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "moredelight:potato_salad"
+    },
+    "ingredients": [
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "tag": "c:sliced_potato"
+        },
+        {
+            "tag": "c:vegetables/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "moredelight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

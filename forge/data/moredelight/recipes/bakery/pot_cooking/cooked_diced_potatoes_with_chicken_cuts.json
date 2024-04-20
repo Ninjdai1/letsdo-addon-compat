@@ -1,0 +1,30 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "moredelight:cooked_diced_potatoes_with_chicken_cuts"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_chicken"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "moredelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

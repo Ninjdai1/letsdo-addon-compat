@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "tag": "forge:milk/milk_bottle"
+            "tag": "forge:milk"
         },
         {
-            "tag": "forge:crops/rice"
+            "item": "farmersdelight:rice"
         },
         {
             "tag": "forge:raw_beef"

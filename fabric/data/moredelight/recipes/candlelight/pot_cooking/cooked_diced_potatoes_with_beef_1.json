@@ -1,0 +1,29 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "moredelight:cooked_diced_potatoes_with_beef"
+    },
+    "ingredients": [
+        {
+            "tag": "c:cooked_beef"
+        },
+        {
+            "item": "casualness_delight:potato_slice"
+        },
+        {
+            "tag": "c:vegetables/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "moredelight",
+                "candlelight"
+            ]
+        }
+    ]
+}

@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "tag": "c:milk/milk_bottle"
+            "tag": "c:milk"
         },
         {
-            "tag": "c:pasta/raw_pasta"
+            "tag": "c:pasta"
         },
         {
             "item": "farmersdelight:ham"

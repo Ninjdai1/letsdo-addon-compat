@@ -1,20 +1,11 @@
 {
-    "type": "meadow:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
-        "item": "moredelight:cooked_diced_potatoes"
+        "item": "moredelight:mashed_potatoes"
     },
     "ingredients": [
         {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
+            "tag": "forge:milk"
         },
         {
             "item": "moredelight:diced_potatoes"
@@ -33,7 +24,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "meadow"
+            "modid": "farmersdelight"
         }
     ]
 }

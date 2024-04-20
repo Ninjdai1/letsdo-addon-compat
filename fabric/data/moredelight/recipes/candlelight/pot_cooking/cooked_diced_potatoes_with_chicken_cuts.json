@@ -1,26 +1,17 @@
 {
     "type": "candlelight:pot_cooking",
     "result": {
-        "item": "moredelight:cooked_diced_potatoes"
+        "item": "moredelight:cooked_diced_potatoes_with_chicken_cuts"
     },
     "ingredients": [
         {
-            "item": "moredelight:diced_potatoes"
+            "tag": "c:raw_chicken"
         },
         {
-            "item": "moredelight:diced_potatoes"
+            "tag": "c:sliced_potato"
         },
         {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
-        },
-        {
-            "item": "moredelight:diced_potatoes"
+            "tag": "c:vegetables/onion"
         }
     ],
     "container": {

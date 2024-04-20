@@ -1,0 +1,29 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "moredelight:carrot_soup"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk"
+        },
+        {
+            "tag": "c:vegetables/carrot"
+        },
+        {
+            "tag": "c:vegetables/carrot"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "moredelight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}
