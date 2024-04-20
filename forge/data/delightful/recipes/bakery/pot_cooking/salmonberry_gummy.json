@@ -11,14 +11,11 @@
             "item": "minecraft:sugar"
         },
         {
-            "item": "minecraft:honey_bottle"
-        },
-        {
             "item": "minecraft:kelp"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:honey_bottle"
     },
     "conditions": [
         {

@@ -9,9 +9,6 @@
             "item": "minecraft:honey_bottle"
         },
         {
-            "item": "minecraft:honey_bottle"
-        },
-        {
             "item": "delightful:chopped_clover"
         },
         {
@@ -25,7 +22,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:honey_bottle"
     },
     "conditions": [
         {
