@@ -6,13 +6,10 @@
     "ingredients": [
         {
             "tag": "c:tea_ingredients/sweet/weak"
-        },
-        {
-            "item": "farmersdelight:milk_bottle"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "farmersdelight:milk_bottle"
     },
     "fabric:load_conditions": [
         {

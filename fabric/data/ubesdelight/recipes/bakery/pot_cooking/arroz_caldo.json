@@ -18,13 +18,10 @@
         },
         {
             "tag": "c:crops/lemongrass"
-        },
-        {
-            "item": "ubesdelight:fish_sauce_bottle"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ubesdelight:fish_sauce_bottle"
     },
     "fabric:load_conditions": [
         {

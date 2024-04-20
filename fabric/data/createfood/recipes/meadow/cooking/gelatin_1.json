@@ -6,9 +6,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:water_bucket"
-        },
-        {
             "item": "minecraft:bone"
         },
         {
@@ -16,7 +13,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:water_bucket"
     },
     "fabric:load_conditions": [
         {

@@ -9,13 +9,10 @@
         },
         {
             "item": "farmersdelight:raw_pasta"
-        },
-        {
-            "item": "farmersdelight:tomato_sauce"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "farmersdelight:tomato_sauce"
     },
     "conditions": [
         {

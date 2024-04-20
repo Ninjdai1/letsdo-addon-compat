@@ -6,14 +6,11 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:water_bucket"
-        },
-        {
             "item": "minecraft:calcite"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:water_bucket"
     },
     "fabric:load_conditions": [
         {

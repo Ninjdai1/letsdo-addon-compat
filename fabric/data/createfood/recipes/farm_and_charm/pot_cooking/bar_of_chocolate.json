@@ -5,14 +5,11 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:milk_bucket"
-        },
-        {
             "tag": "c:cacao_mass_bucket"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:milk_bucket"
     },
     "fabric:load_conditions": [
         {

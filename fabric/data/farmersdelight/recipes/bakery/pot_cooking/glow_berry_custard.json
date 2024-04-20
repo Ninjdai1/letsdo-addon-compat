@@ -8,9 +8,6 @@
             "item": "minecraft:glow_berries"
         },
         {
-            "tag": "c:milks"
-        },
-        {
             "tag": "c:eggs"
         },
         {
@@ -18,7 +15,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:milks"
     },
     "fabric:load_conditions": [
         {

@@ -8,9 +8,6 @@
             "item": "minecraft:blaze_powder"
         },
         {
-            "item": "farmersdelight:tomato_sauce"
-        },
-        {
             "item": "farmersdelight:cooked_rice"
         },
         {
@@ -24,7 +21,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "farmersdelight:tomato_sauce"
     },
     "fabric:load_conditions": [
         {

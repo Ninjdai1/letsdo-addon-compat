@@ -8,9 +8,6 @@
             "tag": "forge:raw_fishes"
         },
         {
-            "item": "farmersdelight:tomato_sauce"
-        },
-        {
             "tag": "forge:crops/onion"
         },
         {
@@ -24,7 +21,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "farmersdelight:tomato_sauce"
     },
     "conditions": [
         {

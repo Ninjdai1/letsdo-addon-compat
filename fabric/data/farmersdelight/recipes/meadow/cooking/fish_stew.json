@@ -8,14 +8,11 @@
             "tag": "c:foods/raw_fishes"
         },
         {
-            "item": "farmersdelight:tomato_sauce"
-        },
-        {
             "tag": "c:crops/onion"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "farmersdelight:tomato_sauce"
     },
     "fabric:load_conditions": [
         {

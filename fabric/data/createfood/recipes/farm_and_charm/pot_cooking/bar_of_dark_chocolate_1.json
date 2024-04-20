@@ -6,13 +6,10 @@
     "ingredients": [
         {
             "tag": "c:pressed_cocoa"
-        },
-        {
-            "item": "createfood:cacao_mass_bucket"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "createfood:cacao_mass_bucket"
     },
     "fabric:load_conditions": [
         {

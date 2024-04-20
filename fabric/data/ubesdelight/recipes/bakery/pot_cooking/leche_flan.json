@@ -13,13 +13,10 @@
         },
         {
             "tag": "c:tea_ingredients/sweet/weak"
-        },
-        {
-            "item": "ubesdelight:condensed_milk_bottle"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ubesdelight:condensed_milk_bottle"
     },
     "fabric:load_conditions": [
         {

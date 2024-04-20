@@ -10,13 +10,10 @@
         },
         {
             "item": "meadow:alpine_salt"
-        },
-        {
-            "tag": "meadow:milk"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "meadow:milk"
     },
     "fabric:load_conditions": [
         {

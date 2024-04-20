@@ -10,13 +10,10 @@
         },
         {
             "item": "meadow:alpine_salt"
-        },
-        {
-            "tag": "meadow:water_bottles"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "meadow:water_bottles"
     },
     "fabric:load_conditions": [
         {

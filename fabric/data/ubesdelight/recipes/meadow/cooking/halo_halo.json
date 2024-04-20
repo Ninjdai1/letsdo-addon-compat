@@ -11,9 +11,6 @@
             "item": "ubesdelight:leche_flan"
         },
         {
-            "item": "ubesdelight:condensed_milk_bottle"
-        },
-        {
             "item": "minecraft:sweet_berries"
         },
         {
@@ -24,7 +21,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ubesdelight:condensed_milk_bottle"
     },
     "fabric:load_conditions": [
         {

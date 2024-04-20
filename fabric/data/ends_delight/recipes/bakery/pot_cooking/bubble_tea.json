@@ -4,9 +4,6 @@
         "item": "ends_delight:bubble_tea"
     },
     "ingredients": [
-        {
-            "tag": "c:milks"
-        },
         [
             {
                 "item": "minecraft:chorus_fruit"
@@ -20,7 +17,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:milks"
     },
     "fabric:load_conditions": [
         {

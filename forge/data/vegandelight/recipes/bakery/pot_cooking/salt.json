@@ -4,13 +4,9 @@
         "count": 2,
         "item": "vegandelight:salt"
     },
-    "ingredients": [
-        {
-            "item": "minecraft:water_bucket"
-        }
-    ],
+    "ingredients": [],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:water_bucket"
     },
     "conditions": [
         {

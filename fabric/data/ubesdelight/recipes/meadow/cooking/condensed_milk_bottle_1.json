@@ -16,13 +16,10 @@
         },
         {
             "tag": "c:tea_ingredients/sweet/weak"
-        },
-        {
-            "item": "minecraft:milk_bucket"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:milk_bucket"
     },
     "fabric:load_conditions": [
         {

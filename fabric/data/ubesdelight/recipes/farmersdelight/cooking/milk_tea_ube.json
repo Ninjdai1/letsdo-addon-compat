@@ -19,13 +19,10 @@
         },
         {
             "item": "ubesdelight:condensed_milk_bottle"
-        },
-        {
-            "item": "ubesdelight:condensed_milk_bottle"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ubesdelight:condensed_milk_bottle"
     },
     "fabric:load_conditions": [
         {

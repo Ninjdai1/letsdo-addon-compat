@@ -6,13 +6,10 @@
     "ingredients": [
         {
             "tag": "c:cacao_butter"
-        },
-        {
-            "item": "minecraft:milk_bucket"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:milk_bucket"
     },
     "fabric:load_conditions": [
         {

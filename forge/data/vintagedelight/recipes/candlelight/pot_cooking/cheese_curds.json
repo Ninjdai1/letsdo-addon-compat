@@ -6,9 +6,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:milk_bucket"
-        },
-        {
             "tag": "forge:salt"
         },
         {
@@ -16,7 +13,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:milk_bucket"
     },
     "conditions": [
         {

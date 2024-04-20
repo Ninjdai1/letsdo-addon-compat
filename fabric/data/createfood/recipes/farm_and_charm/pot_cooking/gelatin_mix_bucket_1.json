@@ -12,13 +12,10 @@
         },
         {
             "tag": "c:gelatin"
-        },
-        {
-            "item": "minecraft:water_bucket"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:water_bucket"
     },
     "fabric:load_conditions": [
         {

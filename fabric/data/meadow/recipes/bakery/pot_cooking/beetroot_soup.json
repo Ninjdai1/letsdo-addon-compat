@@ -6,9 +6,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
-        },
-        {
             "item": "minecraft:beetroot"
         },
         {
@@ -25,7 +22,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bowl"
     },
     "fabric:load_conditions": [
         {

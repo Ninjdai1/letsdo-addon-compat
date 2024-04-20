@@ -8,14 +8,11 @@
             "item": "minecraft:sugar"
         },
         {
-            "item": "minecraft:water_bucket"
-        },
-        {
             "tag": "c:gelatin"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:water_bucket"
     },
     "fabric:load_conditions": [
         {

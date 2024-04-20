@@ -10,13 +10,10 @@
         },
         {
             "item": "meadow:alpine_salt"
-        },
-        {
-            "item": "minecraft:glass_bottle"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:glass_bottle"
     },
     "fabric:load_conditions": [
         {

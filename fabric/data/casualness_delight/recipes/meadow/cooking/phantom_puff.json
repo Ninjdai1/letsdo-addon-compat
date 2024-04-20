@@ -10,13 +10,10 @@
         },
         {
             "item": "casualness_delight:cheese_wheel_slice"
-        },
-        {
-            "tag": "c:milk"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:milk"
     },
     "fabric:load_conditions": [
         {

@@ -12,13 +12,10 @@
         },
         {
             "tag": "c:foods/raw_meats/raw_pork"
-        },
-        {
-            "tag": "c:milks"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:milks"
     },
     "fabric:load_conditions": [
         {

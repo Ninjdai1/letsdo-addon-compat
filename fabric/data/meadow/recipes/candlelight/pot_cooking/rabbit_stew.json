@@ -12,9 +12,6 @@
             "item": "minecraft:cooked_rabbit"
         },
         {
-            "item": "minecraft:bowl"
-        },
-        {
             "item": "minecraft:carrot"
         },
         {
@@ -22,7 +19,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bowl"
     },
     "fabric:load_conditions": [
         {

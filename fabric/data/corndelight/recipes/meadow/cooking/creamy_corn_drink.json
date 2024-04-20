@@ -8,14 +8,11 @@
             "tag": "c:crops/corn"
         },
         {
-            "tag": "c:milk"
-        },
-        {
             "item": "minecraft:sugar"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:milk"
     },
     "fabric:load_conditions": [
         {

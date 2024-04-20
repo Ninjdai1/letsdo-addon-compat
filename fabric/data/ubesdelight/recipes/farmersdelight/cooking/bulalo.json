@@ -17,14 +17,11 @@
             "tag": "c:crops/cabbage"
         },
         {
-            "item": "ubesdelight:fish_sauce_bottle"
-        },
-        {
             "tag": "c:crops/lemongrass"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "ubesdelight:fish_sauce_bottle"
     },
     "fabric:load_conditions": [
         {

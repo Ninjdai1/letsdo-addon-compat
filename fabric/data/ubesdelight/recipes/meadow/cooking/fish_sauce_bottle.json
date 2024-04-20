@@ -7,13 +7,10 @@
     "ingredients": [
         {
             "tag": "c:foods/raw_fishes"
-        },
-        {
-            "item": "minecraft:water_bucket"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:water_bucket"
     },
     "fabric:load_conditions": [
         {

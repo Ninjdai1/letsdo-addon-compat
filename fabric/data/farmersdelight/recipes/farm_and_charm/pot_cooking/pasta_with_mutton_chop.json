@@ -9,13 +9,10 @@
         },
         {
             "tag": "c:foods/pastas"
-        },
-        {
-            "item": "farmersdelight:tomato_sauce"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "farmersdelight:tomato_sauce"
     },
     "fabric:load_conditions": [
         {

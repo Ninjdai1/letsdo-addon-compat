@@ -6,14 +6,11 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:water_bucket"
-        },
-        {
             "item": "meadow:limestone"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:water_bucket"
     },
     "fabric:load_conditions": [
         {
