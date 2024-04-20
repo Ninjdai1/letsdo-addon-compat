@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "minecraft:rabbit_stew",
         "count": 6
@@ -21,6 +21,9 @@
             "tag": "meadow:cheese"
         }
     ],
+    "container": {
+        "item": "minecraft:air"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

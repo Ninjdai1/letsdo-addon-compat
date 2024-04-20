@@ -1,0 +1,31 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "count": 3,
+        "item": "youkaishomecoming:senbei"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:grain/rice"
+        },
+        {
+            "item": "youkaishomecoming:butter"
+        },
+        {
+            "item": "minecraft:kelp"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

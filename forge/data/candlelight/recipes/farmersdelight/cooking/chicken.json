@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "candlelight:chicken",
         "count": 1,
@@ -14,11 +14,11 @@
         },
         {
             "tag": "candlelight:white_effect"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

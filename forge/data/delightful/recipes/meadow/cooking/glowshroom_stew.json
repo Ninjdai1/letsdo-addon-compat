@@ -1,0 +1,34 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "biomemakeover:glowshroom_stew"
+    },
+    "ingredients": [
+        {
+            "item": "biomemakeover:purple_glowshroom"
+        },
+        {
+            "item": "biomemakeover:green_glowshroom"
+        },
+        {
+            "item": "biomemakeover:orange_glowshroom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "biomemakeover"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

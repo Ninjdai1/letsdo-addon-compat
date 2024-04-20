@@ -1,0 +1,36 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "unusual_delight:mitey_meal"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:chorus_fruit"
+        },
+        {
+            "item": "minecraft:chorus_fruit"
+        },
+        {
+            "item": "unusual_delight:raw_mite_meat"
+        },
+        {
+            "item": "unusual_delight:raw_mite_meat"
+        },
+        {
+            "item": "unusual_delight:magic_butter"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

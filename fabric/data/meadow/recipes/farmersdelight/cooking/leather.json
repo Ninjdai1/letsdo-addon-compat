@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "minecraft:leather",
         "count": 1
@@ -24,6 +24,9 @@
             "item": "minecraft:rotten_flesh"
         }
     ],
+    "container": {
+        "item": "minecraft:air"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

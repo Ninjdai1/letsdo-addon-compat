@@ -1,0 +1,33 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "aquaculturedelight:rollmops"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_fishes/herring"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "tag": "forge:crops/onion"
+        },
+        {
+            "tag": "forge:eggs"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

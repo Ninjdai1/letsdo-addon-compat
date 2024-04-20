@@ -1,0 +1,35 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "corndelight:nachos"
+    },
+    "ingredients": [
+        {
+            "item": "corndelight:tortilla_chip"
+        },
+        {
+            "item": "corndelight:tortilla_chip"
+        },
+        {
+            "tag": "corndelight:corn_delight_meat"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "corndelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

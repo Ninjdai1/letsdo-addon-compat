@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farmersdelight:fish_stew"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_fishes"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "tag": "forge:crops/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

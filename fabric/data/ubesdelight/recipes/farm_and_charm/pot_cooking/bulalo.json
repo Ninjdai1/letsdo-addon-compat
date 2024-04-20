@@ -1,0 +1,38 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "ubesdelight:bulalo"
+    },
+    "ingredients": [
+        {
+            "tag": "c:raw_beef"
+        },
+        {
+            "tag": "c:bones"
+        },
+        {
+            "tag": "c:crops/onion"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "item": "ubesdelight:fish_sauce_bottle"
+        },
+        {
+            "tag": "c:crops/lemongrass"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

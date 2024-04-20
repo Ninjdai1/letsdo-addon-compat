@@ -1,0 +1,32 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "expandeddelight:mac_and_cheese"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "expandeddelight:cheese_slice"
+        },
+        {
+            "tag": "c:pasta"
+        },
+        {
+            "tag": "c:salt_dusts"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "expandeddelight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

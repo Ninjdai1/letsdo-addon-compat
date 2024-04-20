@@ -1,0 +1,29 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "ubesdelight:tosilog"
+    },
+    "ingredients": [
+        {
+            "item": "ubesdelight:tocino"
+        },
+        {
+            "item": "ubesdelight:sinangag"
+        },
+        {
+            "tag": "c:cooked_eggs"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

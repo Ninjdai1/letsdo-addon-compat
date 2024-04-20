@@ -15,7 +15,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bowl"
     },
     "fabric:load_conditions": [
         {
@@ -23,10 +23,6 @@
             "values": [
                 "createfood",
                 "candlelight"
-            ]
-        }
-    ]
-}             "candlelight"
             ]
         }
     ]

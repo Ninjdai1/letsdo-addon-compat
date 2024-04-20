@@ -1,0 +1,33 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "aetherdelight:quail_stew"
+    },
+    "ingredients": [
+        {
+            "item": "deep_aether:raw_quail"
+        },
+        {
+            "item": "aether:blue_berry"
+        },
+        {
+            "item": "aether:white_flower"
+        },
+        {
+            "item": "aether:skyroot_sapling"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

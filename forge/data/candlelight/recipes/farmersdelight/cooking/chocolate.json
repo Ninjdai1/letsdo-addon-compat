@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "candlelight:chocolate",
         "count": 2
@@ -16,11 +16,11 @@
         },
         {
             "tag": "candlelight:butter"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

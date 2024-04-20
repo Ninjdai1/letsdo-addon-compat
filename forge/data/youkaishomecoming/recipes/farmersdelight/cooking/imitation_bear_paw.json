@@ -1,0 +1,39 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:imitation_bear_paw"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:pufferfish"
+        },
+        {
+            "item": "minecraft:bamboo"
+        },
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        },
+        {
+            "tag": "youkaishomecoming:raw_eel"
+        },
+        {
+            "item": "youkaishomecoming:soy_sauce_bottle"
+        }
+    ],
+    "container": {
+        "item": "youkaishomecoming:saucer"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

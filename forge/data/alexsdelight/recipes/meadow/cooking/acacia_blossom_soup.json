@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "alexsdelight:acacia_blossom_soup"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "alexsmobs:acacia_blossom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "alexsdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

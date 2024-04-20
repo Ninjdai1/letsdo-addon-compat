@@ -6,9 +6,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
-        },
-        {
             "item": "minecraft:sugar"
         },
         {
@@ -18,6 +15,9 @@
             "tag": "bakery:milk"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

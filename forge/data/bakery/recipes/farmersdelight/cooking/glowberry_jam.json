@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "bakery:glowberry_jam"
     },
@@ -9,11 +9,11 @@
         },
         {
             "item": "minecraft:sugar"
-        },
-        {
-            "item": "bakery:jar"
         }
     ],
+    "container": {
+        "item": "bakery:jar"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

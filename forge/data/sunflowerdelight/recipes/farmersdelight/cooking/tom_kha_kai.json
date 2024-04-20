@@ -1,0 +1,33 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "sunflowerdelight:tom_kha_kai"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_chicken"
+        },
+        {
+            "tag": "forge:milk"
+        },
+        {
+            "item": "sunflowerdelight:sunflower_oil"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "sunflowerdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

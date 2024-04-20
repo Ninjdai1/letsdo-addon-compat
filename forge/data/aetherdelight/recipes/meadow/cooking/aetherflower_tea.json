@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "aetherdelight:aetherflower_tea"
+    },
+    "ingredients": [
+        {
+            "item": "aether:purple_flower"
+        },
+        {
+            "item": "aether:white_flower"
+        },
+        {
+            "tag": "forge:berries"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

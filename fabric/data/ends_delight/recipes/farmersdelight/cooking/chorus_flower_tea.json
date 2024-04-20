@@ -1,0 +1,26 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "ends_delight:chorus_flower_tea"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:ghast_tear"
+        },
+        {
+            "item": "ends_delight:dried_chorus_flower"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ends_delight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

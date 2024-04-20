@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "bakery:sweetberry_jam"
     },
@@ -9,11 +9,11 @@
         },
         {
             "item": "minecraft:sugar"
-        },
-        {
-            "item": "bakery:jar"
         }
     ],
+    "container": {
+        "item": "bakery:jar"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

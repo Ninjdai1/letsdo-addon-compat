@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "candlelight:mushroom_soup",
         "count": 1
@@ -16,11 +16,11 @@
         },
         {
             "item": "minecraft:milk_bucket"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

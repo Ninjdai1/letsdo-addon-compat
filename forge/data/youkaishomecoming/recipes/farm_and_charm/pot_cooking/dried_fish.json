@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:dried_fish"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_fishes"
+        },
+        {
+            "tag": "forge:raw_fishes"
+        },
+        {
+            "tag": "forge:raw_fishes"
+        }
+    ],
+    "container": {
+        "item": "youkaishomecoming:saucer"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

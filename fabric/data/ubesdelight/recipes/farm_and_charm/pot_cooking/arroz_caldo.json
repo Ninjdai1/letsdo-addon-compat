@@ -1,0 +1,38 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "ubesdelight:arroz_caldo"
+    },
+    "ingredients": [
+        {
+            "tag": "c:raw_chicken"
+        },
+        {
+            "tag": "c:grain"
+        },
+        {
+            "tag": "c:vegetables/garlic"
+        },
+        {
+            "tag": "c:vegetables/ginger"
+        },
+        {
+            "tag": "c:crops/lemongrass"
+        },
+        {
+            "item": "ubesdelight:fish_sauce_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

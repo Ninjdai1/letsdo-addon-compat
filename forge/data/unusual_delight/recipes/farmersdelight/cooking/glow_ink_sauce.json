@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "unusual_delight:glow_ink_sauce"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

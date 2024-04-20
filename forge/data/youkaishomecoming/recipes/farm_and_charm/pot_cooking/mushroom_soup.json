@@ -1,0 +1,36 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:mushroom_soup"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        },
+        {
+            "item": "youkaishomecoming:bowl_of_cream"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

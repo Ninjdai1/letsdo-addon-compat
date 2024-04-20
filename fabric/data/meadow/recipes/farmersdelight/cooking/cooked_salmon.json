@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "minecraft:cooked_salmon",
         "count": 4
@@ -12,6 +12,9 @@
             "item": "meadow:alpine_salt"
         }
     ],
+    "container": {
+        "item": "minecraft:air"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

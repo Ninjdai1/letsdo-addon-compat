@@ -1,0 +1,38 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farmersdelight:stuffed_pumpkin_block"
+    },
+    "ingredients": [
+        {
+            "tag": "c:crops/rice"
+        },
+        {
+            "tag": "c:crops/onion"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "tag": "c:foods/berries"
+        },
+        {
+            "tag": "c:foods/vegetables"
+        }
+    ],
+    "container": {
+        "item": "minecraft:pumpkin"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "meadow"
+            ]
+        }
+    ]
+}

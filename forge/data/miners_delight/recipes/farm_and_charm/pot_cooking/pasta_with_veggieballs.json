@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "miners_delight:pasta_with_veggieballs"
+    },
+    "ingredients": [
+        {
+            "tag": "miners_delight:baked_cave_carrot"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "miners_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

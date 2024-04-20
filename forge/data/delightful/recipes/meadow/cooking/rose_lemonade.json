@@ -1,0 +1,40 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "sunflowerdelight:rose_lemonade"
+    },
+    "ingredients": [
+        {
+            "item": "sunflowerdelight:rosebud"
+        },
+        {
+            "tag": "forge:sugar"
+        },
+        {
+            "tag": "forge:fruits/melon"
+        },
+        {
+            "tag": "forge:fruits/melon"
+        },
+        {
+            "item": "minecraft:nether_wart"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "sunflowerdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

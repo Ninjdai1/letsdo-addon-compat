@@ -1,6 +1,7 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
+        "count": 4,
         "item": "ubesdelight:milk_tea_ube"
     },
     "ingredients": [
@@ -9,6 +10,15 @@
         },
         {
             "tag": "c:tea_ingredients/sweet/weak"
+        },
+        {
+            "item": "ubesdelight:condensed_milk_bottle"
+        },
+        {
+            "item": "ubesdelight:condensed_milk_bottle"
+        },
+        {
+            "item": "ubesdelight:condensed_milk_bottle"
         },
         {
             "item": "ubesdelight:condensed_milk_bottle"

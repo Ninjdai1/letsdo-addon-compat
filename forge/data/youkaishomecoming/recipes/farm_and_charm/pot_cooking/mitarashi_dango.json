@@ -1,0 +1,39 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:mitarashi_dango"
+    },
+    "ingredients": [
+        {
+            "tag": "youkaishomecoming:dango"
+        },
+        {
+            "tag": "youkaishomecoming:dango"
+        },
+        {
+            "tag": "youkaishomecoming:dango"
+        },
+        {
+            "item": "youkaishomecoming:soybean"
+        },
+        {
+            "item": "youkaishomecoming:soy_sauce_bottle"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:stick"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

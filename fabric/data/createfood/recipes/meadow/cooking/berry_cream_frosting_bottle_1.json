@@ -1,0 +1,29 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:berry_cream_frosting_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:sweet_berries"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}

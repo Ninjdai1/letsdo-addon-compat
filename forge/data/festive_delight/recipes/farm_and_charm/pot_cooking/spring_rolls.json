@@ -1,0 +1,33 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "festive_delight:spring_rolls"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:rice"
+        },
+        {
+            "item": "minecraft:porkchop"
+        },
+        {
+            "item": "farmersdelight:cabbage_leaf"
+        },
+        {
+            "item": "farmersdelight:wheat_dought"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "festive_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

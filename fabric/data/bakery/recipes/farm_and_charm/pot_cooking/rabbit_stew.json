@@ -1,0 +1,33 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "minecraft:rabbit_stew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:rabbit"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "bakery",
+                "minecraft",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

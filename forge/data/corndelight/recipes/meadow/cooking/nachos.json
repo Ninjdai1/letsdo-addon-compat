@@ -1,0 +1,36 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "corndelight:nachos"
+    },
+    "ingredients": [
+        {
+            "item": "corndelight:tortilla_chip"
+        },
+        {
+            "item": "corndelight:tortilla_chip"
+        },
+        {
+            "tag": "corndelight:corn_delight_meat"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "corndelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

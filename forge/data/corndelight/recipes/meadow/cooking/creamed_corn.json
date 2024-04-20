@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "corndelight:creamed_corn"
+    },
+    "ingredients": [
+        {
+            "tag": "c:seeds/corn"
+        },
+        {
+            "tag": "c:seeds/corn"
+        },
+        {
+            "tag": "c:milk"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "corndelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

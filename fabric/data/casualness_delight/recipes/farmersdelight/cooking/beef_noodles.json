@@ -1,0 +1,38 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "casualness_delight:beef_noodles"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:beef"
+        },
+        {
+            "item": "minecraft:beef"
+        },
+        {
+            "tag": "c:pasta"
+        },
+        {
+            "tag": "c:vegetables/carrot"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "c:vegetables/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

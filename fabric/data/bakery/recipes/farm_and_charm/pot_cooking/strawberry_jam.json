@@ -1,0 +1,26 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "bakery:strawberry_jam"
+    },
+    "ingredients": [
+        {
+            "item": "bakery:strawberry"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "bakery:jar"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "bakery",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

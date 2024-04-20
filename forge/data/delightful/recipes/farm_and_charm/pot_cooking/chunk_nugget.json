@@ -1,0 +1,31 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "count": 6,
+        "item": "delightful:chunk_nugget"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:bread"
+        },
+        {
+            "tag": "rottenleather:sweetened_chunk"
+        },
+        {
+            "tag": "rottenleather:sweetened_chunk"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

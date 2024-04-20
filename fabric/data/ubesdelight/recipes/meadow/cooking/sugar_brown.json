@@ -1,0 +1,23 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "ubesdelight:sugar_brown"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "meadow"
+            ]
+        }
+    ]
+}

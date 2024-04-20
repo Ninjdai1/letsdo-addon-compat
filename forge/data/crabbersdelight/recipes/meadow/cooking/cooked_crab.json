@@ -1,0 +1,24 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "crabbersdelight:cooked_crab"
+    },
+    "ingredients": [
+        {
+            "item": "crabbersdelight:crab"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "crabbersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

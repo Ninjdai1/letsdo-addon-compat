@@ -1,0 +1,34 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "undergarden:inky_stew"
+    },
+    "ingredients": [
+        {
+            "item": "undergarden:ink_mushroom"
+        },
+        {
+            "item": "undergarden:ink_mushroom"
+        },
+        {
+            "item": "undergarden:ink_mushroom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergarden"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

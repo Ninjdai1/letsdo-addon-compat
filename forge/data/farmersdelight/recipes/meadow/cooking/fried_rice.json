@@ -1,0 +1,33 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farmersdelight:fried_rice"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:crops/rice"
+        },
+        {
+            "tag": "forge:eggs"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "forge:crops/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

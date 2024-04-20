@@ -1,0 +1,29 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "createfood:chorus_fruit_cream_frosting_bottle"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "minecraft:chorus_fruit"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

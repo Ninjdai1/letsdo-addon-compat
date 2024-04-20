@@ -1,0 +1,37 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "minecraft:rabbit_stew",
+        "count": 6
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:baked_potato"
+        },
+        {
+            "item": "minecraft:cooked_rabbit"
+        },
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "meadow:cheese"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "meadow",
+                "minecraft",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

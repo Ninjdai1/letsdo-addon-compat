@@ -1,0 +1,39 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:blazing_red_curry"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:grain/rice"
+        },
+        {
+            "item": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        {
+            "tag": "forge:vegetables/potato"
+        },
+        {
+            "tag": "forge:raw_chicken"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

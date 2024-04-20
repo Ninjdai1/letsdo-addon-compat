@@ -1,0 +1,25 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "candlelight:pasta_raw",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "tag": "candlelight:dough"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "bakery:glowberry_jam"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "bakery:jar"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "bakery",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

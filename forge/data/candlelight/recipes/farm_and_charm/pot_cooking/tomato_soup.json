@@ -1,0 +1,31 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "candlelight:tomato_soup",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "candlelight:crops/tomato"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "tag": "candlelight:all_effects"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

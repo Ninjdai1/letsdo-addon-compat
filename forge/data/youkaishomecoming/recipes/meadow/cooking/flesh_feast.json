@@ -1,0 +1,36 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:flesh_feast"
+    },
+    "ingredients": [
+        {
+            "item": "youkaishomecoming:raw_flesh_feast"
+        },
+        {
+            "tag": "youkaishomecoming:raw_flesh"
+        },
+        {
+            "item": "youkaishomecoming:blood_bottle"
+        },
+        {
+            "item": "youkaishomecoming:blood_bottle"
+        },
+        {
+            "item": "youkaishomecoming:soy_sauce_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

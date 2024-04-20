@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "meadow:wooden_grain_milk_bucket",
         "count": 1
@@ -18,6 +18,9 @@
             "item": "meadow:wooden_bucket"
         }
     ],
+    "container": {
+        "item": "minecraft:air"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

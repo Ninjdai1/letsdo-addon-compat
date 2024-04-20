@@ -1,0 +1,33 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:koishi_mousse"
+    },
+    "ingredients": [
+        {
+            "item": "youkaishomecoming:tofu"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "item": "youkaishomecoming:butter"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

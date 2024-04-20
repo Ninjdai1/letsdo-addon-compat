@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:higan_soup"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:soul_sand"
+        },
+        {
+            "item": "minecraft:soul_sand"
+        },
+        {
+            "tag": "forge:crops"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

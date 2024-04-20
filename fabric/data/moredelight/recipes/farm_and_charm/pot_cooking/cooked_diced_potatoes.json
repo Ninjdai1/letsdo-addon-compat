@@ -1,0 +1,38 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "moredelight:cooked_diced_potatoes"
+    },
+    "ingredients": [
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        },
+        {
+            "item": "moredelight:diced_potatoes"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "moredelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

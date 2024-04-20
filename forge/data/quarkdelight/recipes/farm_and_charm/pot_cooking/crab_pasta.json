@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "quarkdelight:crab_pasta"
+    },
+    "ingredients": [
+        {
+            "item": "quark:crab_leg"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "tag": "forge:vegetables"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "quarkdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

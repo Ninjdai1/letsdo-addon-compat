@@ -1,0 +1,33 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:lions_head"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "tag": "forge:vegetables/carrot"
+        },
+        {
+            "tag": "forge:salad_ingredients/cabbage"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

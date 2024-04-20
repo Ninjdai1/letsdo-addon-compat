@@ -1,0 +1,33 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "undergardendelight:mogsteak"
+    },
+    "ingredients": [
+        {
+            "tag": "undergardendelight:raw_dweller_meat"
+        },
+        {
+            "item": "undergarden:mogmoss"
+        },
+        {
+            "item": "undergarden:blisterberry"
+        },
+        {
+            "tag": "forge:salad_ingredients"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

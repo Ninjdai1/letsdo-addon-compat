@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "delightful:ender_nectar"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "tag": "forge:milk"
+        },
+        {
+            "tag": "forge:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

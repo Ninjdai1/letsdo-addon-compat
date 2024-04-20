@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "undergardendelight:gronglunch"
+    },
+    "ingredients": [
+        {
+            "item": "undergarden:gronglet"
+        },
+        {
+            "item": "undergardendelight:shimmerpearl"
+        },
+        {
+            "item": "undergarden:roasted_underbeans"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

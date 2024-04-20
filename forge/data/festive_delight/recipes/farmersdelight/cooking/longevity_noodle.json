@@ -1,0 +1,33 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "festive_delight:longevity_noodle"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:chicken_cuts"
+        },
+        {
+            "tag": "forge:pasta"
+        },
+        {
+            "item": "farmersdelight:cabbage_leaf"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "festive_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

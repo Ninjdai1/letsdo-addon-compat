@@ -1,0 +1,32 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "pineapple_delight:pineapple_fried_rice"
+    },
+    "ingredients": [
+        {
+            "item": "pineapple_delight:pineapple_side"
+        },
+        {
+            "tag": "c:crops/rice"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "item": "minecraft:carrot"
+        }
+    ],
+    "container": {
+        "item": "pineapple_delight:pineapple"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "pineapple_delight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

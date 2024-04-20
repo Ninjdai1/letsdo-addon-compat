@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "twilightdelight:mushgloom_meef_pasta"
+    },
+    "ingredients": [
+        {
+            "item": "twilightdelight:mushgloom_sauce"
+        },
+        {
+            "tag": "twilightdelight:meef_raw"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

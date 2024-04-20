@@ -5,20 +5,23 @@
     },
     "ingredients": [
         {
-            "tag": "c:gelatin"
-        },
-        {
-            "tag": "c:gelatin"
-        },
-        {
-            "tag": "c:gelatin"
-        },
-        {
             "item": "minecraft:water_bucket"
+        },
+        {
+            "tag": "c:gelatin"
+        },
+        {
+            "tag": "c:gelatin"
+        },
+        {
+            "tag": "c:gelatin"
+        },
+        {
+            "tag": "c:gelatin"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bucket"
     },
     "fabric:load_conditions": [
         {

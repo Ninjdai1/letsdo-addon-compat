@@ -1,0 +1,36 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:mapo_tofu"
+    },
+    "ingredients": [
+        {
+            "item": "youkaishomecoming:tofu"
+        },
+        {
+            "item": "youkaishomecoming:tofu"
+        },
+        {
+            "item": "youkaishomecoming:tofu"
+        },
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "item": "minecraft:blaze_powder"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

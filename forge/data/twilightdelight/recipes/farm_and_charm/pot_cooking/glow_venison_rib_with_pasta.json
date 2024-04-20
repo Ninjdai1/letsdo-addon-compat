@@ -1,0 +1,36 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "twilightdelight:glow_venison_rib_with_pasta"
+    },
+    "ingredients": [
+        {
+            "item": "twilightdelight:glowstew"
+        },
+        {
+            "tag": "twilightdelight:vension_raw"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "twilightforest:liveroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

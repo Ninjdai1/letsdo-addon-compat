@@ -1,7 +1,6 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "count": 4,
         "item": "ubesdelight:condensed_milk_bottle"
     },
     "ingredients": [
@@ -9,16 +8,7 @@
             "tag": "c:tea_ingredients/sweet/weak"
         },
         {
-            "tag": "c:tea_ingredients/sweet/weak"
-        },
-        {
-            "tag": "c:tea_ingredients/sweet/weak"
-        },
-        {
-            "tag": "c:tea_ingredients/sweet/weak"
-        },
-        {
-            "item": "minecraft:milk_bucket"
+            "item": "farmersdelight:milk_bottle"
         }
     ],
     "container": {

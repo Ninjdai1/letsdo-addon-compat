@@ -1,0 +1,33 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "undergardendelight:baked_gwibling_and_vegetables"
+    },
+    "ingredients": [
+        {
+            "item": "undergardendelight:gloomgourd_slice"
+        },
+        {
+            "item": "undergarden:cooked_gwibling"
+        },
+        {
+            "tag": "forge:crops/onion"
+        },
+        {
+            "item": "farmersdelight:tomato"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

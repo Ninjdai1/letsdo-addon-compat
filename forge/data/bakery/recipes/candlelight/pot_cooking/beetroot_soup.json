@@ -6,13 +6,10 @@
     "ingredients": [
         {
             "item": "minecraft:beetroot"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bowl"
     },
     "conditions": [
         {

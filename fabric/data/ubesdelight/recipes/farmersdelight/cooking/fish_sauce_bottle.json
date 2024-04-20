@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "count": 4,
+        "item": "ubesdelight:fish_sauce_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:raw_fishes"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

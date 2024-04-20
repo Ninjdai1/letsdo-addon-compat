@@ -5,9 +5,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bucket"
-        },
-        {
             "item": "minecraft:water_bucket"
         },
         {
@@ -23,6 +20,9 @@
             "tag": "c:gelatin"
         }
     ],
+    "container": {
+        "item": "minecraft:bucket"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

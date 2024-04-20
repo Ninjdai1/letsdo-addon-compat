@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "twilightdelight:glowstew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "twilightforest:mushgloom"
+        },
+        {
+            "item": "twilightforest:torchberries"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

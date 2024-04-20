@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "aquaculturedelight:poor_fisher_chowder"
+    },
+    "ingredients": [
+        {
+            "item": "aquaculture:fish_bones"
+        },
+        {
+            "item": "aquaculture:algae"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

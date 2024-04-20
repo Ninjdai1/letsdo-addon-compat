@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "quarkdelight:cavern_explorer_stew"
+    },
+    "ingredients": [
+        {
+            "item": "quark:glow_shroom"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "tag": "forge:vegetables"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "quarkdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

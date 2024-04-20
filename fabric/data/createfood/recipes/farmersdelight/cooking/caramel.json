@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "createfood:caramel"
     },
@@ -9,11 +9,11 @@
         },
         {
             "item": "minecraft:sugar"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

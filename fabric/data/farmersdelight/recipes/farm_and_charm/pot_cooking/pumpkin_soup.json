@@ -1,0 +1,32 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "farmersdelight:pumpkin_soup"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:pumpkin_slice"
+        },
+        {
+            "tag": "c:salad_ingredients"
+        },
+        {
+            "tag": "c:foods/raw_meats/raw_pork"
+        },
+        {
+            "tag": "c:milks"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

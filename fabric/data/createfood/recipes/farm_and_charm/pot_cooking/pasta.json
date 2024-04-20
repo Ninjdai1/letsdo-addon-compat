@@ -1,0 +1,27 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "count": 1,
+        "item": "createfood:pasta"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

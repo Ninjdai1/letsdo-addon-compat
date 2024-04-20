@@ -1,0 +1,39 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "twilightdelight:thousand_plant_stew"
+    },
+    "ingredients": [
+        {
+            "item": "twilightforest:root_strand"
+        },
+        {
+            "item": "twilightforest:fallen_leaves"
+        },
+        {
+            "item": "twilightforest:liveroot"
+        },
+        {
+            "item": "twilightforest:torchberry_plant"
+        },
+        {
+            "item": "minecraft:vine"
+        },
+        {
+            "item": "twilightforest:fiddlehead"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

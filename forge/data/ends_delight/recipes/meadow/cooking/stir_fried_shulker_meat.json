@@ -1,0 +1,38 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "ends_delight:stir_fried_shulker_meat"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:crops/onion"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        },
+        [
+            {
+                "item": "minecraft:chorus_fruit"
+            },
+            {
+                "item": "ends_delight:chorus_fruit_grain"
+            }
+        ],
+        {
+            "tag": "forge:shulker_meat"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "ends_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

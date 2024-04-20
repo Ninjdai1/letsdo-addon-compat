@@ -14,7 +14,7 @@
             "tag": "c:salt"
         },
         {
-            "tag": "c:eggs"
+            "tag": "c:water_buckets"
         }
     ],
     "fabric:load_conditions": [
@@ -25,7 +25,5 @@
                 "create"
             ]
         }
-    ]
-}}
     ]
 }

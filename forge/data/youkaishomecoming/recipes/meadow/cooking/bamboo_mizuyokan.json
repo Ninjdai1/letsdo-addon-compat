@@ -1,0 +1,34 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:bamboo_mizuyokan"
+    },
+    "ingredients": [
+        {
+            "item": "youkaishomecoming:redbean"
+        },
+        {
+            "type": "l2library:potion",
+            "potion": "minecraft:water"
+        },
+        {
+            "item": "minecraft:bamboo"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "youkaishomecoming:saucer"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

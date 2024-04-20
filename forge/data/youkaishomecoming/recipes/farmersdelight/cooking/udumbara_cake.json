@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:udumbara_cake"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:dough/wheat"
+        },
+        {
+            "item": "youkaishomecoming:udumbara_flower"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "unusual_delight:sniffer_sizzle"
+    },
+    "ingredients": [
+        {
+            "item": "unusual_delight:raw_sniffer_meat"
+        },
+        {
+            "item": "minecraft:sniffer_egg"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

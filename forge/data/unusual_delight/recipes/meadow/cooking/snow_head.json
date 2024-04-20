@@ -1,0 +1,39 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "unusual_delight:snow_head"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "unusual_delight:chunk_of_glacier"
+        },
+        {
+            "item": "unusual_delight:frostsugar"
+        },
+        {
+            "item": "unusual_delight:living_snowball"
+        },
+        {
+            "tag": "forge:berries"
+        },
+        {
+            "tag": "forge:vegetables"
+        }
+    ],
+    "container": {
+        "item": "minecraft:pumpkin"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

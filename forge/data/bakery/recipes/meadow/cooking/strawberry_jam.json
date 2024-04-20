@@ -5,15 +5,15 @@
     },
     "ingredients": [
         {
-            "item": "bakery:jar"
-        },
-        {
             "item": "bakery:strawberry"
         },
         {
             "item": "minecraft:sugar"
         }
     ],
+    "container": {
+        "item": "bakery:jar"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

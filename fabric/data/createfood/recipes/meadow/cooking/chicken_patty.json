@@ -6,9 +6,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
-        },
-        {
             "tag": "c:milk"
         },
         {
@@ -24,6 +21,9 @@
             "tag": "c:unbreaded_chicken_patty"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

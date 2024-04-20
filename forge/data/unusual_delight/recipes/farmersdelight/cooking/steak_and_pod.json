@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "unusual_delight:steak_and_pod"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:pitcher_pod"
+        },
+        {
+            "item": "minecraft:torchflower"
+        },
+        {
+            "item": "unusual_delight:raw_sniffer_meat"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

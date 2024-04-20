@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "youkaishomecoming:oyaki"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:dough"
+        },
+        {
+            "tag": "forge:vegetables"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "quarkdelight:cooked_whole_crab"
+    },
+    "ingredients": [
+        {
+            "item": "quark:crab_shell"
+        },
+        {
+            "item": "quark:crab_leg"
+        },
+        {
+            "item": "quark:crab_leg"
+        },
+        {
+            "item": "farmersdelight:rice"
+        },
+        {
+            "item": "minecraft:dried_kelp"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "quarkdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "vintagedelight:nut_mash_mason_jar"
+    },
+    "ingredients": [
+        {
+            "item": "vintagedelight:roasted_peanut"
+        },
+        {
+            "item": "vintagedelight:roasted_peanut"
+        },
+        {
+            "item": "vintagedelight:roasted_peanut"
+        },
+        {
+            "item": "vintagedelight:roasted_peanut"
+        },
+        {
+            "item": "vintagedelight:roasted_peanut"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "vintagedelight:mason_jar"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vintagedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "oceansdelight:honey_fried_kelp"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:dried_kelp"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "oceansdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

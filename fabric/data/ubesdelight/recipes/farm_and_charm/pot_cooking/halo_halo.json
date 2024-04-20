@@ -1,0 +1,38 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "ubesdelight:halo_halo"
+    },
+    "ingredients": [
+        {
+            "tag": "c:crops/ube"
+        },
+        {
+            "item": "ubesdelight:leche_flan"
+        },
+        {
+            "item": "ubesdelight:condensed_milk_bottle"
+        },
+        {
+            "item": "minecraft:sweet_berries"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "item": "minecraft:melon_slice"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

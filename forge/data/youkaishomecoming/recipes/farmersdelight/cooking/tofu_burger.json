@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:tofu_burger"
+    },
+    "ingredients": [
+        {
+            "item": "youkaishomecoming:tofu"
+        },
+        {
+            "item": "youkaishomecoming:butter"
+        },
+        {
+            "item": "minecraft:sweet_berries"
+        }
+    ],
+    "container": {
+        "item": "youkaishomecoming:saucer"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

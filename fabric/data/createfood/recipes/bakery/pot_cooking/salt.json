@@ -1,8 +1,8 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "count": 4,
-        "item": "createfood:salt"
+        "item": "createfood:salt",
+        "count": 4
     },
     "ingredients": [
         {
@@ -10,7 +10,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bowl"
     },
     "fabric:load_conditions": [
         {

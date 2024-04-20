@@ -1,0 +1,33 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "aetherdelight:swet_pudding"
+    },
+    "ingredients": [
+        {
+            "item": "aether:swet_ball"
+        },
+        {
+            "tag": "forge:berries"
+        },
+        {
+            "tag": "forge:milk"
+        },
+        {
+            "item": "minecraft:wheat"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

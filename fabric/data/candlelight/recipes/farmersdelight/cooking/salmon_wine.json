@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "candlelight:salmon_wine",
         "count": 2,
@@ -14,11 +14,11 @@
         },
         {
             "tag": "candlelight:butter"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

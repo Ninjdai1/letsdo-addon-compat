@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:apaki"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "tag": "forge:raw_pork"
+        },
+        {
+            "item": "minecraft:pink_petals"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

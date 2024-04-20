@@ -1,0 +1,38 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "minecraft:rabbit_stew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:baked_potato"
+        },
+        {
+            "item": "minecraft:rabbit"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        [
+            {
+                "item": "minecraft:brown_mushroom"
+            },
+            {
+                "item": "minecraft:red_mushroom"
+            }
+        ]
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "minecraft",
+                "meadow"
+            ]
+        }
+    ]
+}

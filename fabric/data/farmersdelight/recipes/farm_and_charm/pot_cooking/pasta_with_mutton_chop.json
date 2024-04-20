@@ -1,0 +1,29 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "farmersdelight:pasta_with_mutton_chop"
+    },
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_meats/raw_mutton"
+        },
+        {
+            "tag": "c:foods/pastas"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

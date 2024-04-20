@@ -1,0 +1,27 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "endersdelight:endermite_stew"
+    },
+    "ingredients": [
+        {
+            "tag": "endersdelight:enderman_loot"
+        },
+        {
+            "item": "endersdelight:mite_crust"
+        }
+    ],
+    "container": {
+        "item": "endersdelight:shulker_bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "endersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

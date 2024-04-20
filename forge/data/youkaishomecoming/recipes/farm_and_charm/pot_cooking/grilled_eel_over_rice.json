@@ -1,0 +1,33 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:grilled_eel_over_rice"
+    },
+    "ingredients": [
+        {
+            "tag": "youkaishomecoming:raw_eel"
+        },
+        {
+            "tag": "youkaishomecoming:raw_eel"
+        },
+        {
+            "tag": "forge:grain/rice"
+        },
+        {
+            "item": "youkaishomecoming:soy_sauce_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

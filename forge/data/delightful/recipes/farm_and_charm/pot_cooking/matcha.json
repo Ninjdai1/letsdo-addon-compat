@@ -1,0 +1,27 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "delightful:matcha"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:tea_leaves/green"
+        },
+        {
+            "tag": "forge:tea_leaves/green"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

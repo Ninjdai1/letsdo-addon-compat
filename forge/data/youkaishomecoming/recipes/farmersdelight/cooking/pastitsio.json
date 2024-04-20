@@ -1,0 +1,36 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:pastitsio"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:pasta"
+        },
+        {
+            "item": "youkaishomecoming:butter"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "tag": "forge:raw_beef"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        }
+    ],
+    "container": {
+        "item": "youkaishomecoming:saucer"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

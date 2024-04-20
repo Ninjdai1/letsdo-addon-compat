@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "count": 3,
+        "item": "aether_redux:vanilla_swet_jelly"
+    },
+    "ingredients": [
+        {
+            "item": "aether_redux:vanilla_swet_ball"
+        },
+        {
+            "item": "aether_redux:vanilla_swet_ball"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aether_redux"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

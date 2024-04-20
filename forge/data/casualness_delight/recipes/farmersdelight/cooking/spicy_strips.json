@@ -1,0 +1,34 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "count": 1,
+        "item": "casualness_delight:spicy_strips"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "tag": "forge:dough"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "casualness_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

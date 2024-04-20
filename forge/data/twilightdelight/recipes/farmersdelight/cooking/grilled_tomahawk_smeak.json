@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "twilightdelight:grilled_tomahawk_smeak"
+    },
+    "ingredients": [
+        {
+            "item": "twilightdelight:raw_tomahawk_smeak"
+        },
+        {
+            "item": "twilightdelight:mushgloom_sauce"
+        },
+        {
+            "item": "farmersdelight:milk_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "meadow:alpine_salt",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "item": "minecraft:calcite"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "meadow",
+                "bakery"
+            ]
+        }
+    ]
+}

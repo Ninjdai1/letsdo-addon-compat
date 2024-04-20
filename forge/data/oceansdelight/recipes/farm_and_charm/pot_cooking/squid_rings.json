@@ -1,0 +1,27 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "oceansdelight:squid_rings"
+    },
+    "ingredients": [
+        {
+            "item": "oceansdelight:cut_tentacles"
+        },
+        {
+            "tag": "forge:dough"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "oceansdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

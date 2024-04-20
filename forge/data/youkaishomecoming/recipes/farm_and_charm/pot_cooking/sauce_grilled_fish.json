@@ -1,0 +1,36 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:sauce_grilled_fish"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:raw_fishes"
+        },
+        {
+            "item": "youkaishomecoming:soy_sauce_bottle"
+        },
+        {
+            "tag": "forge:vegetables"
+        },
+        {
+            "tag": "forge:vegetables"
+        },
+        {
+            "tag": "forge:vegetables/onion"
+        }
+    ],
+    "container": {
+        "item": "youkaishomecoming:saucer"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

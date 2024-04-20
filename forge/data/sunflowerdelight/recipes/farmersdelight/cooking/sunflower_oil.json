@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "sunflowerdelight:sunflower_oil"
+    },
+    "ingredients": [
+        {
+            "item": "sunflowerdelight:peeled_sunflower_seed"
+        },
+        {
+            "item": "sunflowerdelight:peeled_sunflower_seed"
+        },
+        {
+            "item": "sunflowerdelight:peeled_sunflower_seed"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "sunflowerdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

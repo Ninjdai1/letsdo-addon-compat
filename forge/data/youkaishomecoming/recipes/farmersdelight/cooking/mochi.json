@@ -1,0 +1,28 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "count": 2,
+        "item": "youkaishomecoming:mochi"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:grain/rice"
+        },
+        {
+            "item": "youkaishomecoming:redbean"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

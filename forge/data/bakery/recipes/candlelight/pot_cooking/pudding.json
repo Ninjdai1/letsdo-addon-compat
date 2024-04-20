@@ -13,13 +13,10 @@
         },
         {
             "tag": "bakery:milk"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bowl"
     },
     "conditions": [
         {

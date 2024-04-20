@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "minecraft:rabbit_stew"
     },
@@ -15,11 +15,11 @@
         },
         {
             "item": "minecraft:rabbit"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

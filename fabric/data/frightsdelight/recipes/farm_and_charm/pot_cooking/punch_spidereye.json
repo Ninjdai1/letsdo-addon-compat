@@ -1,0 +1,34 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "frightsdelight:punch_spidereye",
+        "count": 4
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:spider_eye"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle",
+        "count": 4
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "frightsdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

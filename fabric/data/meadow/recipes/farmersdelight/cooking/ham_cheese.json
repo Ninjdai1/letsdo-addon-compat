@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "meadow:ham_cheese",
         "count": 2
@@ -15,6 +15,9 @@
             "tag": "meadow:cheese"
         }
     ],
+    "container": {
+        "item": "minecraft:air"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

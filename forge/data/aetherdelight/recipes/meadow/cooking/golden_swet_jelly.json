@@ -1,0 +1,35 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "count": 3,
+        "item": "aether_redux:golden_swet_jelly"
+    },
+    "ingredients": [
+        {
+            "tag": "aetherdelight:golden_swet_balls"
+        },
+        {
+            "tag": "aetherdelight:golden_swet_balls"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aetherdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aether_redux"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "endersdelight:pearl_pasta"
+    },
+    "ingredients": [
+        {
+            "tag": "endersdelight:enderman_loot"
+        },
+        {
+            "tag": "forge:pasta"
+        },
+        {
+            "item": "endersdelight:chorus_juice"
+        }
+    ],
+    "container": {
+        "item": "endersdelight:shulker_bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "endersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

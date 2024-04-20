@@ -1,0 +1,29 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "corndelight:creamy_corn_drink"
+    },
+    "ingredients": [
+        {
+            "tag": "c:crops/corn"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "corndelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

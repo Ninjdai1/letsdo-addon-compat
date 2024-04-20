@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "count": 2,
+        "item": "casualness_delight:phantom_puff"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
+            "item": "casualness_delight:cheese_wheel_slice"
+        },
+        {
+            "tag": "c:milk"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

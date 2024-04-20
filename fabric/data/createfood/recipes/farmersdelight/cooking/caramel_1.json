@@ -1,0 +1,26 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "createfood:caramel"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

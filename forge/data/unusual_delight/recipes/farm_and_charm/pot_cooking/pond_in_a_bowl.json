@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "unusual_delight:pond_in_a_bowl"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:seagrass"
+        },
+        {
+            "item": "minecraft:cod"
+        },
+        {
+            "item": "minecraft:lily_pad"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "unusual_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

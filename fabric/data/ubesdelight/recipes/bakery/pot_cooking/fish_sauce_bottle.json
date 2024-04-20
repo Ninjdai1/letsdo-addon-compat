@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "minecraft:fishes"
+            "tag": "c:raw_fishes"
         },
         {
             "item": "minecraft:water_bucket"

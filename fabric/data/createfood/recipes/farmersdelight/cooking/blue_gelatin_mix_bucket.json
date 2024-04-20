@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "createfood:blue_gelatin_mix_bucket"
+    },
+    "ingredients": [
+        {
+            "tag": "c:gelatin"
+        },
+        {
+            "tag": "c:gelatin"
+        },
+        {
+            "tag": "c:gelatin"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "tag": "c:blue_dyes"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "candlelight:pork_ribs",
+        "count": 4,
+        "experience": 0.75
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:porkchop"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "tag": "candlelight:red_effect"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

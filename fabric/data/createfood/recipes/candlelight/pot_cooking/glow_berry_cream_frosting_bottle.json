@@ -12,13 +12,10 @@
         },
         {
             "item": "minecraft:glow_berries"
-        },
-        {
-            "item": "minecraft:glass_bottle"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:glass_bottle"
     },
     "fabric:load_conditions": [
         {

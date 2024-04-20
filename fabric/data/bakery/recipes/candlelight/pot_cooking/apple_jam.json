@@ -9,13 +9,10 @@
         },
         {
             "item": "minecraft:sugar"
-        },
-        {
-            "item": "bakery:jar"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "bakery:jar"
     },
     "fabric:load_conditions": [
         {

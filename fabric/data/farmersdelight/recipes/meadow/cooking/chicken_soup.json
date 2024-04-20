@@ -1,0 +1,32 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farmersdelight:chicken_soup"
+    },
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_meats/raw_chicken"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "c:salad_ingredients"
+        },
+        {
+            "tag": "c:foods/vegetables"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "meadow"
+            ]
+        }
+    ]
+}

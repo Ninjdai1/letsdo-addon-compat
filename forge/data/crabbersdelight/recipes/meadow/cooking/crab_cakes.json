@@ -1,0 +1,36 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "crabbersdelight:crab_cakes"
+    },
+    "ingredients": [
+        {
+            "item": "crabbersdelight:crab"
+        },
+        {
+            "item": "farmersdelight:wheat_dough"
+        },
+        {
+            "tag": "forge:milk/milk_bottle"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "farmersdelight:onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "crabbersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

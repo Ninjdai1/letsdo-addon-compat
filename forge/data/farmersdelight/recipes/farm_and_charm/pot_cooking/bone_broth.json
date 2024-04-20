@@ -1,0 +1,38 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "farmersdelight:bone_broth"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:bones"
+        },
+        [
+            {
+                "item": "minecraft:glow_berries"
+            },
+            {
+                "tag": "forge:mushrooms"
+            },
+            {
+                "item": "minecraft:hanging_roots"
+            },
+            {
+                "item": "minecraft:glow_lichen"
+            }
+        ]
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

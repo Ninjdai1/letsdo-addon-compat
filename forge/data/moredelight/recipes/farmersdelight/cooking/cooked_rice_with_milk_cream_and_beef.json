@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "moredelight:cooked_rice_with_milk_cream_and_beef"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:milk/milk_bottle"
+        },
+        {
+            "tag": "forge:crops/rice"
+        },
+        {
+            "tag": "forge:raw_beef"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "moredelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

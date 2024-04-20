@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "createfood:berry_cream_frosting_bottle"
     },
@@ -12,11 +12,11 @@
         },
         {
             "item": "minecraft:sweet_berries"
-        },
-        {
-            "item": "minecraft:glass_bottle"
         }
     ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

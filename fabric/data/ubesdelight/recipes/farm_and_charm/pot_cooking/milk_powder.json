@@ -1,0 +1,23 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "ubesdelight:milk_powder"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk/milk_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

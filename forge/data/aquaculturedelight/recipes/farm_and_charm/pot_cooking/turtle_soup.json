@@ -1,0 +1,28 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "aquaculture:turtle_soup"
+    },
+    "ingredients": [
+        {
+            "tag": "aquaculturedelight:turtle_meats"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculturedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aquaculture"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

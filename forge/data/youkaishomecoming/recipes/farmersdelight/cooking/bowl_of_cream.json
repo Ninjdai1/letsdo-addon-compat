@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "youkaishomecoming:bowl_of_cream"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:milk/milk_bottle"
+        },
+        {
+            "tag": "forge:milk/milk_bottle"
+        },
+        {
+            "tag": "forge:milk/milk_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "youkaishomecoming"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

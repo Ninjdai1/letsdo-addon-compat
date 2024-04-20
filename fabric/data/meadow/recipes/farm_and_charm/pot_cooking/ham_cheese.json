@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "meadow:ham_cheese",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "meadow:raw_bear_meat"
+        },
+        {
+            "item": "meadow:alpine_salt"
+        },
+        {
+            "tag": "meadow:cheese"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "meadow",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

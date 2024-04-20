@@ -1,0 +1,38 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "casualness_delight:raw_cheese_wheel"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "tag": "c:mushrooms"
+        },
+        {
+            "tag": "c:mushrooms"
+        },
+        {
+            "tag": "c:mushrooms"
+        }
+    ],
+    "container": {
+        "item": "farmersdelight:canvas"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

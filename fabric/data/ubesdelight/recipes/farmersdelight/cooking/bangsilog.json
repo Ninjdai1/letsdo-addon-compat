@@ -1,0 +1,29 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "ubesdelight:bangsilog"
+    },
+    "ingredients": [
+        {
+            "tag": "c:raw_fishes"
+        },
+        {
+            "item": "ubesdelight:sinangag"
+        },
+        {
+            "tag": "c:cooked_eggs"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

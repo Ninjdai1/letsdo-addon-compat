@@ -5,14 +5,14 @@
     },
     "ingredients": [
         {
-            "tag": "c:milk"
+            "item": "minecraft:sugar"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:milk"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:glass_bottle"
     },
     "fabric:load_conditions": [
         {

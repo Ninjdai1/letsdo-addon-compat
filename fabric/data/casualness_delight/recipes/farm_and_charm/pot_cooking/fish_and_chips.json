@@ -1,0 +1,32 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "casualness_delight:fish_and_chips"
+    },
+    "ingredients": [
+        {
+            "item": "farmersdelight:cod_slice"
+        },
+        {
+            "tag": "c:vegetables/potato"
+        },
+        {
+            "tag": "c:vegetables/potato"
+        },
+        {
+            "tag": "c:dough"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "casualness_delight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

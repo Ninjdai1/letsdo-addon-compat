@@ -1,0 +1,33 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "count": 4,
+        "item": "ubesdelight:leche_flan"
+    },
+    "ingredients": [
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "tag": "c:tea_ingredients/sweet/weak"
+        },
+        {
+            "item": "ubesdelight:condensed_milk_bottle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "ubesdelight",
+                "meadow"
+            ]
+        }
+    ]
+}

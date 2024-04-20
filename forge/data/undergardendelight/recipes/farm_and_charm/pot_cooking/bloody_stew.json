@@ -1,0 +1,34 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "undergarden:bloody_stew"
+    },
+    "ingredients": [
+        {
+            "item": "undergarden:blood_mushroom"
+        },
+        {
+            "item": "undergarden:blood_mushroom"
+        },
+        {
+            "item": "undergarden:blood_mushroom"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergardendelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "undergarden"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

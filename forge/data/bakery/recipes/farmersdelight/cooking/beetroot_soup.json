@@ -1,16 +1,16 @@
 {
-    "type": "farmersdelight:cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "minecraft:beetroot_soup"
     },
     "ingredients": [
         {
             "item": "minecraft:beetroot"
-        },
-        {
-            "item": "minecraft:bowl"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

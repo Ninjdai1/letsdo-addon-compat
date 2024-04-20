@@ -1,0 +1,32 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "farmersdelight:squid_ink_pasta"
+    },
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_fishes"
+        },
+        {
+            "tag": "c:foods/pastas"
+        },
+        {
+            "tag": "c:crops/tomato"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

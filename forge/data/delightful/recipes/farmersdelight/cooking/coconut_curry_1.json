@@ -1,0 +1,39 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "delightful:coconut_curry"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:coconut"
+        },
+        {
+            "tag": "forge:raw_chicken"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        },
+        {
+            "tag": "forge:tea_leaves/green"
+        },
+        {
+            "tag": "forge:salad_ingredients/cabbage"
+        },
+        {
+            "tag": "forge:crops/onion"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

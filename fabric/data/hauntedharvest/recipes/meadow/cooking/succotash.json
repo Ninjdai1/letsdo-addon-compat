@@ -1,0 +1,32 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "hauntedharvest:succotash"
+    },
+    "ingredients": [
+        {
+            "tag": "c:crops/corn"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "tag": "c:crops/tomato"
+        },
+        {
+            "tag": "c:cooked_pork"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "hauntedharvest",
+                "meadow"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "endersdelight:ender_paella"
+    },
+    "ingredients": [
+        {
+            "tag": "endersdelight:enderman_sight"
+        },
+        {
+            "tag": "endersdelight:shulker_loot"
+        },
+        {
+            "item": "minecraft:chorus_flower"
+        },
+        {
+            "item": "farmersdelight:rice"
+        }
+    ],
+    "container": {
+        "item": "endersdelight:shulker_bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "endersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

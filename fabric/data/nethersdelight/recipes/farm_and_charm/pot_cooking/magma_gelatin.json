@@ -1,0 +1,32 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "nethersdelight:magma_gelatin"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:magma_cream"
+        },
+        {
+            "item": "minecraft:magma_cream"
+        },
+        {
+            "item": "minecraft:magma_cream"
+        },
+        {
+            "item": "nethersdelight:propelpearl"
+        }
+    ],
+    "container": {
+        "item": "minecraft:lava_bucket"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "nethersdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

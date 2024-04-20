@@ -1,0 +1,29 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "moredelight:pasta_with_milk_cream_and_ham"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk/milk_bottle"
+        },
+        {
+            "tag": "c:pasta/raw_pasta"
+        },
+        {
+            "item": "farmersdelight:ham"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "moredelight",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

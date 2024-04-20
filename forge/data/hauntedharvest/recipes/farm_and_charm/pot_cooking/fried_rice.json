@@ -1,0 +1,37 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "farmersdelight:fried_rice"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:crops/rice"
+        },
+        {
+            "tag": "forge:eggs"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "forge:crops/corn"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "hauntedharvest"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

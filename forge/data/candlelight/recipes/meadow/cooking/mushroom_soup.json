@@ -1,0 +1,34 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "candlelight:mushroom_soup",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "candlelight:mushrooms"
+        },
+        {
+            "tag": "candlelight:red_effect"
+        },
+        {
+            "tag": "candlelight:butter"
+        },
+        {
+            "item": "minecraft:milk_bucket"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

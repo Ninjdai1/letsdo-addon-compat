@@ -1,0 +1,30 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "count": 2,
+        "item": "createfood:chicken_patty"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "tag": "c:toast"
+        }
+    ],
+    "container": {
+        "item": "createfood:unbreaded_chicken_patty"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "bakery"
+            ]
+        }
+    ]
+}

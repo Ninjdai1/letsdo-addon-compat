@@ -1,0 +1,32 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "candlelight:lasagne",
+        "count": 6,
+        "experience": 0.15
+    },
+    "ingredients": [
+        {
+            "item": "candlelight:bolognese"
+        },
+        {
+            "tag": "candlelight:pasta"
+        },
+        {
+            "tag": "candlelight:cheese"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

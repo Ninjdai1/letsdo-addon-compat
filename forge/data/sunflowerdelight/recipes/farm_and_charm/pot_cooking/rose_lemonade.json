@@ -1,0 +1,36 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "sunflowerdelight:rose_lemonade"
+    },
+    "ingredients": [
+        {
+            "item": "sunflowerdelight:rosebud"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:melon_slice"
+        },
+        {
+            "item": "minecraft:melon_slice"
+        },
+        {
+            "item": "minecraft:nether_wart"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "sunflowerdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

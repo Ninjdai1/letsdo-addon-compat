@@ -1,0 +1,44 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "corndelight:corn_soup"
+    },
+    "ingredients": [
+        {
+            "tag": "c:crops/corn"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        [
+            {
+                "item": "minecraft:cooked_chicken"
+            },
+            {
+                "item": "minecraft:cooked_beef"
+            },
+            {
+                "item": "minecraft:cooked_porkchop"
+            },
+            {
+                "item": "minecraft:brown_mushroom"
+            }
+        ],
+        {
+            "tag": "c:milk"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "corndelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

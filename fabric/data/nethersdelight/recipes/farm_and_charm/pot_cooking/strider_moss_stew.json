@@ -1,0 +1,35 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "nethersdelight:strider_moss_stew"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:warped_fungus"
+        },
+        {
+            "item": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "minecraft:crimson_roots"
+        },
+        {
+            "item": "minecraft:warped_fungus"
+        },
+        {
+            "tag": "nethersdelight:raw_strider"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "nethersdelight",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

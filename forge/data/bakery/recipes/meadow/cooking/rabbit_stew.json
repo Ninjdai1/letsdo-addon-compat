@@ -5,9 +5,6 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bowl"
-        },
-        {
             "item": "minecraft:potato"
         },
         {
@@ -20,6 +17,9 @@
             "item": "minecraft:rabbit"
         }
     ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",
