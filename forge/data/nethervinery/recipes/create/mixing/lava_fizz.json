@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "nethervinery:lava_fizz"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "nethervinery:warped_grapejuice"
+        },
+        {
+            "item": "nethervinery:crimson_grapejuice"
+        },
+        {
+            "item": "minecraft:lava_bucket"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "nethervinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ]
+}

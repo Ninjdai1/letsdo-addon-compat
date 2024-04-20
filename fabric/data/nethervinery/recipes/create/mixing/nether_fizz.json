@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "nethervinery:nether_fizz"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "nethervinery:warped_grapejuice"
+        },
+        {
+            "item": "nethervinery:crimson_grapejuice"
+        },
+        {
+            "item": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "minecraft:warped_fungus"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "nethervinery",
+                "create"
+            ]
+        }
+    ]
+}

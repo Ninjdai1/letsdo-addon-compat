@@ -1,0 +1,32 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "nethervinery:nether_fizz"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "nethervinery:warped_grapejuice"
+        },
+        {
+            "item": "nethervinery:crimson_grapejuice"
+        },
+        {
+            "item": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "minecraft:warped_fungus"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "nethervinery"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ]
+}
