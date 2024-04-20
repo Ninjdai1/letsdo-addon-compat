@@ -13,13 +13,10 @@
         },
         {
             "tag": "meadow:wheat"
-        },
-        {
-            "item": "meadow:wooden_bucket"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "meadow:wooden_bucket"
     },
     "conditions": [
         {
