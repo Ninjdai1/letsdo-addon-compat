@@ -23,11 +23,11 @@
             {
                 "item": "minecraft:brown_mushroom"
             }
-        ]
+        ],
+        {
+            "tag": "c:milk"
+        }
     ],
-    "container": {
-        "tag": "c:milk"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

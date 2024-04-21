@@ -12,9 +12,6 @@
             "item": "youkaishomecoming:redbean"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

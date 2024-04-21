@@ -11,9 +11,6 @@
             "tag": "miners_delight:bat_wing"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

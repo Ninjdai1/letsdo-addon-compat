@@ -18,11 +18,11 @@
         },
         {
             "tag": "c:crops/lemongrass"
+        },
+        {
+            "item": "ubesdelight:fish_sauce_bottle"
         }
     ],
-    "container": {
-        "item": "ubesdelight:fish_sauce_bottle"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

@@ -24,9 +24,6 @@
             "item": "youkaishomecoming:oily_bean_curd"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

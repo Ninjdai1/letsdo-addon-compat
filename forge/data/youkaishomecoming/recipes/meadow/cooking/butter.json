@@ -8,9 +8,6 @@
             "tag": "forge:milk/milk_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

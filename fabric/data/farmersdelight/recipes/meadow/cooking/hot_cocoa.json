@@ -5,6 +5,9 @@
     },
     "ingredients": [
         {
+            "tag": "c:milks"
+        },
+        {
             "item": "minecraft:sugar"
         },
         {
@@ -14,9 +17,6 @@
             "item": "minecraft:cocoa_beans"
         }
     ],
-    "container": {
-        "tag": "c:milks"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

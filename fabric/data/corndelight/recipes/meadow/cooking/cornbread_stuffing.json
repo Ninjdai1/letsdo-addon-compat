@@ -17,9 +17,6 @@
             "item": "minecraft:sweet_berries"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

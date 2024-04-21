@@ -4,10 +4,11 @@
         "count": 4,
         "item": "createfood:salt"
     },
-    "ingredients": [],
-    "container": {
-        "item": "minecraft:water_bucket"
-    },
+    "ingredients": [
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

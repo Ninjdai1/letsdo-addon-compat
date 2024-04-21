@@ -11,12 +11,12 @@
             "item": "minecraft:sugar"
         },
         {
+            "item": "minecraft:honey_bottle"
+        },
+        {
             "item": "minecraft:kelp"
         }
     ],
-    "container": {
-        "item": "minecraft:honey_bottle"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

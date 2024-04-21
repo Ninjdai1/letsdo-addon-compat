@@ -6,11 +6,11 @@
     "ingredients": [
         {
             "item": "minecraft:dried_kelp"
+        },
+        {
+            "item": "minecraft:honey_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:honey_bottle"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

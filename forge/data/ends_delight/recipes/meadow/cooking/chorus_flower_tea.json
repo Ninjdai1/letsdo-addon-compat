@@ -11,9 +11,6 @@
             "item": "ends_delight:dried_chorus_flower"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

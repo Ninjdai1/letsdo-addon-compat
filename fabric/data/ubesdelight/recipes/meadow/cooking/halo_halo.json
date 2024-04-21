@@ -11,6 +11,9 @@
             "item": "ubesdelight:leche_flan"
         },
         {
+            "item": "ubesdelight:condensed_milk_bottle"
+        },
+        {
             "item": "minecraft:sweet_berries"
         },
         {
@@ -20,9 +23,6 @@
             "item": "minecraft:melon_slice"
         }
     ],
-    "container": {
-        "item": "ubesdelight:condensed_milk_bottle"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

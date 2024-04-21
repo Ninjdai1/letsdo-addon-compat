@@ -20,9 +20,6 @@
             "tag": "forge:salad_ingredients"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

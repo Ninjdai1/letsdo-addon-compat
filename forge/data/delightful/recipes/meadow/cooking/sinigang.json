@@ -8,6 +8,9 @@
             "tag": "forge:raw_fishes"
         },
         {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
             "tag": "forge:crops/onion"
         },
         {
@@ -20,9 +23,6 @@
             "tag": "forge:fruits/citrus"
         }
     ],
-    "container": {
-        "item": "farmersdelight:tomato_sauce"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

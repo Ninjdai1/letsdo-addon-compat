@@ -17,9 +17,6 @@
             "tag": "c:food_wrappers/lumpia_wrapper"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

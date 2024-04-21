@@ -19,9 +19,6 @@
             "item": "ends_delight:ender_pearl_grain"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

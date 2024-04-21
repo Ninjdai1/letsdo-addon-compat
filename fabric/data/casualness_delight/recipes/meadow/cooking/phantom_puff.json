@@ -10,11 +10,11 @@
         },
         {
             "item": "casualness_delight:cheese_wheel_slice"
+        },
+        {
+            "tag": "c:milk"
         }
     ],
-    "container": {
-        "tag": "c:milk"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

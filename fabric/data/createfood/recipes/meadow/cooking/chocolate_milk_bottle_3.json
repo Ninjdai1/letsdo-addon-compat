@@ -6,11 +6,11 @@
     "ingredients": [
         {
             "tag": "c:cocoa_powder"
+        },
+        {
+            "tag": "c:milk"
         }
     ],
-    "container": {
-        "tag": "c:milk"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

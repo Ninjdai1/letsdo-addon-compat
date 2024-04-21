@@ -6,15 +6,15 @@
     },
     "ingredients": [
         {
+            "item": "minecraft:milk_bucket"
+        },
+        {
             "tag": "forge:salt"
         },
         {
             "item": "vintagedelight:vinegar_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:milk_bucket"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

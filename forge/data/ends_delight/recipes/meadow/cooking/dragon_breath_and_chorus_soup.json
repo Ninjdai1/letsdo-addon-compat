@@ -5,6 +5,9 @@
     },
     "ingredients": [
         {
+            "item": "minecraft:suspicious_stew"
+        },
+        {
             "item": "minecraft:dragon_breath"
         },
         {
@@ -17,9 +20,6 @@
             "item": "minecraft:chorus_fruit"
         }
     ],
-    "container": {
-        "item": "minecraft:suspicious_stew"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

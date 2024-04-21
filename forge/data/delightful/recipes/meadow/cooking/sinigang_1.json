@@ -23,9 +23,6 @@
             "tag": "forge:crops/onion"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

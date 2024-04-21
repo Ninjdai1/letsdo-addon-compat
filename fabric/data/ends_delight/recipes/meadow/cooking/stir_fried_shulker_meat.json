@@ -22,9 +22,6 @@
             "tag": "c:shulker_meat"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

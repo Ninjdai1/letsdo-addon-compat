@@ -9,11 +9,11 @@
         },
         {
             "tag": "c:seeds/corn"
+        },
+        {
+            "tag": "c:milk"
         }
     ],
-    "container": {
-        "tag": "c:milk"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

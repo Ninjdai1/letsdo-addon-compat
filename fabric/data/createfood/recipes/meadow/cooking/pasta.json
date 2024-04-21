@@ -6,12 +6,12 @@
     },
     "ingredients": [
         {
+            "item": "minecraft:water_bucket"
+        },
+        {
             "item": "farmersdelight:raw_pasta"
         }
     ],
-    "container": {
-        "item": "minecraft:water_bucket"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

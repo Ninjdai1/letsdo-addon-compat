@@ -22,9 +22,6 @@
             "tag": "forge:shulker_meat"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

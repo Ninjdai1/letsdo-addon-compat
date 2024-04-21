@@ -5,15 +5,15 @@
     },
     "ingredients": [
         {
+            "tag": "c:milk"
+        },
+        {
             "item": "minecraft:sugar"
         },
         {
             "tag": "c:cocoa_powder"
         }
     ],
-    "container": {
-        "tag": "c:milk"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

@@ -20,9 +20,6 @@
             "item": "unusual_delight:magic_butter"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

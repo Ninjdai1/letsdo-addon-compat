@@ -6,11 +6,11 @@
     "ingredients": [
         {
             "item": "minecraft:dried_kelp"
+        },
+        {
+            "item": "minecraft:honey_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:honey_bottle"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

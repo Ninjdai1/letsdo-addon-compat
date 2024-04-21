@@ -9,11 +9,11 @@
         },
         {
             "tag": "c:foods/pastas"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
         }
     ],
-    "container": {
-        "item": "farmersdelight:tomato_sauce"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

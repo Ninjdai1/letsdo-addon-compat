@@ -8,6 +8,9 @@
             "item": "minecraft:blaze_powder"
         },
         {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
             "item": "farmersdelight:cooked_rice"
         },
         {
@@ -20,9 +23,6 @@
             "tag": "c:milk"
         }
     ],
-    "container": {
-        "item": "farmersdelight:tomato_sauce"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

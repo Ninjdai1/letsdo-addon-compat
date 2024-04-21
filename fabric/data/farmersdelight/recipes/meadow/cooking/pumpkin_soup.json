@@ -12,11 +12,11 @@
         },
         {
             "tag": "c:foods/raw_meats/raw_pork"
+        },
+        {
+            "tag": "c:milks"
         }
     ],
-    "container": {
-        "tag": "c:milks"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

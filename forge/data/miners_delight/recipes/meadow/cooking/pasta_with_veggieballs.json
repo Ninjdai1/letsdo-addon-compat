@@ -9,11 +9,11 @@
         },
         {
             "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
         }
     ],
-    "container": {
-        "item": "farmersdelight:tomato_sauce"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

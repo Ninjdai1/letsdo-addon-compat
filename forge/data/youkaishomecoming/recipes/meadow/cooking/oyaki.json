@@ -14,9 +14,6 @@
             "item": "minecraft:brown_mushroom"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

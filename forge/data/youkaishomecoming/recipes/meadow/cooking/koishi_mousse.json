@@ -11,12 +11,12 @@
             "tag": "forge:vegetables/onion"
         },
         {
+            "item": "minecraft:honey_bottle"
+        },
+        {
             "item": "youkaishomecoming:butter"
         }
     ],
-    "container": {
-        "item": "minecraft:honey_bottle"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

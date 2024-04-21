@@ -8,12 +8,12 @@
             "tag": "c:crops/corn"
         },
         {
+            "tag": "c:milk"
+        },
+        {
             "item": "minecraft:sugar"
         }
     ],
-    "container": {
-        "tag": "c:milk"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",

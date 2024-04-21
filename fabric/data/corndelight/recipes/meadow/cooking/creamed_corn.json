@@ -9,11 +9,11 @@
         },
         {
             "tag": "c:seeds/corn"
+        },
+        {
+            "tag": "c:milk"
         }
     ],
-    "container": {
-        "tag": "c:milk"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

@@ -20,9 +20,6 @@
             "tag": "nethersdelight:raw_strider"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

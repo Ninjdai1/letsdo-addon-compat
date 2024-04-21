@@ -11,9 +11,6 @@
             "tag": "forge:raw_pork"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",
