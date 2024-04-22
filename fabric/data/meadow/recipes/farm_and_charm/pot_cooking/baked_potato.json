@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:potato"
+            "tag": "c:crops/potato"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "c:salt"
         }
     ],
     "container": {

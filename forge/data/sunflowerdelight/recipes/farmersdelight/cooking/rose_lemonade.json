@@ -8,7 +8,7 @@
             "item": "sunflowerdelight:rosebud"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         },
         {
             "item": "minecraft:melon_slice"

@@ -15,13 +15,13 @@
             "item": "meadow:raw_bear_meat"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "forge:salt"
         },
         {
-            "item": "minecraft:potato"
+            "tag": "forge:crops/potato"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         }
     ],
     "container": {

@@ -6,19 +6,19 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         }
     ],
     "container": {

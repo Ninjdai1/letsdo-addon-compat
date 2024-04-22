@@ -1,11 +1,29 @@
 {
     "replace": false,
     "values": [
-        "meadow:piece_of_cheese",
-        "meadow:piece_of_sheep_cheese",
-        "meadow:piece_of_grain_cheese",
-        "meadow:piece_of_amethyst_cheese",
-        "meadow:piece_of_buffalo_cheese",
-        "meadow:piece_of_goat_cheese"
+        {
+            "id": "meadow:piece_of_cheese",
+            "required": false
+        },
+        {
+            "id": "meadow:piece_of_sheep_cheese",
+            "required": false
+        },
+        {
+            "id": "meadow:piece_of_grain_cheese",
+            "required": false
+        },
+        {
+            "id": "meadow:piece_of_amethyst_cheese",
+            "required": false
+        },
+        {
+            "id": "meadow:piece_of_buffalo_cheese",
+            "required": false
+        },
+        {
+            "id": "meadow:piece_of_goat_cheese",
+            "required": false
+        }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:fruits/strawberries",
+            "required": false
+        },
+        {
+            "id": "#c:fruits/blueberries",
+            "required": false
+        },
+        {
+            "id": "#c:fruits/blackberries",
+            "required": false
+        },
+        {
+            "id": "#c:fruits/raspberries",
+            "required": false
+        }
+    ]
+}

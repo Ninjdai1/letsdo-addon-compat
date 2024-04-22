@@ -11,7 +11,7 @@
             "tag": "forge:vegetables"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
             "item": "farmersdelight:rice"

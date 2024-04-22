@@ -20,7 +20,7 @@
             "item": "youkaishomecoming:soy_sauce_bottle"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

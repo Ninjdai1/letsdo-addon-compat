@@ -8,7 +8,7 @@
             "item": "croptopia:grape"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

@@ -11,7 +11,7 @@
             "item": "unusual_delight:prepared_sea_pickle"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

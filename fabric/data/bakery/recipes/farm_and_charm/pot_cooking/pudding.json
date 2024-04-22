@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:egg"
+            "tag": "c:eggs"
         },
         {
             "tag": "bakery:jam"

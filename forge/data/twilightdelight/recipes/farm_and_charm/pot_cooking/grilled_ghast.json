@@ -8,7 +8,7 @@
             "item": "farmersdelight:tomato"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
             "item": "twilightforest:fiery_tears"

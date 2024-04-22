@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "farmersdelight:cod_slice"
+            "tag": "c:foods/raw_cod"
         },
         {
             "tag": "c:vegetables/potato"

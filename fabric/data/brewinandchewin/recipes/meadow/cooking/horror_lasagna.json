@@ -8,7 +8,7 @@
             "item": "brewinandchewin:scarlet_cheese_wedge"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "c:crops/beetroot"
         },
         {
             "item": "farmersdelight:tomato_sauce"

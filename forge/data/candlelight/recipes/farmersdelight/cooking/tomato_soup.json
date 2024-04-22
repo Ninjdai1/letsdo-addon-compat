@@ -9,7 +9,7 @@
             "tag": "candlelight:crops/tomato"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         },
         {
             "tag": "candlelight:all_effects"

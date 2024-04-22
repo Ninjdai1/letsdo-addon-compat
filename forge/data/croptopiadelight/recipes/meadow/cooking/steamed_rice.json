@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "croptopia:salt"
+            "tag": "forge:salt"
         },
         {
             "tag": "forge:rice"

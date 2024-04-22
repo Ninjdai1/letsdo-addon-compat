@@ -8,10 +8,10 @@
             "item": "minecraft:baked_potato"
         },
         {
-            "item": "minecraft:rabbit"
+            "tag": "c:foods/raw_rabbit"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "c:crops/carrot"
         },
         [
             {

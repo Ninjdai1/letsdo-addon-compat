@@ -8,13 +8,13 @@
             "item": "farmersdelight:tomato_sauce"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
-            "item": "minecraft:potato"
+            "tag": "forge:crops/potato"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "tag": "forge:cabbage"

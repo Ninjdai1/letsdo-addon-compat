@@ -17,7 +17,7 @@
             "item": "minecraft:seagrass"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "item": "farmersdelight:onion"

@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         },
         {
             "tag": "c:gelatin"

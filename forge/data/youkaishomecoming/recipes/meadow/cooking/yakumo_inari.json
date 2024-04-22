@@ -12,7 +12,7 @@
             "tag": "forge:eggs"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "item": "youkaishomecoming:oily_bean_curd"

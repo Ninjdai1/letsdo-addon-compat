@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:rabbit"
+            "tag": "c:foods/raw_rabbit"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "c:salt"
         }
     ],
     "container": {

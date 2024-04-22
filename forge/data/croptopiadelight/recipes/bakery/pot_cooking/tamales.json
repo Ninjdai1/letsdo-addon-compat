@@ -14,7 +14,7 @@
             "item": "croptopia:flour"
         },
         {
-            "item": "croptopia:salt"
+            "tag": "forge:salt"
         },
         {
             "item": "croptopia:corn_husk"

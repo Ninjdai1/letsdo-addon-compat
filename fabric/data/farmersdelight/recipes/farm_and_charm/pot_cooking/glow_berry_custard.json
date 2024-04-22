@@ -11,7 +11,7 @@
             "tag": "c:eggs"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         }
     ],
     "container": {

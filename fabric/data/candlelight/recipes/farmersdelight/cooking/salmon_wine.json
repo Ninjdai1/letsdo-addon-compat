@@ -7,7 +7,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:salmon"
+            "tag": "c:foods/raw_fishes/salmon"
         },
         {
             "tag": "candlelight:white_effect"

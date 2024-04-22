@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:beetroot"
+            "tag": "c:crops/beetroot"
         }
     ],
     "container": {

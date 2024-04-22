@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "item": "bakery:strawberry"
+            "tag": "c:fruits/strawberries"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         }
     ],
     "container": {

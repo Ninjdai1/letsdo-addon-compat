@@ -14,7 +14,7 @@
             "tag": "c:gelatin"
         },
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         },
         {
             "tag": "c:pink_dyes"

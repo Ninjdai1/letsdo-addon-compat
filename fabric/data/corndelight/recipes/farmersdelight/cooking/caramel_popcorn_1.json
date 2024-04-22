@@ -8,7 +8,7 @@
             "tag": "c:seeds/corn"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         }
     ],
     "container": {

@@ -5,13 +5,13 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:beetroot"
+            "tag": "c:crops/beetroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "c:crops/beetroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "c:crops/beetroot"
         }
     ],
     "container": {

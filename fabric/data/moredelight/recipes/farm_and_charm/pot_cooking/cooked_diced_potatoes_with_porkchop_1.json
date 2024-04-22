@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:porkchop"
+            "tag": "c:foods/raw_pork"
         },
         {
             "item": "casualness_delight:potato_slice"

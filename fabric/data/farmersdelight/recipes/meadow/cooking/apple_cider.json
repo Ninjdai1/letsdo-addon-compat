@@ -11,7 +11,7 @@
             "item": "minecraft:apple"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         }
     ],
     "fabric:load_conditions": [

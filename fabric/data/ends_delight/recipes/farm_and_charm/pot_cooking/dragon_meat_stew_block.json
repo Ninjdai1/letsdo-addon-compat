@@ -14,10 +14,10 @@
             "item": "ends_delight:chorus_succulent"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "c:crops/carrot"
         },
         {
-            "item": "minecraft:potato"
+            "tag": "c:crops/potato"
         },
         {
             "tag": "c:crops/tomato"

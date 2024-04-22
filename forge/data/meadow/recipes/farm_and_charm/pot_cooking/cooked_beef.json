@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:beef"
+            "tag": "forge:foods/raw_beef"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "forge:salt"
         }
     ],
     "container": {

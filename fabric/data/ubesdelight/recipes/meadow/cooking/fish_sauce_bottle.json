@@ -9,7 +9,7 @@
             "tag": "c:foods/raw_fishes"
         },
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         }
     ],
     "fabric:load_conditions": [

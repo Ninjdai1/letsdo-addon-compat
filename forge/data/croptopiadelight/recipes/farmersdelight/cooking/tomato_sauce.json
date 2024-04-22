@@ -11,7 +11,7 @@
             "tag": "forge:crops/onion"
         },
         {
-            "item": "croptopia:garlic"
+            "tag": "forge:crops/garlic"
         }
     ],
     "container": {

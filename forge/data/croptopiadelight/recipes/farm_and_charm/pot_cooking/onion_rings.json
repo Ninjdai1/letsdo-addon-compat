@@ -14,7 +14,7 @@
             "tag": "forge:onions"
         },
         {
-            "item": "croptopia:salt"
+            "tag": "forge:salt"
         }
     ],
     "container": {

@@ -8,10 +8,10 @@
             "item": "croptopia:olive_oil"
         },
         {
-            "item": "croptopia:salt"
+            "tag": "forge:salt"
         },
         {
-            "item": "minecraft:potato"
+            "tag": "forge:crops/potato"
         }
     ],
     "conditions": [

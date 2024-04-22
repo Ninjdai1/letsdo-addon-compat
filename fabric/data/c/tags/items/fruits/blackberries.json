@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "croptopia:blackberry",
+            "required": false
+        }
+    ]
+}

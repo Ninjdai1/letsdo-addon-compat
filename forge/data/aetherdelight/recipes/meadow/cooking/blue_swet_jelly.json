@@ -12,7 +12,7 @@
             "item": "aether:swet_ball"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "conditions": [

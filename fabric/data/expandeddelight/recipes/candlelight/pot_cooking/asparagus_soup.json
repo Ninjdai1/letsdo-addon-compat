@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         },
         {
             "tag": "c:crops/asparagus"

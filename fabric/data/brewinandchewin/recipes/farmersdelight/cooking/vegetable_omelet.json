@@ -8,16 +8,16 @@
             "item": "brewinandchewin:flaxen_cheese_wedge"
         },
         {
-            "item": "minecraft:egg"
+            "tag": "c:eggs"
         },
         {
-            "item": "minecraft:egg"
+            "tag": "c:eggs"
         },
         {
             "item": "farmersdelight:onion"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "c:crops/carrot"
         }
     ],
     "container": {

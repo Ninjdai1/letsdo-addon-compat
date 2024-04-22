@@ -8,7 +8,7 @@
             "item": "farmersdelight:pumpkin_slice"
         },
         {
-            "item": "croptopia:garlic"
+            "tag": "forge:crops/garlic"
         },
         {
             "item": "croptopia:pepper"
@@ -17,7 +17,7 @@
             "tag": "forge:onions"
         },
         {
-            "item": "croptopia:salt"
+            "tag": "forge:salt"
         }
     ],
     "container": {

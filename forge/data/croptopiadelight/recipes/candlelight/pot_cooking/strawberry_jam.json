@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "item": "croptopia:strawberry"
+            "tag": "forge:fruits/strawberries"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

@@ -9,7 +9,7 @@
             "item": "meadow:raw_bear_meat"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "c:salt"
         }
     ],
     "container": {

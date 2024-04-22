@@ -9,7 +9,7 @@
             "item": "minecraft:amethyst_cluster"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "c:salt"
         }
     ],
     "container": {

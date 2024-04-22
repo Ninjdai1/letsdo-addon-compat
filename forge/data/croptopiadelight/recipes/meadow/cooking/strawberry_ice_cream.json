@@ -5,16 +5,16 @@
     },
     "ingredients": [
         {
-            "item": "croptopia:strawberry"
+            "tag": "forge:fruits/strawberries"
         },
         {
             "tag": "forge:milks"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         },
         {
-            "item": "minecraft:egg"
+            "tag": "forge:eggs"
         },
         {
             "item": "minecraft:snowball"

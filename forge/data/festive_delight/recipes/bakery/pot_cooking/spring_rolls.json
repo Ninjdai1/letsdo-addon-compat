@@ -8,7 +8,7 @@
             "item": "farmersdelight:rice"
         },
         {
-            "item": "minecraft:porkchop"
+            "tag": "forge:foods/raw_pork"
         },
         {
             "item": "farmersdelight:cabbage_leaf"

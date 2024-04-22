@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:beef"
+            "tag": "forge:foods/raw_beef"
         },
         {
-            "item": "minecraft:beef"
+            "tag": "forge:foods/raw_beef"
         },
         {
             "tag": "forge:pasta"

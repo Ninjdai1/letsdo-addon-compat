@@ -12,7 +12,7 @@
             "tag": "aetherdelight:golden_swet_balls"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "conditions": [

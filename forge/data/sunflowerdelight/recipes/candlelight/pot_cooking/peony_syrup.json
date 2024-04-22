@@ -8,7 +8,7 @@
             "item": "sunflowerdelight:peony_flower"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         },
         {
             "item": "minecraft:chorus_fruit"

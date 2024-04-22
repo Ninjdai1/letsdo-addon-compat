@@ -14,10 +14,10 @@
             "item": "minecraft:honey_bottle"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "c:crops/beetroot"
         },
         {
             "item": "minecraft:apple"

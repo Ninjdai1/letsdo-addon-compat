@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         },
         {
             "item": "minecraft:apple"
@@ -14,7 +14,7 @@
             "item": "expandeddelight:ground_cinnamon"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         }
     ],
     "container": {

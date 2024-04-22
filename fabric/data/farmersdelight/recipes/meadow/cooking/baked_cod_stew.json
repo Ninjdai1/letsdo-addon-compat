@@ -8,7 +8,7 @@
             "tag": "c:foods/raw_fishes/cod"
         },
         {
-            "item": "minecraft:potato"
+            "tag": "c:crops/potato"
         },
         {
             "tag": "c:eggs"

@@ -8,7 +8,7 @@
             "tag": "youkaishomecoming:dango"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "tag": "forge:vegetables"

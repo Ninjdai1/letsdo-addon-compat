@@ -8,7 +8,7 @@
             "item": "minecraft:seagrass"
         },
         {
-            "item": "minecraft:cod"
+            "tag": "forge:foods/raw_fishes/cod"
         },
         {
             "item": "minecraft:lily_pad"

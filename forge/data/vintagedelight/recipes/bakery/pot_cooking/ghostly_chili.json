@@ -11,7 +11,7 @@
             "item": "vintagedelight:ghost_pepper"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "item": "farmersdelight:tomato"

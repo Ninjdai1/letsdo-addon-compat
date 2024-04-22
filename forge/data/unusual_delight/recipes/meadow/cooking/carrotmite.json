@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "item": "unusual_delight:raw_mite_meat"

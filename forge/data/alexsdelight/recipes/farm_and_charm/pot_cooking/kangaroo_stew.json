@@ -8,10 +8,10 @@
             "tag": "alexsdelight:cooked_kangaroo"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         }
     ],
     "container": {

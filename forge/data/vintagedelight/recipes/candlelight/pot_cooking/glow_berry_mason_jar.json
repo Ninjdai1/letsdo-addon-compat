@@ -20,7 +20,7 @@
             "item": "minecraft:glow_berries"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

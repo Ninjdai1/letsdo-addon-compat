@@ -15,7 +15,7 @@
             "item": "minecraft:bamboo"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

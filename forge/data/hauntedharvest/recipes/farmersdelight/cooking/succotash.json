@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         },
         {
             "tag": "forge:crops/tomato"

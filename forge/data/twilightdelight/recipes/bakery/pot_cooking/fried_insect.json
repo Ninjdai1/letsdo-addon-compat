@@ -11,7 +11,7 @@
             "item": "farmersdelight:onion"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         }
     ],
     "container": {

@@ -11,10 +11,10 @@
             "item": "croptopia:flour"
         },
         {
-            "item": "minecraft:egg"
+            "tag": "forge:eggs"
         },
         {
-            "item": "croptopia:salt"
+            "tag": "forge:salt"
         },
         {
             "item": "croptopia:olive_oil"

@@ -19,7 +19,7 @@
             "item": "farmersdelight:rice"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "tag": "forge:milk"

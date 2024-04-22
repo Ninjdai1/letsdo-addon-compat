@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         },
         {
             "item": "minecraft:glow_berries"

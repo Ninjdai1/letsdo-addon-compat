@@ -14,7 +14,7 @@
             "tag": "c:crops/ginger"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "c:crops/beetroot"
         }
     ],
     "fabric:load_conditions": [

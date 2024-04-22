@@ -5,16 +5,16 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:potato"
+            "tag": "c:crops/potato"
         },
         {
             "item": "minecraft:brown_mushroom"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "c:crops/carrot"
         },
         {
-            "item": "minecraft:rabbit"
+            "tag": "c:foods/raw_rabbit"
         }
     ],
     "container": {

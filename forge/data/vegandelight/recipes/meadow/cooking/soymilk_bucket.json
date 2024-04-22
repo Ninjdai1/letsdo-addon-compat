@@ -8,7 +8,7 @@
             "tag": "forge:crops/soybean"
         },
         {
-            "item": "minecraft:water_bucket"
+            "tag": "forge:water_buckets"
         }
     ],
     "container": {

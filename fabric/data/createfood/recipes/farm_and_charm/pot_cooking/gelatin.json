@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         },
         {
             "item": "minecraft:bone"

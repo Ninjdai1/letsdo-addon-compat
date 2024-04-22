@@ -20,7 +20,7 @@
             "item": "minecraft:apple"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

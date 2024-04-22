@@ -12,10 +12,10 @@
             "item": "frightsdelight:apple_slime"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         },
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         }
     ],
     "container": {

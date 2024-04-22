@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:cod"
+            "tag": "forge:foods/raw_fishes/cod"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "forge:salt"
         }
     ],
     "container": {

@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:carrot"
+            "tag": "forge:crops/carrot"
         },
         {
             "item": "minecraft:brown_mushroom"

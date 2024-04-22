@@ -8,7 +8,7 @@
             "item": "minecraft:sweet_berries"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         }
     ],
     "container": {

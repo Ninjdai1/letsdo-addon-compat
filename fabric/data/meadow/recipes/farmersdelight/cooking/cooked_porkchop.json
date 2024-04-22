@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:porkchop"
+            "tag": "c:foods/raw_pork"
         },
         {
-            "item": "meadow:alpine_salt"
+            "tag": "c:salt"
         }
     ],
     "container": {

@@ -8,7 +8,7 @@
             "item": "twilightforest:thorn_rose"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

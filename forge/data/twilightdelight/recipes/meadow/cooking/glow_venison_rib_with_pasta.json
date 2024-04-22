@@ -17,7 +17,7 @@
             "item": "twilightforest:liveroot"
         },
         {
-            "item": "minecraft:beetroot"
+            "tag": "forge:crops/beetroot"
         }
     ],
     "container": {

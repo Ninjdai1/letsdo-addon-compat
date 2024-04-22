@@ -11,7 +11,7 @@
             "item": "twilightforest:steeleaf_ingot"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

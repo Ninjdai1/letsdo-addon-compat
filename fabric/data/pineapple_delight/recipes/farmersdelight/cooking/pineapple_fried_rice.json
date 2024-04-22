@@ -14,7 +14,7 @@
             "tag": "c:eggs"
         },
         {
-            "item": "minecraft:carrot"
+            "tag": "c:crops/carrot"
         }
     ],
     "container": {

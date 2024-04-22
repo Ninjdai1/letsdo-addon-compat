@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:water_bucket"
+            "tag": "forge:water_buckets"
         }
     ],
     "conditions": [
