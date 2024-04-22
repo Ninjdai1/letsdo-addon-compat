@@ -11,7 +11,7 @@
             "tag": "c:food/raw_pasta"
         },
         {
-            "item": "farmersdelight:tomato"
+            "tag": "c:crops/tomato"
         },
         {
             "tag": "c:crops/cabbage"

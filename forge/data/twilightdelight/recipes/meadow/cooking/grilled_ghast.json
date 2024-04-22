@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "farmersdelight:tomato"
+            "tag": "forge:crops/tomato"
         },
         {
             "tag": "forge:crops/beetroot"

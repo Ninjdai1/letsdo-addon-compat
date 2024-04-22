@@ -14,7 +14,7 @@
             "tag": "forge:crops/onion"
         },
         {
-            "item": "farmersdelight:tomato"
+            "tag": "forge:crops/tomato"
         }
     ],
     "container": {

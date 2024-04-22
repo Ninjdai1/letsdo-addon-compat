@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#candlelight:crops/tomato",
+            "required": false
+        },
+        {
+            "id": "#forge:crops/tomato",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:tomato",
+            "required": false
+        }
+    ]
+}
