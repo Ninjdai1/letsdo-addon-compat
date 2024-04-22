@@ -6,11 +6,11 @@
             "required": false
         },
         {
-            "id": "#c:crops/garlic",
+            "id": "#c:garlic",
             "required": false
         },
         {
-            "id": "#c:garlic",
+            "id": "#c:vegetables/garlic",
             "required": false
         }
     ]

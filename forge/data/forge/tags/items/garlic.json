@@ -4,6 +4,10 @@
         {
             "id": "#forge:crops/garlic",
             "required": false
+        },
+        {
+            "id": "#forge:vegetables/garlic",
+            "required": false
         }
     ]
 }

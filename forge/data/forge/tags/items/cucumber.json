@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:crops/garlic",
+            "id": "#forge:crops/cucumber",
             "required": false
         },
         {
-            "id": "#c:vegetables/garlic",
+            "id": "#forge:vegetables/cucumber",
             "required": false
         }
     ]

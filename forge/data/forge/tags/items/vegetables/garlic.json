@@ -2,15 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "croptopia:garlic",
+            "id": "#forge:crops/garlic",
             "required": false
         },
         {
             "id": "#forge:garlic",
-            "required": false
-        },
-        {
-            "id": "#forge:vegetables/garlic",
             "required": false
         }
     ]
