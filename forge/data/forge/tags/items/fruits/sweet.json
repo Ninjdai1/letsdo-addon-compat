@@ -16,6 +16,10 @@
         {
             "id": "#forge:fruits/raspberries",
             "required": false
+        },
+        {
+            "id": "#forge:fruits/pineapple",
+            "required": false
         }
     ]
 }

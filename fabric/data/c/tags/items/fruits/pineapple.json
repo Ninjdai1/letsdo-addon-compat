@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "pineapple_delight:pineapple_side",
+            "required": false
+        }
+    ]
+}

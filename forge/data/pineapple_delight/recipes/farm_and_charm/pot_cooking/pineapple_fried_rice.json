@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "pineapple_delight:pineapple_side"
+            "tag": "forge:fruits/pineapple"
         },
         {
             "tag": "c:crops/rice"
