@@ -9,7 +9,7 @@
             "tag": "forge:crops/potato"
         },
         {
-            "tag": "farm_and_charm:onion"
+            "tag": "forge:crops/onion"
         }
     ],
     "container": {

@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "farm_and_charm:oat"
+            "tag": "c:grain/oat"
         },
         {
-            "item": "farm_and_charm:butter"
+            "tag": "c:butter"
         },
         {
             "tag": "c:crops/potato"

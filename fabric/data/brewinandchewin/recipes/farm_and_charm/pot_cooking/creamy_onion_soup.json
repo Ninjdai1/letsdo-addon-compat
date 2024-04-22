@@ -14,7 +14,7 @@
             "item": "farmersdelight:onion"
         },
         {
-            "item": "minecraft:bread"
+            "tag": "c:bread"
         }
     ],
     "container": {

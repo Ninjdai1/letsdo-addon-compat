@@ -9,7 +9,7 @@
             "item": "minecraft:cocoa_beans"
         },
         {
-            "item": "croptopia:butter"
+            "tag": "forge:butter"
         }
     ],
     "container": {

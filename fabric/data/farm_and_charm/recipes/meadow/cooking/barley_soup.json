@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "tag": "farm_and_charm:barley"
+            "tag": "c:grain/barley"
         },
         {
-            "tag": "farm_and_charm:barley"
+            "tag": "c:grain/barley"
         },
         {
             "tag": "c:water_buckets"

@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "tag": "farm_and_charm:tomato"
+            "tag": "c:crops/tomato"
         },
         {
-            "tag": "farm_and_charm:tomato"
+            "tag": "c:crops/tomato"
         },
         {
             "tag": "c:sugar"

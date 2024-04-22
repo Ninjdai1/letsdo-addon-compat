@@ -10,6 +10,10 @@
             "required": false
         },
         {
+            "id": "farm_and_charm:strawberry",
+            "required": false
+        },
+        {
             "id": "#forge:crops/strawberries",
             "required": false
         },

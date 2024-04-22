@@ -11,7 +11,7 @@
             "item": "youkaishomecoming:redbean"
         },
         {
-            "item": "youkaishomecoming:butter"
+            "tag": "forge:butter"
         }
     ],
     "container": {

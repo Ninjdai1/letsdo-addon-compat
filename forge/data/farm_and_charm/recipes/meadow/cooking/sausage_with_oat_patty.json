@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "farm_and_charm:oat"
+            "tag": "forge:grain/oat"
         },
         {
-            "item": "farm_and_charm:butter"
+            "tag": "forge:butter"
         },
         {
             "tag": "forge:crops/potato"

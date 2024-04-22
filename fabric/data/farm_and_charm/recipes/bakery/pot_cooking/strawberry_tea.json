@@ -9,10 +9,10 @@
             "tag": "c:water_buckets"
         },
         {
-            "item": "farm_and_charm:strawberry"
+            "tag": "c:fruits/strawberries"
         },
         {
-            "item": "farm_and_charm:strawberry"
+            "tag": "c:fruits/strawberries"
         }
     ],
     "container": {

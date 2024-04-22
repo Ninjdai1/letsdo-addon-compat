@@ -6,13 +6,13 @@
     },
     "ingredients": [
         {
-            "tag": "farm_and_charm:bread"
+            "tag": "forge:bread"
         },
         {
-            "tag": "farm_and_charm:onion"
+            "tag": "forge:crops/onion"
         },
         {
-            "tag": "farm_and_charm:onion"
+            "tag": "forge:crops/onion"
         }
     ],
     "container": {

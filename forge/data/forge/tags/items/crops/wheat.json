@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:wheat",
+            "required": false
+        },
+        {
+            "id": "#forge:grain/wheat",
+            "required": false
+        }
+    ]
+}

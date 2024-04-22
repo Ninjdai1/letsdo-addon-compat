@@ -9,10 +9,10 @@
             "tag": "forge:water_buckets"
         },
         {
-            "item": "farm_and_charm:strawberry"
+            "tag": "forge:fruits/strawberries"
         },
         {
-            "item": "farm_and_charm:strawberry"
+            "tag": "forge:fruits/strawberries"
         }
     ],
     "container": {

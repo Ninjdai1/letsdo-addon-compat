@@ -11,7 +11,7 @@
             "tag": "forge:vegetables/onion"
         },
         {
-            "item": "youkaishomecoming:butter"
+            "tag": "forge:butter"
         }
     ],
     "container": {

@@ -9,10 +9,10 @@
             "tag": "forge:sugar"
         },
         {
-            "tag": "farm_and_charm:water_bottles"
+            "tag": "forge:water_bottles"
         },
         {
-            "tag": "farm_and_charm:wheat"
+            "tag": "forge:grain/wheat"
         }
     ],
     "container": {
