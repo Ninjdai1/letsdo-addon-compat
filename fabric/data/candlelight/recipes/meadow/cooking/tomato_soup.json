@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "candlelight:crops/tomato"
+            "tag": "c:crops/tomato"
         },
         {
             "tag": "c:sugar"
