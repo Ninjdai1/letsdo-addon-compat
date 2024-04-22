@@ -4,6 +4,14 @@
         {
             "id": "croptopia:garlic",
             "required": false
+        },
+        {
+            "id": "#forge:crops/garlic",
+            "required": false
+        },
+        {
+            "id": "#forge:garlic",
+            "required": false
         }
     ]
 }

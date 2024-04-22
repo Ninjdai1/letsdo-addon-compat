@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "croptopia:cabbage",
+            "required": false
+        },
+        {
+            "id": "#forge:crops/cabbage",
+            "required": false
+        },
+        {
+            "id": "#forge:cabbage",
+            "required": false
+        }
+    ]
+}

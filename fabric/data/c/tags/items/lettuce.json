@@ -4,6 +4,10 @@
         {
             "id": "#c:crops/lettuce",
             "required": false
+        },
+        {
+            "id": "#c:vegetables/lettuce",
+            "required": false
         }
     ]
 }

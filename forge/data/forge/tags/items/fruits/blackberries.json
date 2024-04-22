@@ -4,6 +4,14 @@
         {
             "id": "croptopia:blackberry",
             "required": false
+        },
+        {
+            "id": "#forge:crops/blackberries",
+            "required": false
+        },
+        {
+            "id": "#forge:blackberries",
+            "required": false
         }
     ]
 }

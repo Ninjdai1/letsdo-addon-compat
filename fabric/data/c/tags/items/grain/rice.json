@@ -6,7 +6,15 @@
             "required": false
         },
         {
+            "id": "croptopia:rice",
+            "required": false
+        },
+        {
             "id": "#c:crops/rice",
+            "required": false
+        },
+        {
+            "id": "#c:rice",
             "required": false
         }
     ]

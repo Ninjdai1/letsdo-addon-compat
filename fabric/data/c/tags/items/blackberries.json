@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:crops/blackberries",
+            "required": false
+        },
+        {
+            "id": "#c:fruits/blackberries",
+            "required": false
+        }
+    ]
+}

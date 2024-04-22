@@ -4,6 +4,10 @@
         {
             "id": "#forge:crops/lettuce",
             "required": false
+        },
+        {
+            "id": "#forge:vegetables/lettuce",
+            "required": false
         }
     ]
 }

@@ -4,6 +4,14 @@
         {
             "id": "croptopia:blueberry",
             "required": false
+        },
+        {
+            "id": "#c:crops/blueberries",
+            "required": false
+        },
+        {
+            "id": "#c:blueberries",
+            "required": false
         }
     ]
 }

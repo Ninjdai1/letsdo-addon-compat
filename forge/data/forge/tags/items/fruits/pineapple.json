@@ -2,15 +2,19 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:pineapple",
-            "required": false
-        },
-        {
             "id": "pineapple_delight:pineapple_side",
             "required": false
         },
         {
             "id": "croptopia:pineapple",
+            "required": false
+        },
+        {
+            "id": "#forge:crops/pineapple",
+            "required": false
+        },
+        {
+            "id": "#forge:pineapple",
             "required": false
         }
     ]

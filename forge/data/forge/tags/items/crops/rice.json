@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:grain/rice",
+            "id": "#forge:rice",
             "required": false
         },
         {
-            "id": "#forge:rice",
+            "id": "#forge:grain/rice",
             "required": false
         }
     ]

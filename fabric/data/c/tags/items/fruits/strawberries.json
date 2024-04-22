@@ -8,6 +8,14 @@
         {
             "id": "croptopia:strawberry",
             "required": false
+        },
+        {
+            "id": "#c:crops/strawberries",
+            "required": false
+        },
+        {
+            "id": "#c:strawberries",
+            "required": false
         }
     ]
 }

@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "croptopia:garlic",
+            "id": "#c:grain/rice",
             "required": false
         }
     ]

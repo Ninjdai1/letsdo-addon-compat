@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "candlelight:lettuce",
+            "required": false
+        },
+        {
+            "id": "croptopia:lettuce",
+            "required": false
+        },
+        {
+            "id": "#c:crops/lettuce",
+            "required": false
+        },
+        {
+            "id": "#c:lettuce",
+            "required": false
+        }
+    ]
+}

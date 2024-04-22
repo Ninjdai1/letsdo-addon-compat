@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#candlelight:crops/tomato",
+            "id": "#forge:tomato",
             "required": false
         },
         {
-            "id": "farmersdelight:tomato",
+            "id": "#forge:vegetables/tomato",
             "required": false
         }
     ]

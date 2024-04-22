@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#candlelight:crops/tomato",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:tomato",
+            "required": false
+        },
+        {
+            "id": "#c:crops/tomato",
+            "required": false
+        },
+        {
+            "id": "#c:tomato",
+            "required": false
+        }
+    ]
+}

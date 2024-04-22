@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:grain/rice",
+            "id": "#c:rice",
             "required": false
         },
         {
-            "id": "#c:rice",
+            "id": "#c:grain/rice",
             "required": false
         }
     ]

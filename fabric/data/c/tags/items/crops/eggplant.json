@@ -6,11 +6,7 @@
             "required": false
         },
         {
-            "id": "culturaldelights:regular_eggplants",
-            "required": false
-        },
-        {
-            "id": "croptopia:eggplant",
+            "id": "#c:vegetables/eggplant",
             "required": false
         }
     ]

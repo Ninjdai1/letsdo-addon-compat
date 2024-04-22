@@ -6,7 +6,7 @@
             "required": false
         },
         {
-            "id": "croptopia:cabbage",
+            "id": "#forge:vegetables/cabbage",
             "required": false
         }
     ]

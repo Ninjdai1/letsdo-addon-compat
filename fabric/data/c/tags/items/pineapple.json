@@ -2,6 +2,10 @@
     "replace": false,
     "values": [
         {
+            "id": "#c:crops/pineapple",
+            "required": false
+        },
+        {
             "id": "#c:fruits/pineapple",
             "required": false
         }
