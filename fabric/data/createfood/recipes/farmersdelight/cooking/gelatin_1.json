@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:bone"
+            "tag": "c:bones"
         },
         {
-            "item": "minecraft:bone"
+            "tag": "c:bones"
         }
     ],
     "container": {

@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "aquaculture:fish_bones"
+            "tag": "forge:bones/fish"
         },
         {
             "item": "aquaculture:algae"

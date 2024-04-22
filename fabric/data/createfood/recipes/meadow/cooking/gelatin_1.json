@@ -9,10 +9,10 @@
             "tag": "c:water_buckets"
         },
         {
-            "item": "minecraft:bone"
+            "tag": "c:bones"
         },
         {
-            "item": "minecraft:bone"
+            "tag": "c:bones"
         }
     ],
     "fabric:load_conditions": [
