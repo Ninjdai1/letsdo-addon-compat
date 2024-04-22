@@ -1,0 +1,32 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "bakery:cake_dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "bakery:wheat"
+        },
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "amount": 27000,
+            "fluidTag": "c:milk"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "bakery",
+                "create"
+            ]
+        }
+    ]
+}
