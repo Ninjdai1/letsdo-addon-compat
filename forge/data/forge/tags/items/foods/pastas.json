@@ -8,6 +8,10 @@
         {
             "id": "farmersdelight:raw_pasta",
             "required": false
+        },
+        {
+            "id": "#forge:pasta",
+            "required": false
         }
     ]
 }
