@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "farmersdelight:raw_pasta"
+            "tag": "forge:food/raw_pasta"
         },
         {
             "tag": "forge:cheese"

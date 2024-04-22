@@ -24,6 +24,18 @@
         {
             "id": "meadow:piece_of_goat_cheese",
             "required": false
+        },
+        {
+            "id": "expandeddelight:cheese_slice",
+            "required": false
+        },
+        {
+            "id": "croptopia:cheese",
+            "required": false
+        },
+        {
+            "id": "casualness_delight:cheese_wheel_slice",
+            "required": false
         }
     ]
 }

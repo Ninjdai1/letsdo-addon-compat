@@ -9,7 +9,7 @@
             "tag": "c:water_buckets"
         },
         {
-            "item": "farmersdelight:raw_pasta"
+            "tag": "c:food/raw_pasta"
         }
     ],
     "fabric:load_conditions": [

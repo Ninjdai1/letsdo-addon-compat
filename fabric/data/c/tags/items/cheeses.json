@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:cheese",
+            "id": "#c:food/cheese",
             "required": false
         }
     ]

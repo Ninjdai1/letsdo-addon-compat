@@ -9,7 +9,7 @@
             "item": "minecraft:phantom_membrane"
         },
         {
-            "item": "casualness_delight:cheese_wheel_slice"
+            "tag": "c:food/cheese"
         },
         {
             "tag": "c:milk"

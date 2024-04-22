@@ -16,7 +16,7 @@
             "tag": "c:crops/onion"
         },
         {
-            "item": "expandeddelight:cheese_slice"
+            "tag": "c:food/cheese"
         }
     ],
     "container": {

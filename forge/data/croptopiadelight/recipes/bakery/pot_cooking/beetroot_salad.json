@@ -17,7 +17,7 @@
             "item": "croptopia:lemon"
         },
         {
-            "item": "croptopia:cheese"
+            "tag": "forge:food/cheese"
         },
         {
             "item": "croptopia:lettuce"

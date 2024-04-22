@@ -9,7 +9,7 @@
             "item": "minecraft:slime_ball"
         },
         {
-            "item": "farmersdelight:raw_pasta"
+            "tag": "c:food/raw_pasta"
         },
         {
             "item": "minecraft:slime_ball"

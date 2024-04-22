@@ -8,7 +8,7 @@
             "tag": "forge:raw_fishes"
         },
         {
-            "item": "farmersdelight:raw_pasta"
+            "tag": "forge:food/raw_pasta"
         },
         {
             "item": "minecraft:glow_berries"

@@ -8,7 +8,7 @@
             "tag": "miners_delight:baked_cave_carrot"
         },
         {
-            "item": "farmersdelight:raw_pasta"
+            "tag": "forge:food/raw_pasta"
         }
     ],
     "container": {

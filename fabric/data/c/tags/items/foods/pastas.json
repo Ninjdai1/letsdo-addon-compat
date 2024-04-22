@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#candlelight:pasta",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:raw_pasta",
+            "required": false
+        }
+    ]
+}

@@ -14,7 +14,7 @@
             "item": "farmersdelight:tomato_sauce"
         },
         {
-            "item": "farmersdelight:raw_pasta"
+            "tag": "c:food/raw_pasta"
         },
         {
             "tag": "brewinandchewin:horror_lasagna_meats"

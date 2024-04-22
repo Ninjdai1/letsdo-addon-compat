@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "item": "farmersdelight:raw_pasta"
+            "tag": "c:food/raw_pasta"
         }
     ],
     "container": {
