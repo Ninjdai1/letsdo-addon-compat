@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:lettuce",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce",
+            "required": false
+        },
+        {
+            "id": "croptopia:lettuce",
+            "required": false
+        }
+    ]
+}

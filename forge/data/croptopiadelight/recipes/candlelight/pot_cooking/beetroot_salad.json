@@ -20,7 +20,7 @@
             "tag": "forge:food/cheese"
         },
         {
-            "item": "croptopia:lettuce"
+            "tag": "forge:crops/lettuce"
         }
     ],
     "container": {
