@@ -4,6 +4,10 @@
         {
             "id": "#forge:cabbage",
             "required": false
+        },
+        {
+            "id": "croptopia:cabbage",
+            "required": false
         }
     ]
 }

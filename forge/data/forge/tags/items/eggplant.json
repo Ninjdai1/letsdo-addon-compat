@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:crops/cabbage",
+            "id": "#forge:crops/eggplant",
             "required": false
         }
     ]

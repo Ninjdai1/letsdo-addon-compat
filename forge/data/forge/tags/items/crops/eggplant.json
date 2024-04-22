@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:eggplant",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:regular_eggplants",
+            "required": false
+        },
+        {
+            "id": "croptopia:eggplant",
+            "required": false
+        }
+    ]
+}
