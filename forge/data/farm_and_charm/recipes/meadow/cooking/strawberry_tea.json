@@ -1,0 +1,31 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farm_and_charm:strawberry_tea",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "forge:water_buckets"
+        },
+        {
+            "item": "farm_and_charm:strawberry"
+        },
+        {
+            "item": "farm_and_charm:strawberry"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "farm_and_charm:dog_food"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "farm_and_charm:cooked_beef"
+        },
+        {
+            "tag": "farm_and_charm:raw_beef"
+        },
+        {
+            "item": "minecraft:bone"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ]
+}

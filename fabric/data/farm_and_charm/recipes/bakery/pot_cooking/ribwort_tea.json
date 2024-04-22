@@ -1,0 +1,30 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "farm_and_charm:ribwort_tea",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "c:water_buckets"
+        },
+        {
+            "item": "farm_and_charm:wild_ribwort"
+        },
+        {
+            "item": "farm_and_charm:wild_ribwort"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farm_and_charm",
+                "bakery"
+            ]
+        }
+    ]
+}

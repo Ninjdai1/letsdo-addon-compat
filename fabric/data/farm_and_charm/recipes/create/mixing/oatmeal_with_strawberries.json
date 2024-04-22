@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "farm_and_charm:oatmeal_with_strawberries"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "farm_and_charm:milk"
+        },
+        {
+            "item": "farm_and_charm:oat"
+        },
+        {
+            "tag": "farm_and_charm:strawberries"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farm_and_charm",
+                "create"
+            ]
+        }
+    ]
+}

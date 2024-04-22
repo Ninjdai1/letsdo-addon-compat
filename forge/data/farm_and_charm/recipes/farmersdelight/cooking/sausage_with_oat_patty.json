@@ -1,0 +1,40 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "farm_and_charm:sausage_with_oat_patty",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "item": "farm_and_charm:oat"
+        },
+        {
+            "item": "farm_and_charm:butter"
+        },
+        {
+            "tag": "forge:crops/potato"
+        },
+        {
+            "tag": "forge:crops/carrot"
+        },
+        {
+            "item": "farm_and_charm:minced_beef"
+        },
+        {
+            "item": "farm_and_charm:minced_beef"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

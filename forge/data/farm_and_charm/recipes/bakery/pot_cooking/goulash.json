@@ -1,0 +1,37 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "farm_and_charm:goulash",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "farm_and_charm:onion"
+        },
+        {
+            "tag": "farm_and_charm:cooked_beef"
+        },
+        {
+            "item": "farm_and_charm:simple_tomato_soup"
+        },
+        {
+            "tag": "forge:crops/carrot"
+        },
+        {
+            "tag": "forge:crops/potato"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

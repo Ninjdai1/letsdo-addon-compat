@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "farm_and_charm:farmer_salad"
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "farm_and_charm:tomato"
+        },
+        {
+            "tag": "farm_and_charm:onion"
+        },
+        {
+            "tag": "farm_and_charm:cabbage"
+        },
+        {
+            "item": "farm_and_charm:strawberry"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farm_and_charm",
+                "create"
+            ]
+        }
+    ]
+}

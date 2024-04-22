@@ -1,0 +1,31 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farm_and_charm:simple_tomato_soup",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "farm_and_charm:tomato"
+        },
+        {
+            "tag": "farm_and_charm:tomato"
+        },
+        {
+            "tag": "forge:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

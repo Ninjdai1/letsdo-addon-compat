@@ -1,0 +1,31 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "farm_and_charm:yeast",
+        "count": 12
+    },
+    "ingredients": [
+        {
+            "tag": "forge:sugar"
+        },
+        {
+            "tag": "farm_and_charm:water_bottles"
+        },
+        {
+            "tag": "farm_and_charm:wheat"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "bakery"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "type": "farmersdelight:pot_cooking",
+    "result": {
+        "item": "farm_and_charm:simple_tomato_soup",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "farm_and_charm:tomato"
+        },
+        {
+            "tag": "farm_and_charm:tomato"
+        },
+        {
+            "tag": "c:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farm_and_charm",
+                "farmersdelight"
+            ]
+        }
+    ]
+}

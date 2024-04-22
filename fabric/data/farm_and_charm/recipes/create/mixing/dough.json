@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "farm_and_charm:dough"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "farm_and_charm:flour"
+        },
+        {
+            "item": "farm_and_charm:yeast"
+        },
+        {
+            "tag": "farm_and_charm:water_bottles"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farm_and_charm",
+                "create"
+            ]
+        }
+    ]
+}

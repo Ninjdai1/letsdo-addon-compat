@@ -1,0 +1,34 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "farm_and_charm:barley_soup",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "farm_and_charm:barley"
+        },
+        {
+            "tag": "farm_and_charm:barley"
+        },
+        {
+            "tag": "forge:water_buckets"
+        },
+        {
+            "tag": "forge:eggs"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bowl"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

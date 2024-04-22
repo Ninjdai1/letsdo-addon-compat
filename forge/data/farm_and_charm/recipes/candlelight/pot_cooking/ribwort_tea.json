@@ -1,0 +1,31 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "farm_and_charm:ribwort_tea",
+        "count": 1
+    },
+    "ingredients": [
+        {
+            "tag": "forge:water_buckets"
+        },
+        {
+            "item": "farm_and_charm:wild_ribwort"
+        },
+        {
+            "item": "farm_and_charm:wild_ribwort"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "candlelight"
+        }
+    ]
+}
