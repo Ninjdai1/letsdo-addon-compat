@@ -11,10 +11,10 @@
             "tag": "c:flour"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:butter"
         },
         {
-            "tag": "c:water_buckets"
+            "tag": "c:eggs"
         }
     ],
     "fabric:load_conditions": [

@@ -1,0 +1,26 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:apple_cream_frosting_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk_bottle"
+        },
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "item": "minecraft:apple"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}

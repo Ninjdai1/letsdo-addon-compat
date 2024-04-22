@@ -1,0 +1,32 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "createfood:pumpernickel_dough",
+            "count": 3
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "c:wheat"
+        },
+        {
+            "tag": "c:cocoa_powder"
+        },
+        {
+            "tag": "c:molasses_bottle"
+        },
+        {
+            "tag": "c:water_buckets"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "create"
+            ]
+        }
+    ]
+}

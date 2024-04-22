@@ -1,0 +1,26 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:condensed_milk_bucket"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:milk_bucket"
+        },
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "tag": "c:sugar"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}

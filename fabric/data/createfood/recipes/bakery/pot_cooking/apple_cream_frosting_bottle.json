@@ -1,0 +1,29 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "createfood:apple_cream_frosting_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "minecraft:apple"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "bakery"
+            ]
+        }
+    ]
+}

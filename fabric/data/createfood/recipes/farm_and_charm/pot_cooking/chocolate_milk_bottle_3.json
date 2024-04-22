@@ -6,10 +6,13 @@
     "ingredients": [
         {
             "tag": "c:cocoa_powder"
+        },
+        {
+            "tag": "c:milk_bottle"
         }
     ],
     "container": {
-        "tag": "c:milk"
+        "item": "minecraft:air"
     },
     "fabric:load_conditions": [
         {

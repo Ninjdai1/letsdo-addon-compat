@@ -1,0 +1,21 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "count": 2,
+        "item": "createfood:milk_powder"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk_buckets"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}

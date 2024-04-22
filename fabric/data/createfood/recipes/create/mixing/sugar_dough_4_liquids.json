@@ -1,0 +1,30 @@
+{
+    "type": "create:mixing",
+    "results": [
+        {
+            "item": "createfood:sugar_dough",
+            "count": 3
+        }
+    ],
+    "ingredients": [
+        {
+            "tag": "c:wheat"
+        },
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "amount": 27000,
+            "fluidTag": "c:water"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "create"
+            ]
+        }
+    ]
+}

@@ -8,13 +8,13 @@
     ],
     "ingredients": [
         {
-            "tag": "c:flour"
+            "tag": "c:wheat"
         },
         {
             "tag": "c:butter"
         },
         {
-            "tag": "c:eggs"
+            "tag": "c:water_buckets"
         }
     ],
     "fabric:load_conditions": [

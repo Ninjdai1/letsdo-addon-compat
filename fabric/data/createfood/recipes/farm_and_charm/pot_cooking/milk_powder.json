@@ -1,0 +1,24 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "count": 2,
+        "item": "createfood:milk_powder"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk_buckets"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

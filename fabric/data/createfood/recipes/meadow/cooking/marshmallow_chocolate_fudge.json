@@ -1,0 +1,29 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:marshmallow_chocolate_fudge"
+    },
+    "ingredients": [
+        {
+            "tag": "c:condensed_milk"
+        },
+        {
+            "tag": "c:chocolate_chips"
+        },
+        {
+            "tag": "c:butter"
+        },
+        {
+            "tag": "c:marshmallow"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}
