@@ -16,7 +16,7 @@
             "item": "farmersdelight:onion"
         },
         {
-            "item": "farmersdelight:rice"
+            "tag": "forge:grain/rice"
         },
         {
             "tag": "forge:crops/carrot"

@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "farmersdelight:rice"
+            "tag": "c:grain/rice"
         },
         {
             "tag": "c:foods/raw_pork"

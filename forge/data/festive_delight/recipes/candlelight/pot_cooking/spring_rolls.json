@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "farmersdelight:rice"
+            "tag": "forge:grain/rice"
         },
         {
             "tag": "forge:foods/raw_pork"

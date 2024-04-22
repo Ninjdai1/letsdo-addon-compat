@@ -11,7 +11,7 @@
             "item": "minecraft:chorus_fruit"
         },
         {
-            "item": "farmersdelight:rice"
+            "tag": "forge:grain/rice"
         },
         {
             "item": "farmersdelight:tomato"

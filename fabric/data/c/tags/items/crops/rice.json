@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:grain/rice",
+            "required": false
+        },
+        {
+            "id": "#c:rice",
+            "required": false
+        }
+    ]
+}

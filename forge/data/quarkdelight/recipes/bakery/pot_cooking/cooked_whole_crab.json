@@ -14,7 +14,7 @@
             "item": "quark:crab_leg"
         },
         {
-            "item": "farmersdelight:rice"
+            "tag": "forge:grain/rice"
         },
         {
             "item": "minecraft:dried_kelp"
