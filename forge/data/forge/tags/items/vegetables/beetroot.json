@@ -6,7 +6,11 @@
             "required": false
         },
         {
-            "id": "#c:beetroot",
+            "id": "#forge:beetroot",
+            "required": false
+        },
+        {
+            "id": "#forge:crops/beetroot",
             "required": false
         }
     ]

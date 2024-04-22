@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "minecraft:potato",
+            "required": false
+        },
+        {
+            "id": "#forge:potato",
+            "required": false
+        },
+        {
+            "id": "#forge:vegetables/potato",
+            "required": false
+        }
+    ]
+}

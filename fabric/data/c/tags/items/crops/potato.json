@@ -8,6 +8,10 @@
         {
             "id": "#c:potato",
             "required": false
+        },
+        {
+            "id": "#c:vegetables/potato",
+            "required": false
         }
     ]
 }
