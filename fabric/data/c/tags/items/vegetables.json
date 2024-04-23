@@ -1,0 +1,45 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:vegetables/beetroot",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/carrot",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/potato",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/cabbage",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/cucumber",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/eggplant",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/garlic",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/lettuce",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/onion",
+            "required": false
+        },
+        {
+            "id": "#c:vegetables/tomato",
+            "required": false
+        }
+    ]
+}

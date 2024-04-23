@@ -2,23 +2,23 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:fruits/blueberries",
+            "id": "#c:grain/barley",
             "required": false
         },
         {
-            "id": "#c:fruits/blackberries",
+            "id": "#c:grain/corn",
             "required": false
         },
         {
-            "id": "#c:fruits/pineapple",
+            "id": "#c:grain/oat",
             "required": false
         },
         {
-            "id": "#c:fruits/raspberries",
+            "id": "#c:grain/rice",
             "required": false
         },
         {
-            "id": "#c:fruits/strawberries",
+            "id": "#c:grain/wheat",
             "required": false
         }
     ]

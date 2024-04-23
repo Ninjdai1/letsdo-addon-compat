@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:tea_leaves/green",
+            "required": false
+        },
+        {
+            "id": "#c:tea_leaves/black",
+            "required": false
+        },
+        {
+            "id": "#c:tea_leaves/oolong",
+            "required": false
+        }
+    ]
+}

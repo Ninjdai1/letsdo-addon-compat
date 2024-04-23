@@ -2,23 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:grain/barley",
-            "required": false
-        },
-        {
-            "id": "#c:grain/corn",
-            "required": false
-        },
-        {
-            "id": "#c:grain/oat",
-            "required": false
-        },
-        {
-            "id": "#c:grain/rice",
-            "required": false
-        },
-        {
-            "id": "#c:grain/wheat",
+            "id": "#c:grain",
             "required": false
         }
     ]
