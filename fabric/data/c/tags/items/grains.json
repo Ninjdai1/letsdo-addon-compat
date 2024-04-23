@@ -10,6 +10,10 @@
             "required": false
         },
         {
+            "id": "#c:grain/oat",
+            "required": false
+        },
+        {
             "id": "#c:grain/rice",
             "required": false
         },

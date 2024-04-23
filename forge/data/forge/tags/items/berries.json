@@ -2,23 +2,19 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:grain/barley",
+            "id": "#forge:fruits/strawberries",
             "required": false
         },
         {
-            "id": "#forge:grain/corn",
+            "id": "#forge:fruits/blueberries",
             "required": false
         },
         {
-            "id": "#forge:grain/oat",
+            "id": "#forge:fruits/blackberries",
             "required": false
         },
         {
-            "id": "#forge:grain/rice",
-            "required": false
-        },
-        {
-            "id": "#forge:grain/wheat",
+            "id": "#forge:fruits/raspberries",
             "required": false
         }
     ]
