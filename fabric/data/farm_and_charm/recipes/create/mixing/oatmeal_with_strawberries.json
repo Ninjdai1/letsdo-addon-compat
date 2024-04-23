@@ -10,7 +10,7 @@
             "tag": "farm_and_charm:milk"
         },
         {
-            "item": "farm_and_charm:oat"
+            "tag": "c:grain/oat"
         },
         {
             "tag": "farm_and_charm:strawberries"

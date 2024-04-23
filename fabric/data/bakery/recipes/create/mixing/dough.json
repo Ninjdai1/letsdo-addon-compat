@@ -13,10 +13,10 @@
             "item": "bakery:yeast"
         },
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         }
     ],
     "fabric:load_conditions": [

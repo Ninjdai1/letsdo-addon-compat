@@ -7,7 +7,7 @@
     ],
     "ingredients": [
         {
-            "tag": "farm_and_charm:cooked_beef"
+            "tag": "c:cooked_beef"
         },
         {
             "tag": "farm_and_charm:raw_fishes"

@@ -10,13 +10,13 @@
             "tag": "bakery:wheat"
         },
         {
-            "item": "minecraft:sugar"
+            "tag": "c:sugar"
         },
         {
-            "item": "minecraft:egg"
+            "tag": "c:eggs"
         },
         {
-            "item": "minecraft:water_bucket"
+            "tag": "c:water_buckets"
         }
     ],
     "conditions": [

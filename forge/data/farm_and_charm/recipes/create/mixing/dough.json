@@ -7,13 +7,13 @@
     ],
     "ingredients": [
         {
-            "item": "farm_and_charm:flour"
+            "tag": "c:flour"
         },
         {
             "item": "farm_and_charm:yeast"
         },
         {
-            "tag": "farm_and_charm:water_bottles"
+            "tag": "c:water_bottles"
         }
     ],
     "conditions": [

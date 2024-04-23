@@ -7,13 +7,13 @@
     ],
     "ingredients": [
         {
-            "tag": "farm_and_charm:cooked_beef"
+            "tag": "c:cooked_beef"
         },
         {
             "tag": "farm_and_charm:raw_beef"
         },
         {
-            "item": "minecraft:bone"
+            "tag": "c:bones"
         }
     ],
     "fabric:load_conditions": [

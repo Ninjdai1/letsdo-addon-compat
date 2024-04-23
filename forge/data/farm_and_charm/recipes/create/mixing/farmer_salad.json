@@ -7,16 +7,16 @@
     ],
     "ingredients": [
         {
-            "tag": "farm_and_charm:tomato"
+            "tag": "c:crops/tomato"
         },
         {
-            "tag": "farm_and_charm:onion"
+            "tag": "c:crops/onion"
         },
         {
             "tag": "farm_and_charm:cabbage"
         },
         {
-            "item": "farm_and_charm:strawberry"
+            "tag": "c:fruits/strawberries"
         }
     ],
     "conditions": [
