@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "item": "vintagedelight:raw_oats"
+            "tag": "forge:grain/oat"
         },
         {
             "tag": "forge:sugar"
