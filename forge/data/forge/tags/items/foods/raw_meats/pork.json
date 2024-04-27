@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/pork",
+            "id": "#forge:foods/raw_pork",
             "required": false
         },
         {
-            "id": "#forge:pork",
+            "id": "#forge:raw_pork",
             "required": false
         }
     ]

@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/mutton",
+            "id": "#forge:foods/raw_mutton",
             "required": false
         },
         {
-            "id": "#forge:mutton",
+            "id": "#forge:raw_mutton",
             "required": false
         }
     ]

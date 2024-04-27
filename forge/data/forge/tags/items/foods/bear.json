@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/bear",
+            "id": "#forge:foods/raw_bear",
             "required": false
         },
         {

@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/chicken",
+            "id": "#forge:foods/raw_chicken",
             "required": false
         },
         {

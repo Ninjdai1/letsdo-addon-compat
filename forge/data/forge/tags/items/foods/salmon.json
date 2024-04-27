@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/salmon",
+            "id": "#forge:foods/raw_salmon",
             "required": false
         },
         {

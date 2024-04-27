@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/rabbit",
+            "id": "#forge:foods/raw_rabbit",
             "required": false
         },
         {

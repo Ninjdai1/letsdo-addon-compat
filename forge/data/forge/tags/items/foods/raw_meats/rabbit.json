@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/rabbit",
+            "id": "#forge:foods/raw_rabbit",
             "required": false
         },
         {
-            "id": "#forge:rabbit",
+            "id": "#forge:raw_rabbit",
             "required": false
         }
     ]

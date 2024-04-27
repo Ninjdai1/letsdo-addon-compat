@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:foods/beek",
+            "id": "#forge:foods/raw_beef",
             "required": false
         },
         {
-            "id": "#forge:beek",
+            "id": "#forge:raw_beef",
             "required": false
         }
     ]

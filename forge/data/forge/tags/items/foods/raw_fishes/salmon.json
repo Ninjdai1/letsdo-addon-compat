@@ -6,11 +6,11 @@
             "required": false
         },
         {
-            "id": "#forge:foods/salmon",
+            "id": "#forge:foods/raw_salmon",
             "required": false
         },
         {
-            "id": "#forge:salmon",
+            "id": "#forge:raw_salmon",
             "required": false
         }
     ]
