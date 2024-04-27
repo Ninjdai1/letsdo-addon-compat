@@ -14,10 +14,10 @@
             "tag": "forge:milks"
         },
         {
-            "tag": "forge:foods/sugar"
+            "tag": "forge:sugar"
         },
         {
-            "tag": "forge:foods/eggs"
+            "tag": "forge:eggs"
         },
         {
             "item": "minecraft:snowball"

@@ -20,7 +20,7 @@
             "item": "farmersdelight:ham"
         },
         {
-            "tag": "c:foods/bread"
+            "tag": "c:bread"
         }
     ],
     "container": {

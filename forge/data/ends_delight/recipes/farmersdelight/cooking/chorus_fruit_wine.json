@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:foods/sugar"
+            "tag": "forge:sugar"
         },
         [
             {

@@ -11,7 +11,7 @@
             "item": "minecraft:apple"
         },
         {
-            "tag": "forge:foods/sugar"
+            "tag": "forge:sugar"
         }
     ],
     "conditions": [

@@ -11,7 +11,7 @@
             "item": "minecraft:wheat"
         },
         {
-            "tag": "forge:foods/sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

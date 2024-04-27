@@ -10,13 +10,13 @@
             "tag": "bakery:wheat"
         },
         {
-            "tag": "c:foods/sugar"
+            "tag": "c:sugar"
         },
         {
-            "tag": "c:foods/eggs"
+            "tag": "c:eggs"
         },
         {
-            "tag": "c:buckets/water"
+            "tag": "c:water_buckets"
         }
     ],
     "conditions": [

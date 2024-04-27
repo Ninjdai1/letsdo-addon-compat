@@ -11,7 +11,7 @@
             "item": "minecraft:blaze_powder"
         },
         {
-            "tag": "forge:foods/sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

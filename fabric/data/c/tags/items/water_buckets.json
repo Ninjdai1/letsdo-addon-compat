@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:buckets/water",
+            "id": "minecraft:water_bucket",
             "required": false
         }
     ]

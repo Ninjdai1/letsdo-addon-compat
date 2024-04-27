@@ -12,7 +12,7 @@
             "item": "minecraft:wheat"
         },
         {
-            "tag": "c:foods/eggs"
+            "tag": "c:eggs"
         }
     ],
     "fabric:load_conditions": [

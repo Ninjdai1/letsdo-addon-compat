@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "c:foods/bread"
+            "tag": "c:bread"
         },
         {
             "tag": "c:crops/onion"

@@ -10,10 +10,10 @@
             "tag": "bakery:wheat"
         },
         {
-            "tag": "c:foods/sugar"
+            "tag": "c:sugar"
         },
         {
-            "tag": "c:foods/eggs"
+            "tag": "c:eggs"
         },
         {
             "amount": 27000,

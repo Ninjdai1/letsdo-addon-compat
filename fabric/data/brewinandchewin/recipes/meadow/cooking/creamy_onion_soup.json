@@ -14,7 +14,7 @@
             "item": "farmersdelight:onion"
         },
         {
-            "tag": "c:foods/bread"
+            "tag": "c:bread"
         }
     ],
     "fabric:load_conditions": [

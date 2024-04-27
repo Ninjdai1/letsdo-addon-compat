@@ -13,10 +13,10 @@
             "item": "bakery:yeast"
         },
         {
-            "tag": "c:buckets/water"
+            "tag": "c:water_buckets"
         },
         {
-            "tag": "c:foods/sugar"
+            "tag": "c:sugar"
         }
     ],
     "fabric:load_conditions": [

@@ -9,7 +9,7 @@
             "tag": "forge:crops/onion"
         },
         {
-            "tag": "forge:foods/cooked_beef"
+            "tag": "forge:cooked_beef"
         },
         {
             "item": "farm_and_charm:simple_tomato_soup"

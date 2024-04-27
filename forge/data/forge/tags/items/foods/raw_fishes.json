@@ -2,15 +2,15 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:raw_fishes",
-            "required": false
-        },
-        {
             "id": "#forge:foods/raw_fishes/cod",
             "required": false
         },
         {
             "id": "#forge:foods/raw_fishes/salmon",
+            "required": false
+        },
+        {
+            "id": "#forge:raw_fishes",
             "required": false
         }
     ]

@@ -8,7 +8,7 @@
             "item": "minecraft:pumpkin"
         },
         {
-            "tag": "forge:foods/sugar"
+            "tag": "forge:sugar"
         }
     ],
     "container": {

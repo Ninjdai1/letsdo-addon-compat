@@ -14,7 +14,7 @@
             "tag": "c:eggs"
         },
         {
-            "tag": "c:foods/sugar"
+            "tag": "c:sugar"
         }
     ],
     "fabric:load_conditions": [

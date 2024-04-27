@@ -2,7 +2,11 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:foods/egg",
+            "id": "minecraft:egg",
+            "required": false
+        },
+        {
+            "id": "duckling:duck_egg",
             "required": false
         }
     ]

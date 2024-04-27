@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:foods/cheese"
+            "tag": "forge:food/cheese"
         },
         {
             "item": "croptopia:chile_pepper"

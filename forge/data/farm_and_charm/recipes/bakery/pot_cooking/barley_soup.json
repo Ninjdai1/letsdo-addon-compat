@@ -12,10 +12,10 @@
             "tag": "forge:grain/barley"
         },
         {
-            "tag": "forge:buckets/water"
+            "tag": "forge:water_buckets"
         },
         {
-            "tag": "forge:foods/eggs"
+            "tag": "forge:eggs"
         }
     ],
     "container": {

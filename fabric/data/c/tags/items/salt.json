@@ -2,7 +2,15 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:foods/salt",
+            "id": "meadow:alpine_salt",
+            "required": false
+        },
+        {
+            "id": "croptopia:salt",
+            "required": false
+        },
+        {
+            "id": "vegandelight:salt",
             "required": false
         }
     ]

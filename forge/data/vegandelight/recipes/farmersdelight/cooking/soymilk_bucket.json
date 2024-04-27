@@ -8,7 +8,7 @@
             "tag": "forge:crops/soybean"
         },
         {
-            "tag": "forge:buckets/water"
+            "tag": "forge:water_buckets"
         }
     ],
     "container": {

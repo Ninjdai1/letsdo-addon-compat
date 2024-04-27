@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "tag": "c:buckets/water"
+            "tag": "c:water_buckets"
         },
         {
-            "tag": "c:foods/raw_pasta"
+            "tag": "c:food/raw_pasta"
         }
     ],
     "fabric:load_conditions": [

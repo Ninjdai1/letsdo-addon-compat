@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:foods/sugar"
+            "tag": "forge:sugar"
         },
         {
             "item": "minecraft:cocoa_beans"

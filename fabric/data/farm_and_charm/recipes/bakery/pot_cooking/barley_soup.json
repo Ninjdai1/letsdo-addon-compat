@@ -12,10 +12,10 @@
             "tag": "c:grain/barley"
         },
         {
-            "tag": "c:buckets/water"
+            "tag": "c:water_buckets"
         },
         {
-            "tag": "c:foods/eggs"
+            "tag": "c:eggs"
         }
     ],
     "container": {

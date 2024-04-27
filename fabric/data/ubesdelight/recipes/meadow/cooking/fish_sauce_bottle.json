@@ -9,7 +9,7 @@
             "tag": "c:foods/raw_fishes"
         },
         {
-            "tag": "c:buckets/water"
+            "tag": "c:water_buckets"
         }
     ],
     "fabric:load_conditions": [

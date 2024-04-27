@@ -14,7 +14,7 @@
             "item": "minecraft:honey_bottle"
         },
         {
-            "tag": "forge:foods/butter"
+            "tag": "forge:butter"
         }
     ],
     "conditions": [

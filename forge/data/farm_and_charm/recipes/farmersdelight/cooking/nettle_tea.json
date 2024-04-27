@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:buckets/water"
+            "tag": "forge:water_buckets"
         },
         {
             "item": "farm_and_charm:wild_nettle"

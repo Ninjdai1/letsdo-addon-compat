@@ -2,15 +2,15 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:raw_fishes",
-            "required": false
-        },
-        {
             "id": "#c:foods/raw_fishes/cod",
             "required": false
         },
         {
             "id": "#c:foods/raw_fishes/salmon",
+            "required": false
+        },
+        {
+            "id": "#c:raw_fishes",
             "required": false
         }
     ]

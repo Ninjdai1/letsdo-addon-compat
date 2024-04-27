@@ -2,10 +2,6 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:foods/cheese",
-            "required": false
-        },
-        {
             "id": "#c:food/cheese",
             "required": false
         }

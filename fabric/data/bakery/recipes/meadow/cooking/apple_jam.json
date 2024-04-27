@@ -8,7 +8,7 @@
             "item": "minecraft:apple"
         },
         {
-            "tag": "c:foods/sugar"
+            "tag": "c:sugar"
         }
     ],
     "container": {

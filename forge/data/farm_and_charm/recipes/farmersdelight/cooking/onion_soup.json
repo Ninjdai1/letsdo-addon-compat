@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:foods/bread"
+            "tag": "forge:bread"
         },
         {
             "tag": "forge:crops/onion"

@@ -8,10 +8,10 @@
             "item": "minecraft:milk_bucket"
         },
         {
-            "tag": "c:foods/sugar"
+            "tag": "c:sugar"
         },
         {
-            "tag": "c:foods/sugar"
+            "tag": "c:sugar"
         }
     ],
     "fabric:load_conditions": [
