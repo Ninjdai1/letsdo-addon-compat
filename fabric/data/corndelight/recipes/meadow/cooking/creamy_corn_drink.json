@@ -11,7 +11,7 @@
             "tag": "c:milk"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         }
     ],
     "fabric:load_conditions": [

@@ -10,10 +10,10 @@
             "tag": "bakery:wheat"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "forge:foods/sugar"
         },
         {
-            "tag": "forge:eggs"
+            "tag": "forge:foods/eggs"
         },
         {
             "amount": 250,

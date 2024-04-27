@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:eggs"
+            "tag": "forge:foods/eggs"
         },
         {
             "tag": "bakery:jam"

@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:foods/raw_meats/chicken",
+            "required": false
+        },
+        {
+            "id": "#c:foods/raw_meats/pork",
+            "required": false
+        },
+        {
+            "id": "#c:foods/raw_meats/beef",
+            "required": false
+        },
+        {
+            "id": "#c:foods/raw_meats/mutton",
+            "required": false
+        },
+        {
+            "id": "#c:foods/raw_meats/rabbit",
+            "required": false
+        },
+        {
+            "id": "#c:foods/raw_meats/bear",
+            "required": false
+        }
+    ]
+}

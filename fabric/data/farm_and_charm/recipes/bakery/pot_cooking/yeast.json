@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         },
         {
             "tag": "c:water_bottles"

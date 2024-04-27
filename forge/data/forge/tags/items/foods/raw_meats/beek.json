@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:foods/beek",
+            "required": false
+        },
+        {
+            "id": "#forge:beek",
+            "required": false
+        }
+    ]
+}

@@ -14,7 +14,7 @@
             "item": "minecraft:honey_bottle"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         },
         {
             "tag": "c:crops/beetroot"

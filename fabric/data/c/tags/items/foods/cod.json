@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:foods/raw_cod",
+            "required": false
+        },
+        {
+            "id": "#c:foods/raw_fishes/cod",
+            "required": false
+        }
+    ]
+}

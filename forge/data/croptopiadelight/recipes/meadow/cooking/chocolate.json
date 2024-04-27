@@ -9,7 +9,7 @@
             "item": "minecraft:cocoa_beans"
         },
         {
-            "tag": "forge:butter"
+            "tag": "forge:foods/butter"
         }
     ],
     "conditions": [

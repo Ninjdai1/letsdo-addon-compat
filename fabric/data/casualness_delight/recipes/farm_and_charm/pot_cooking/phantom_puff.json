@@ -9,7 +9,7 @@
             "item": "minecraft:phantom_membrane"
         },
         {
-            "tag": "c:food/cheese"
+            "tag": "c:foods/cheese"
         }
     ],
     "container": {

@@ -4,6 +4,14 @@
         {
             "id": "minecraft:cod",
             "required": false
+        },
+        {
+            "id": "#c:foods/raw_cod",
+            "required": false
+        },
+        {
+            "id": "#c:raw_cod",
+            "required": false
         }
     ]
 }

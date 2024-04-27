@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:foods/rabbit",
+            "required": false
+        },
+        {
+            "id": "#forge:foods/raw_meats/rabbit",
+            "required": false
+        }
+    ]
+}

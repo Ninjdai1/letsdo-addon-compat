@@ -12,10 +12,10 @@
             "item": "minecraft:ghast_tear"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         },
         {
-            "tag": "c:water_buckets"
+            "tag": "c:buckets/water"
         }
     ],
     "container": {

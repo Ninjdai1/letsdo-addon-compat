@@ -9,7 +9,7 @@
             "tag": "minecraft:fishes"
         },
         {
-            "tag": "c:water_buckets"
+            "tag": "c:buckets/water"
         }
     ],
     "fabric:load_conditions": [

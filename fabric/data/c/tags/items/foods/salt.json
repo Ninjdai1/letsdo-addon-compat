@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "meadow:alpine_salt",
+            "required": false
+        },
+        {
+            "id": "croptopia:salt",
+            "required": false
+        },
+        {
+            "id": "vegandelight:salt",
+            "required": false
+        },
+        {
+            "id": "#c:salt",
+            "required": false
+        }
+    ]
+}

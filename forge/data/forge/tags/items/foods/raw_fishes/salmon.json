@@ -4,6 +4,14 @@
         {
             "id": "minecraft:salmon",
             "required": false
+        },
+        {
+            "id": "#forge:foods/salmon",
+            "required": false
+        },
+        {
+            "id": "#forge:salmon",
+            "required": false
         }
     ]
 }

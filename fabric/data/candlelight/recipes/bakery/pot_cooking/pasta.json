@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "c:food/pastas"
+            "tag": "c:foods/pastas"
         },
         {
             "item": "candlelight:tomato_soup"

@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:foods/bear",
+            "required": false
+        },
+        {
+            "id": "#forge:bear",
+            "required": false
+        }
+    ]
+}

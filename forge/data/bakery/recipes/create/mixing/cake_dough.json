@@ -10,10 +10,10 @@
             "tag": "bakery:wheat"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         },
         {
-            "tag": "c:eggs"
+            "tag": "c:foods/eggs"
         },
         {
             "item": "minecraft:milk_bucket"

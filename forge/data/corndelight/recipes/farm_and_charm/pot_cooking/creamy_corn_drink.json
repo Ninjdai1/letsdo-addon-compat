@@ -8,7 +8,7 @@
             "tag": "c:crops/corn"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "forge:foods/sugar"
         }
     ],
     "container": {

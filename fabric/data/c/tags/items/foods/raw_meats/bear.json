@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:foods/raw_bear",
+            "required": false
+        },
+        {
+            "id": "#c:raw_bear",
+            "required": false
+        }
+    ]
+}

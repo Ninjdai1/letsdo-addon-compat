@@ -4,6 +4,14 @@
         {
             "id": "minecraft:salmon",
             "required": false
+        },
+        {
+            "id": "#c:foods/raw_salmon",
+            "required": false
+        },
+        {
+            "id": "#c:raw_salmon",
+            "required": false
         }
     ]
 }

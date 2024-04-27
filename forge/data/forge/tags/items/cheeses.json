@@ -2,6 +2,10 @@
     "replace": false,
     "values": [
         {
+            "id": "#forge:foods/cheese",
+            "required": false
+        },
+        {
             "id": "#forge:food/cheese",
             "required": false
         }

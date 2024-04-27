@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:foods/chicken",
+            "required": false
+        },
+        {
+            "id": "#forge:foods/raw_meats/chicken",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:foods/mutton",
+            "required": false
+        },
+        {
+            "id": "#forge:mutton",
+            "required": false
+        }
+    ]
+}

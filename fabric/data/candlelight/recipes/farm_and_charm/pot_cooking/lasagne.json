@@ -10,10 +10,10 @@
             "item": "candlelight:bolognese"
         },
         {
-            "tag": "c:food/pastas"
+            "tag": "c:foods/pastas"
         },
         {
-            "tag": "c:food/cheese"
+            "tag": "c:foods/cheese"
         }
     ],
     "container": {

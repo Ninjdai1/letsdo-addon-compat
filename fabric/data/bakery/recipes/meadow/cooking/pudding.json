@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "c:eggs"
+            "tag": "c:foods/eggs"
         },
         {
             "tag": "bakery:jam"

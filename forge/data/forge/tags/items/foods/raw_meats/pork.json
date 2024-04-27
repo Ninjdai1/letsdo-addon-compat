@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:foods/pork",
+            "required": false
+        },
+        {
+            "id": "#forge:pork",
+            "required": false
+        }
+    ]
+}

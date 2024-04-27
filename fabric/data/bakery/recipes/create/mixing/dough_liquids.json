@@ -17,7 +17,7 @@
             "fluidTag": "c:water"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         }
     ],
     "fabric:load_conditions": [

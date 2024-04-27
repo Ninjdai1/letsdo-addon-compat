@@ -11,7 +11,7 @@
             "tag": "c:eggs"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         }
     ],
     "container": {

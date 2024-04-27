@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
         {
-            "id": "minecraft:sugar",
+            "id": "#c:foods/sugar",
             "required": false
         }
     ]

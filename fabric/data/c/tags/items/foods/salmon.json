@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:foods/raw_salmon",
+            "required": false
+        },
+        {
+            "id": "#c:foods/raw_fishes/salmon",
+            "required": false
+        }
+    ]
+}

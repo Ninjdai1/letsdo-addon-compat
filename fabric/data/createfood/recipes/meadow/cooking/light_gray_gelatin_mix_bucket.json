@@ -14,7 +14,7 @@
             "tag": "c:gelatin"
         },
         {
-            "tag": "c:water_buckets"
+            "tag": "c:buckets/water"
         },
         {
             "tag": "c:light_gray_dyes"

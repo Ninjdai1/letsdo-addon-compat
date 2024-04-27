@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:water_buckets"
+            "tag": "forge:buckets/water"
         },
         {
             "item": "farm_and_charm:wild_ribwort"

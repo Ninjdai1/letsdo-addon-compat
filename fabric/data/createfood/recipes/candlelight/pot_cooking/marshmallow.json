@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         },
         {
-            "tag": "c:water_buckets"
+            "tag": "c:buckets/water"
         },
         {
             "tag": "c:gelatin"

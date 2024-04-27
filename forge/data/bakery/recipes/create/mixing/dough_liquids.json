@@ -17,7 +17,7 @@
             "fluidTag": "forge:water"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "forge:foods/sugar"
         }
     ],
     "conditions": [

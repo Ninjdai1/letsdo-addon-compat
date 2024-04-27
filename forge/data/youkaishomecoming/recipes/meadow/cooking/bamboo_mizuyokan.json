@@ -15,7 +15,7 @@
             "item": "minecraft:bamboo"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "forge:foods/sugar"
         }
     ],
     "container": {

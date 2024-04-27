@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "c:water_buckets"
+            "tag": "c:buckets/water"
         },
         {
             "tag": "c:fruits/strawberries"

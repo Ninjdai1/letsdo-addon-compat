@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:food/pastas"
+            "tag": "forge:foods/pastas"
         },
         {
             "item": "candlelight:tomato_soup"

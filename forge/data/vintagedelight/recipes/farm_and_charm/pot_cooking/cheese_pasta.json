@@ -5,7 +5,7 @@
     },
     "ingredients": [
         {
-            "tag": "forge:food/raw_pasta"
+            "tag": "forge:foods/raw_pasta"
         },
         {
             "tag": "forge:cheese"

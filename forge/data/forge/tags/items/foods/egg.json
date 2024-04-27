@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "minecraft:egg",
+            "required": false
+        },
+        {
+            "id": "duckling:duck_egg",
+            "required": false
+        },
+        {
+            "id": "#forge:eggs",
+            "required": false
+        }
+    ]
+}

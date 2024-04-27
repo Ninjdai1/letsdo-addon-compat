@@ -11,7 +11,7 @@
             "tag": "c:milk"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "forge:foods/sugar"
         }
     ],
     "conditions": [

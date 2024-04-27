@@ -12,7 +12,7 @@
             "item": "aether_redux:vanilla_swet_ball"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "forge:foods/sugar"
         }
     ],
     "conditions": [

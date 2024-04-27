@@ -20,7 +20,7 @@
             "item": "vintagedelight:pickled_pepper"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "forge:foods/sugar"
         }
     ],
     "container": {

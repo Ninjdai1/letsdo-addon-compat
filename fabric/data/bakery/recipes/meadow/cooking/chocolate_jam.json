@@ -11,7 +11,7 @@
             "tag": "bakery:chocolate"
         },
         {
-            "tag": "c:sugar"
+            "tag": "c:foods/sugar"
         }
     ],
     "container": {
