@@ -4,10 +4,6 @@
         {
             "id": "#forge:crops/pineapple",
             "required": false
-        },
-        {
-            "id": "#forge:fruits/pineapple",
-            "required": false
         }
     ]
 }

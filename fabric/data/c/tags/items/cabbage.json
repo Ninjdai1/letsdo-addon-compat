@@ -4,10 +4,6 @@
         {
             "id": "#c:crops/cabbage",
             "required": false
-        },
-        {
-            "id": "#c:vegetables/cabbage",
-            "required": false
         }
     ]
 }

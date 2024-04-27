@@ -10,10 +10,6 @@
             "required": false
         },
         {
-            "id": "#c:crops/wheat",
-            "required": false
-        },
-        {
             "id": "#c:wheat",
             "required": false
         }

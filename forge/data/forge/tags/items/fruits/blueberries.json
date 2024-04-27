@@ -6,10 +6,6 @@
             "required": false
         },
         {
-            "id": "#forge:crops/blueberries",
-            "required": false
-        },
-        {
             "id": "#forge:blueberries",
             "required": false
         }

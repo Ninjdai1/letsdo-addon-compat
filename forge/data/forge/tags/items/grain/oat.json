@@ -14,10 +14,6 @@
             "required": false
         },
         {
-            "id": "#forge:crops/oat",
-            "required": false
-        },
-        {
             "id": "#forge:oat",
             "required": false
         }

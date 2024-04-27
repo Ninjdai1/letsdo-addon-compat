@@ -2,10 +2,6 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:crops/cucumber",
-            "required": false
-        },
-        {
             "id": "#forge:cucumber",
             "required": false
         }

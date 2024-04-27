@@ -6,10 +6,6 @@
             "required": false
         },
         {
-            "id": "#forge:crops/cabbage",
-            "required": false
-        },
-        {
             "id": "#forge:cabbage",
             "required": false
         }

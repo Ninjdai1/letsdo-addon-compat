@@ -4,10 +4,6 @@
         {
             "id": "#forge:crops/rice",
             "required": false
-        },
-        {
-            "id": "#forge:grain/rice",
-            "required": false
         }
     ]
 }

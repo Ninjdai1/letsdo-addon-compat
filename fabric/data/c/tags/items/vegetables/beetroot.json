@@ -8,10 +8,6 @@
         {
             "id": "#c:beetroot",
             "required": false
-        },
-        {
-            "id": "#c:crops/beetroot",
-            "required": false
         }
     ]
 }

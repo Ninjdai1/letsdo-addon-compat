@@ -2,10 +2,6 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:crops/cucumber",
-            "required": false
-        },
-        {
             "id": "#c:cucumber",
             "required": false
         }

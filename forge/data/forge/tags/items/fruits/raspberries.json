@@ -6,10 +6,6 @@
             "required": false
         },
         {
-            "id": "#forge:crops/raspberries",
-            "required": false
-        },
-        {
             "id": "#forge:raspberries",
             "required": false
         }

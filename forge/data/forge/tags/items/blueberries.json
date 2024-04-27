@@ -4,10 +4,6 @@
         {
             "id": "#forge:crops/blueberries",
             "required": false
-        },
-        {
-            "id": "#forge:fruits/blueberries",
-            "required": false
         }
     ]
 }

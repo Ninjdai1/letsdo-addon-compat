@@ -8,10 +8,6 @@
         {
             "id": "#forge:beetroot",
             "required": false
-        },
-        {
-            "id": "#forge:crops/beetroot",
-            "required": false
         }
     ]
 }

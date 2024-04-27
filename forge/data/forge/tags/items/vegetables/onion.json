@@ -10,10 +10,6 @@
             "required": false
         },
         {
-            "id": "#forge:crops/onion",
-            "required": false
-        },
-        {
             "id": "#forge:onion",
             "required": false
         }

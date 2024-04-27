@@ -10,10 +10,6 @@
             "required": false
         },
         {
-            "id": "#c:crops/pineapple",
-            "required": false
-        },
-        {
             "id": "#c:pineapple",
             "required": false
         }

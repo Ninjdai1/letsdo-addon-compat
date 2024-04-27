@@ -2,10 +2,6 @@
     "replace": false,
     "values": [
         {
-            "id": "#forge:crops/garlic",
-            "required": false
-        },
-        {
             "id": "#forge:garlic",
             "required": false
         }

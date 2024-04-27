@@ -4,10 +4,6 @@
         {
             "id": "#forge:crops/eggplant",
             "required": false
-        },
-        {
-            "id": "#forge:vegetables/eggplant",
-            "required": false
         }
     ]
 }

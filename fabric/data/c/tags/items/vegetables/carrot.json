@@ -8,10 +8,6 @@
         {
             "id": "#c:carrot",
             "required": false
-        },
-        {
-            "id": "#c:crops/carrot",
-            "required": false
         }
     ]
 }

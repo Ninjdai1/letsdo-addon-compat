@@ -4,10 +4,6 @@
         {
             "id": "#forge:crops/wheat",
             "required": false
-        },
-        {
-            "id": "#forge:grain/wheat",
-            "required": false
         }
     ]
 }

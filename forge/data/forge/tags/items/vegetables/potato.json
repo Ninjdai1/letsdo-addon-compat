@@ -8,10 +8,6 @@
         {
             "id": "#forge:potato",
             "required": false
-        },
-        {
-            "id": "#forge:crops/potato",
-            "required": false
         }
     ]
 }

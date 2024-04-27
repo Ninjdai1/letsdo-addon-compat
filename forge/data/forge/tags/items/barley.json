@@ -4,10 +4,6 @@
         {
             "id": "#forge:crops/barley",
             "required": false
-        },
-        {
-            "id": "#forge:grain/barley",
-            "required": false
         }
     ]
 }

@@ -4,10 +4,6 @@
         {
             "id": "#c:crops/cucumber",
             "required": false
-        },
-        {
-            "id": "#c:vegetables/cucumber",
-            "required": false
         }
     ]
 }

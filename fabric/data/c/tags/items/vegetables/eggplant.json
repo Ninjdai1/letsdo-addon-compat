@@ -10,10 +10,6 @@
             "required": false
         },
         {
-            "id": "#c:crops/eggplant",
-            "required": false
-        },
-        {
             "id": "#c:eggplant",
             "required": false
         }

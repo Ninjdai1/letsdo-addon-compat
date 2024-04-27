@@ -2,10 +2,6 @@
     "replace": false,
     "values": [
         {
-            "id": "#c:crops/coconut",
-            "required": false
-        },
-        {
             "id": "#c:coconut",
             "required": false
         }

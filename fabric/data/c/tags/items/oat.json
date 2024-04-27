@@ -4,10 +4,6 @@
         {
             "id": "#c:crops/oat",
             "required": false
-        },
-        {
-            "id": "#c:grain/oat",
-            "required": false
         }
     ]
 }

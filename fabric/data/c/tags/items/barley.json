@@ -4,10 +4,6 @@
         {
             "id": "#c:crops/barley",
             "required": false
-        },
-        {
-            "id": "#c:grain/barley",
-            "required": false
         }
     ]
 }

@@ -4,10 +4,6 @@
         {
             "id": "#c:crops/tomato",
             "required": false
-        },
-        {
-            "id": "#c:vegetables/tomato",
-            "required": false
         }
     ]
 }
