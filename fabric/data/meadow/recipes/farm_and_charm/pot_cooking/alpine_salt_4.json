@@ -1,26 +1,23 @@
 {
-    "type": "candlelight:pot_cooking",
+    "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "meadow:cooked_bear_meat",
+        "item": "meadow:alpine_salt",
         "count": 4
     },
     "ingredients": [
         {
-            "item": "meadow:raw_bear_meat"
-        },
-        {
-            "tag": "c:salt"
+            "item": "meadow:limestone"
         }
     ],
     "container": {
-        "tag": "meadow:water_bottles"
+        "item": "minecraft:water_bucket"
     },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "meadow",
-                "candlelight"
+                "farm_and_charm"
             ]
         }
     ]

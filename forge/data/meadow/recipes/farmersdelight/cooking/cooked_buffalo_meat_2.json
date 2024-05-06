@@ -1,12 +1,12 @@
 {
     "type": "farmersdelight:pot_cooking",
     "result": {
-        "item": "meadow:cooked_bear_meat",
+        "item": "meadow:cooked_buffalo_meat",
         "count": 4
     },
     "ingredients": [
         {
-            "item": "meadow:raw_bear_meat"
+            "item": "meadow:raw_buffalo_meat"
         },
         {
             "tag": "forge:salt"

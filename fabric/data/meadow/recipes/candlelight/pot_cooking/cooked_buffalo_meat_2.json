@@ -1,23 +1,26 @@
 {
-    "type": "farm_and_charm:pot_cooking",
+    "type": "candlelight:pot_cooking",
     "result": {
-        "item": "meadow:alpine_salt",
-        "count": 2
+        "item": "meadow:cooked_buffalo_meat",
+        "count": 4
     },
     "ingredients": [
         {
-            "item": "minecraft:calcite"
+            "item": "meadow:raw_buffalo_meat"
+        },
+        {
+            "tag": "c:salt"
         }
     ],
     "container": {
-        "item": "minecraft:water_bucket"
+        "tag": "meadow:water_bottles"
     },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "meadow",
-                "farm_and_charm"
+                "candlelight"
             ]
         }
     ]

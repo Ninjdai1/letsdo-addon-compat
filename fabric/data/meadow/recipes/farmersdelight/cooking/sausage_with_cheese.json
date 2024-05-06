@@ -1,12 +1,12 @@
 {
-    "type": "candlelight:pot_cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
-        "item": "meadow:ham_cheese",
+        "item": "meadow:sausage_with_cheese",
         "count": 2
     },
     "ingredients": [
         {
-            "item": "meadow:raw_bear_meat"
+            "item": "meadow:raw_buffalo_meat"
         },
         {
             "tag": "c:salt"
@@ -23,7 +23,7 @@
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "meadow",
-                "candlelight"
+                "farmersdelight"
             ]
         }
     ]

@@ -2,18 +2,15 @@
     "type": "create:mixing",
     "results": [
         {
-            "item": "vinery:bolvar_wine"
+            "item": "vinery:lamroc_wine"
         }
     ],
     "ingredients": [
         {
-            "item": "vinery:red_taiga_grapejuice"
+            "tag": "vinery:grapejuice_red"
         },
         {
-            "item": "minecraft:honey_bottle"
-        },
-        {
-            "item": "vinery:cherry"
+            "item": "minecraft:emerald"
         }
     ],
     "fabric:load_conditions": [

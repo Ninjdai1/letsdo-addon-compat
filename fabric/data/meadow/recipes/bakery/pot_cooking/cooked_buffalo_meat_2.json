@@ -1,29 +1,26 @@
 {
-    "type": "farm_and_charm:pot_cooking",
+    "type": "bakery:pot_cooking",
     "result": {
-        "item": "meadow:ham_cheese",
-        "count": 2
+        "item": "meadow:cooked_buffalo_meat",
+        "count": 4
     },
     "ingredients": [
         {
-            "item": "meadow:raw_bear_meat"
+            "item": "meadow:raw_buffalo_meat"
         },
         {
             "tag": "c:salt"
-        },
-        {
-            "tag": "meadow:cheese"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "meadow:water_bottles"
     },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "meadow",
-                "farm_and_charm"
+                "bakery"
             ]
         }
     ]

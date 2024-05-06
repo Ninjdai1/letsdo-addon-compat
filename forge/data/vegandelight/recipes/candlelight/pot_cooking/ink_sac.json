@@ -1,27 +1,27 @@
 {
     "type": "candlelight:pot_cooking",
     "result": {
-        "item": "bakery:chocolate_truffle",
-        "count": 4
+        "item": "minecraft:ink_sac"
     },
     "ingredients": [
         {
-            "item": "minecraft:wheat"
+            "item": "minecraft:coal"
         },
         {
-            "item": "minecraft:cocoa_beans"
-        },
-        {
-            "tag": "bakery:milk"
+            "item": "minecraft:dried_kelp"
         }
     ],
     "container": {
-        "item": "minecraft:bowl"
+        "item": "minecraft:air"
     },
     "conditions": [
         {
             "type": "forge:mod_loaded",
-            "modid": "bakery"
+            "modid": "vegandelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
         },
         {
             "type": "forge:mod_loaded",

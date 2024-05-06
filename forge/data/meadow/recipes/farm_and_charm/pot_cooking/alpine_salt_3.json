@@ -2,11 +2,11 @@
     "type": "farm_and_charm:pot_cooking",
     "result": {
         "item": "meadow:alpine_salt",
-        "count": 4
+        "count": 2
     },
     "ingredients": [
         {
-            "item": "meadow:limestone"
+            "item": "minecraft:calcite"
         }
     ],
     "container": {

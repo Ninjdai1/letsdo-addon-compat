@@ -1,16 +1,19 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "item": "meadow:alpine_salt",
-        "count": 2
+        "item": "meadow:cooked_buffalo_meat",
+        "count": 4
     },
     "ingredients": [
         {
-            "item": "minecraft:calcite"
+            "item": "meadow:raw_buffalo_meat"
+        },
+        {
+            "tag": "forge:salt"
         }
     ],
     "container": {
-        "item": "minecraft:water_bucket"
+        "tag": "meadow:water_bottles"
     },
     "conditions": [
         {

@@ -1,27 +1,30 @@
 {
     "type": "meadow:cooking",
     "result": {
-        "item": "bakery:chocolate_truffle",
-        "count": 4
+        "item": "minecraft:honey_bottle"
     },
     "ingredients": [
         {
-            "item": "minecraft:wheat"
+            "item": "minecraft:cactus"
         },
         {
-            "item": "minecraft:cocoa_beans"
+            "item": "minecraft:cactus"
         },
         {
-            "tag": "bakery:milk"
+            "item": "minecraft:cactus"
         }
     ],
     "container": {
-        "item": "minecraft:bowl"
+        "item": "minecraft:glass_bottle"
     },
     "conditions": [
         {
             "type": "forge:mod_loaded",
-            "modid": "bakery"
+            "modid": "vegandelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
         },
         {
             "type": "forge:mod_loaded",

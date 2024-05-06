@@ -1,27 +1,30 @@
 {
     "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "meadow:ham_cheese",
-        "count": 2
+        "item": "minecraft:honey_bottle"
     },
     "ingredients": [
         {
-            "item": "meadow:raw_bear_meat"
+            "item": "minecraft:cactus"
         },
         {
-            "tag": "forge:salt"
+            "item": "minecraft:cactus"
         },
         {
-            "tag": "meadow:cheese"
+            "item": "minecraft:cactus"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:glass_bottle"
     },
     "conditions": [
         {
             "type": "forge:mod_loaded",
-            "modid": "meadow"
+            "modid": "vegandelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "minecraft"
         },
         {
             "type": "forge:mod_loaded",

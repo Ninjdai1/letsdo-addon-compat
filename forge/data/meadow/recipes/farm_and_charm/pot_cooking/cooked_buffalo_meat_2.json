@@ -1,27 +1,24 @@
 {
     "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "bakery:chocolate_truffle",
+        "item": "meadow:cooked_buffalo_meat",
         "count": 4
     },
     "ingredients": [
         {
-            "item": "minecraft:wheat"
+            "item": "meadow:raw_buffalo_meat"
         },
         {
-            "item": "minecraft:cocoa_beans"
-        },
-        {
-            "tag": "bakery:milk"
+            "tag": "forge:salt"
         }
     ],
     "container": {
-        "item": "minecraft:bowl"
+        "tag": "meadow:water_bottles"
     },
     "conditions": [
         {
             "type": "forge:mod_loaded",
-            "modid": "bakery"
+            "modid": "meadow"
         },
         {
             "type": "forge:mod_loaded",

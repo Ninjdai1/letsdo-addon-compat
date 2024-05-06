@@ -1,16 +1,22 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "item": "meadow:alpine_salt",
+        "item": "meadow:sausage_with_cheese",
         "count": 2
     },
     "ingredients": [
         {
-            "item": "minecraft:calcite"
+            "item": "meadow:raw_buffalo_meat"
+        },
+        {
+            "tag": "forge:salt"
+        },
+        {
+            "tag": "meadow:cheese"
         }
     ],
     "container": {
-        "item": "minecraft:water_bucket"
+        "item": "minecraft:air"
     },
     "conditions": [
         {

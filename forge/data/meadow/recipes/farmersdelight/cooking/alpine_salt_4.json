@@ -1,12 +1,12 @@
 {
-    "type": "candlelight:pot_cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
         "item": "meadow:alpine_salt",
-        "count": 2
+        "count": 4
     },
     "ingredients": [
         {
-            "item": "minecraft:calcite"
+            "item": "meadow:limestone"
         }
     ],
     "container": {
@@ -19,7 +19,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "candlelight"
+            "modid": "farmersdelight"
         }
     ]
 }

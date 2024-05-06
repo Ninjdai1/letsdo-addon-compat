@@ -1,19 +1,22 @@
 {
     "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "meadow:cooked_bear_meat",
-        "count": 4
+        "item": "meadow:sausage_with_cheese",
+        "count": 2
     },
     "ingredients": [
         {
-            "item": "meadow:raw_bear_meat"
+            "item": "meadow:raw_buffalo_meat"
         },
         {
             "tag": "c:salt"
+        },
+        {
+            "tag": "meadow:cheese"
         }
     ],
     "container": {
-        "tag": "meadow:water_bottles"
+        "item": "minecraft:air"
     },
     "fabric:load_conditions": [
         {

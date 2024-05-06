@@ -1,19 +1,22 @@
 {
-    "type": "farm_and_charm:pot_cooking",
+    "type": "candlelight:pot_cooking",
     "result": {
-        "item": "meadow:cooked_bear_meat",
-        "count": 4
+        "item": "meadow:sausage_with_cheese",
+        "count": 2
     },
     "ingredients": [
         {
-            "item": "meadow:raw_bear_meat"
+            "item": "meadow:raw_buffalo_meat"
         },
         {
             "tag": "forge:salt"
+        },
+        {
+            "tag": "meadow:cheese"
         }
     ],
     "container": {
-        "tag": "meadow:water_bottles"
+        "item": "minecraft:air"
     },
     "conditions": [
         {
@@ -22,7 +25,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "farm_and_charm"
+            "modid": "candlelight"
         }
     ]
 }
