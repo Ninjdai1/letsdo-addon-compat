@@ -10,7 +10,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:water_bucket"
+        "tag": "meadow:water_bottles"
     },
     "fabric:load_conditions": [
         {
