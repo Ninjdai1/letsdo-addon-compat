@@ -1,23 +1,30 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "item": "delightful:matcha"
+        "item": "aether:skyroot_milk_bucket"
     },
     "ingredients": [
         {
-            "tag": "forge:tea_leaves/green"
+            "tag": "forge:nuts"
         },
         {
-            "tag": "forge:tea_leaves/green"
+            "tag": "forge:nuts"
+        },
+        {
+            "tag": "forge:sugar"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "aether:skyroot_water_bucket"
     },
     "conditions": [
         {
             "type": "forge:mod_loaded",
             "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "aether"
         },
         {
             "type": "forge:mod_loaded",

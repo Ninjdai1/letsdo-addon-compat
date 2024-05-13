@@ -1,7 +1,7 @@
 {
     "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "minecraft:milk_bucket"
+        "item": "miners_delight:milk_cup"
     },
     "ingredients": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:water_bucket"
+        "item": "miners_delight:water_cup"
     },
     "conditions": [
         {
@@ -24,7 +24,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "minecraft"
+            "modid": "miners_delight"
         },
         {
             "type": "forge:mod_loaded",

@@ -1,0 +1,34 @@
+{
+    "type": "herbalbrews:kettle_brewing",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "experience": 0.35,
+    "result": {
+        "item": "delightful:azalea_tea"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:tea_leaves"
+        },
+        {
+            "tag": "minecraft:flowers/azalea"
+        },
+        {
+            "tag": "minecraft:flowers/azalea"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "herbalbrews"
+        }
+    ]
+}

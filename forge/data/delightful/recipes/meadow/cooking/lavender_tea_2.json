@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:pot_cooking",
+    "type": "meadow:cooking",
     "result": {
         "item": "delightful:lavender_tea"
     },
@@ -11,15 +11,12 @@
             "nbt": "{Potion:\"minecraft:water\"}"
         },
         {
-            "item": "delightful:green_tea_leaf"
+            "tag": "forge:tea_leaves"
         },
         {
-            "item": "biomesoplenty:lavender"
+            "tag": "forge:lavender"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",
@@ -27,7 +24,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "farmersdelight"
+            "modid": "meadow"
         }
     ]
 }

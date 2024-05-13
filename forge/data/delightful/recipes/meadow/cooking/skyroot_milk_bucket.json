@@ -1,7 +1,7 @@
 {
-    "type": "farm_and_charm:pot_cooking",
+    "type": "meadow:cooking",
     "result": {
-        "item": "minecraft:milk_bucket"
+        "item": "aether:skyroot_milk_bucket"
     },
     "ingredients": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:water_bucket"
+        "item": "aether:skyroot_water_bucket"
     },
     "conditions": [
         {
@@ -24,11 +24,11 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "minecraft"
+            "modid": "aether"
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "farm_and_charm"
+            "modid": "meadow"
         }
     ]
 }

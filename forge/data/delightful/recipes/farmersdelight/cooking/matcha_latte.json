@@ -1,18 +1,18 @@
 {
-    "type": "farm_and_charm:pot_cooking",
+    "type": "farmersdelight:pot_cooking",
     "result": {
-        "item": "delightful:matcha"
+        "item": "delightful:matcha_latte"
     },
     "ingredients": [
         {
-            "tag": "forge:tea_leaves/green"
+            "tag": "forge:milk"
         },
         {
-            "tag": "forge:tea_leaves/green"
+            "tag": "forge:matcha"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:honey_bottle"
     },
     "conditions": [
         {
@@ -21,7 +21,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "farm_and_charm"
+            "modid": "farmersdelight"
         }
     ]
 }

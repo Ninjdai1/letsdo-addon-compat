@@ -1,24 +1,18 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "item": "delightful:azalea_tea"
+        "item": "delightful:matcha_latte"
     },
     "ingredients": [
         {
-            "type": "forge:nbt",
-            "count": 1,
-            "item": "minecraft:potion",
-            "nbt": "{Potion:\"minecraft:water\"}"
+            "tag": "forge:milk"
         },
         {
-            "item": "delightful:green_tea_leaf"
-        },
-        {
-            "item": "ecologics:azalea_flower"
+            "tag": "forge:matcha"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:honey_bottle"
     },
     "conditions": [
         {

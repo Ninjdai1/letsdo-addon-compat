@@ -1,30 +1,32 @@
 {
     "type": "farmersdelight:pot_cooking",
     "result": {
-        "item": "minecraft:milk_bucket"
+        "item": "delightful:azalea_tea"
     },
     "ingredients": [
         {
-            "tag": "forge:nuts"
+            "type": "forge:nbt",
+            "count": 1,
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:water\"}"
         },
         {
-            "tag": "forge:nuts"
+            "tag": "forge:tea_leaves"
         },
         {
-            "tag": "forge:sugar"
+            "tag": "minecraft:flowers/azalea"
+        },
+        {
+            "tag": "minecraft:flowers/azalea"
         }
     ],
     "container": {
-        "item": "minecraft:water_bucket"
+        "item": "minecraft:air"
     },
     "conditions": [
         {
             "type": "forge:mod_loaded",
             "modid": "delightful"
-        },
-        {
-            "type": "forge:mod_loaded",
-            "modid": "minecraft"
         },
         {
             "type": "forge:mod_loaded",

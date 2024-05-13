@@ -1,7 +1,7 @@
 {
-    "type": "candlelight:pot_cooking",
+    "type": "bakery:pot_cooking",
     "result": {
-        "item": "delightful:azalea_tea"
+        "item": "delightful:lavender_tea"
     },
     "ingredients": [
         {
@@ -11,10 +11,10 @@
             "nbt": "{Potion:\"minecraft:water\"}"
         },
         {
-            "item": "delightful:green_tea_leaf"
+            "tag": "forge:tea_leaves"
         },
         {
-            "item": "ecologics:azalea_flower"
+            "tag": "forge:lavender"
         }
     ],
     "container": {
@@ -27,7 +27,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "candlelight"
+            "modid": "bakery"
         }
     ]
 }

@@ -1,29 +1,30 @@
 {
     "type": "bakery:pot_cooking",
     "result": {
-        "item": "delightful:lavender_tea"
+        "item": "miners_delight:milk_cup"
     },
     "ingredients": [
         {
-            "type": "forge:nbt",
-            "count": 1,
-            "item": "minecraft:potion",
-            "nbt": "{Potion:\"minecraft:water\"}"
+            "tag": "forge:nuts"
         },
         {
-            "item": "delightful:green_tea_leaf"
+            "tag": "forge:nuts"
         },
         {
-            "item": "biomesoplenty:lavender"
+            "tag": "forge:sugar"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "miners_delight:water_cup"
     },
     "conditions": [
         {
             "type": "forge:mod_loaded",
             "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "miners_delight"
         },
         {
             "type": "forge:mod_loaded",

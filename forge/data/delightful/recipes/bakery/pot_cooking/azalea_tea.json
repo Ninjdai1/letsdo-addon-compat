@@ -1,5 +1,5 @@
 {
-    "type": "meadow:cooking",
+    "type": "bakery:pot_cooking",
     "result": {
         "item": "delightful:azalea_tea"
     },
@@ -11,12 +11,18 @@
             "nbt": "{Potion:\"minecraft:water\"}"
         },
         {
-            "item": "delightful:green_tea_leaf"
+            "tag": "forge:tea_leaves"
         },
         {
-            "item": "ecologics:azalea_flower"
+            "tag": "minecraft:flowers/azalea"
+        },
+        {
+            "tag": "minecraft:flowers/azalea"
         }
     ],
+    "container": {
+        "item": "minecraft:air"
+    },
     "conditions": [
         {
             "type": "forge:mod_loaded",
@@ -24,7 +30,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "meadow"
+            "modid": "bakery"
         }
     ]
 }

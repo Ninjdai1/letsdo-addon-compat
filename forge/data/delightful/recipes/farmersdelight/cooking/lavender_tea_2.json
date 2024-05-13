@@ -1,7 +1,7 @@
 {
     "type": "farmersdelight:pot_cooking",
     "result": {
-        "item": "delightful:azalea_tea"
+        "item": "delightful:lavender_tea"
     },
     "ingredients": [
         {
@@ -11,10 +11,10 @@
             "nbt": "{Potion:\"minecraft:water\"}"
         },
         {
-            "item": "delightful:green_tea_leaf"
+            "tag": "forge:tea_leaves"
         },
         {
-            "item": "ecologics:azalea_flower"
+            "tag": "forge:lavender"
         }
     ],
     "container": {
