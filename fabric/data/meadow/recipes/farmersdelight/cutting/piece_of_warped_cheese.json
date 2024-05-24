@@ -2,7 +2,7 @@
     "type": "farmersdelight:cutting",
     "ingredients": [
         {
-            "item": "meadow:grain_cheese_block"
+            "item": "meadow:warped_cheese_block"
         }
     ],
     "result": [
