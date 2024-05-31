@@ -1,0 +1,29 @@
+{
+    "type": "bakery:pot_cooking",
+    "result": {
+        "item": "createfood:melon_cream_frosting_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk_bottle"
+        },
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "tag": "c:melon"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "bakery"
+            ]
+        }
+    ]
+}

@@ -1,28 +1,25 @@
 {
-    "type": "create:mixing",
-    "results": [
-        {
-            "item": "createfood:sugar_dough",
-            "count": 3
-        }
-    ],
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "createfood:apple_jam_bottle"
+    },
     "ingredients": [
         {
-            "tag": "c:flour"
+            "tag": "c:apple"
         },
         {
             "tag": "c:sugar"
-        },
-        {
-            "tag": "c:eggs"
         }
     ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "createfood",
-                "create"
+                "candlelight"
             ]
         }
     ]

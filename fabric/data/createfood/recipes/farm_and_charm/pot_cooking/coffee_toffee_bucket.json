@@ -1,0 +1,38 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "createfood:coffee_toffee_bucket"
+    },
+    "ingredients": [
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "tag": "c:butter"
+        },
+        {
+            "tag": "c:butter"
+        },
+        {
+            "tag": "c:espresso_powder"
+        },
+        {
+            "tag": "c:espresso_powder"
+        }
+    ],
+    "container": {
+        "item": "minecraft:bucket"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "farm_and_charm"
+            ]
+        }
+    ]
+}

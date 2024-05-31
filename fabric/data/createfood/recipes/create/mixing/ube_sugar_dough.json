@@ -2,20 +2,19 @@
     "type": "create:mixing",
     "results": [
         {
-            "item": "createfood:sugar_dough",
+            "item": "createfood:ube_sugar_dough",
             "count": 3
         }
     ],
     "ingredients": [
         {
-            "tag": "c:wheat"
+            "item": "ubesdelight:ube"
         },
         {
             "tag": "c:sugar"
         },
         {
-            "amount": 27000,
-            "fluidTag": "c:water"
+            "tag": "c:water_buckets"
         }
     ],
     "fabric:load_conditions": [

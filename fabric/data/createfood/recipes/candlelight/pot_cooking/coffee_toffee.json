@@ -1,0 +1,29 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "createfood:coffee_toffee"
+    },
+    "ingredients": [
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "tag": "c:butter"
+        },
+        {
+            "tag": "c:espresso_powder"
+        }
+    ],
+    "container": {
+        "item": "minecraft:air"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ]
+}

@@ -5,10 +5,10 @@
     },
     "ingredients": [
         {
-            "tag": "c:sugar"
+            "tag": "c:gelatin"
         },
         {
-            "tag": "c:gelatin"
+            "tag": "c:sugar"
         }
     ],
     "container": {

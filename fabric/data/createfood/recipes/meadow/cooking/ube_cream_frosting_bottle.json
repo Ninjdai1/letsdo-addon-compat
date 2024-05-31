@@ -1,0 +1,26 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:ube_cream_frosting_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:milk_bottle"
+        },
+        {
+            "tag": "c:sugar"
+        },
+        {
+            "item": "ubesdelight:ube"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}

@@ -1,28 +1,25 @@
 {
-    "type": "create:mixing",
-    "results": [
-        {
-            "item": "createfood:sugar_dough",
-            "count": 3
-        }
-    ],
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:chorus_fruit_jam_bottle"
+    },
     "ingredients": [
         {
-            "tag": "c:flour"
+            "tag": "c:chorus_fruit"
         },
         {
             "tag": "c:sugar"
-        },
-        {
-            "tag": "c:water_buckets"
         }
     ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "createfood",
-                "create"
+                "meadow"
             ]
         }
     ]

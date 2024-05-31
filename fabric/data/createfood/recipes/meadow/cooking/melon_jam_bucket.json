@@ -1,29 +1,31 @@
 {
-    "type": "create:mixing",
-    "results": [
-        {
-            "item": "createfood:sugar_dough",
-            "count": 3
-        }
-    ],
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:melon_jam_bucket"
+    },
     "ingredients": [
         {
-            "tag": "c:flour"
+            "tag": "c:melon"
+        },
+        {
+            "tag": "c:melon"
         },
         {
             "tag": "c:sugar"
         },
         {
-            "amount": 27000,
-            "fluidTag": "c:water"
+            "tag": "c:sugar"
         }
     ],
+    "container": {
+        "item": "minecraft:bucket"
+    },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "createfood",
-                "create"
+                "meadow"
             ]
         }
     ]
