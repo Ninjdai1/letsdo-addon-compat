@@ -90,6 +90,18 @@
             "required": false
         },
         {
+            "id": "#c:milk_buckets",
+            "required": false
+        },
+        {
+            "id": "#c:condensed_milk",
+            "required": false
+        },
+        {
+            "id": "#c:milk_bottle",
+            "required": false
+        },
+        {
             "id": "#meadow:milk",
             "required": false
         },

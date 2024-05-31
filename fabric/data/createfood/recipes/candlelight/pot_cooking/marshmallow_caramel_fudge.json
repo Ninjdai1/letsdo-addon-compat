@@ -5,9 +5,6 @@
     },
     "ingredients": [
         {
-            "tag": "c:condensed_milk"
-        },
-        {
             "tag": "c:caramel_chips"
         },
         {
@@ -18,7 +15,7 @@
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:condensed_milk"
     },
     "fabric:load_conditions": [
         {

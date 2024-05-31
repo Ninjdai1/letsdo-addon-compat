@@ -4,13 +4,9 @@
         "count": 2,
         "item": "createfood:milk_powder"
     },
-    "ingredients": [
-        {
-            "tag": "c:milk_buckets"
-        }
-    ],
+    "ingredients": [],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:milk_buckets"
     },
     "fabric:load_conditions": [
         {

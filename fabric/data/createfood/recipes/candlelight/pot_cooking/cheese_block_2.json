@@ -5,14 +5,11 @@
     },
     "ingredients": [
         {
-            "tag": "c:milk_buckets"
-        },
-        {
             "tag": "c:salt"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "tag": "c:milk_buckets"
     },
     "fabric:load_conditions": [
         {
