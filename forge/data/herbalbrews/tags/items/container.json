@@ -68,6 +68,34 @@
         {
             "id": "ubesdelight:sinangag",
             "required": false
+        },
+        {
+            "id": "#c:milk",
+            "required": false
+        },
+        {
+            "id": "#c:milks",
+            "required": false
+        },
+        {
+            "id": "#c:water_buckets",
+            "required": false
+        },
+        {
+            "id": "#c:buckets/water",
+            "required": false
+        },
+        {
+            "id": "#c:buckets/milk",
+            "required": false
+        },
+        {
+            "id": "#meadow:milk",
+            "required": false
+        },
+        {
+            "id": "#meadow:water_bottles",
+            "required": false
         }
     ]
 }
