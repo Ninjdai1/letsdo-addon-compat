@@ -12,7 +12,7 @@
         }
     ],
     "tool": {
-        "tag": "letsdo_addon_compat:tools/knives"
+        "tag": "c:tools/knives"
     },
     "fabric:load_conditions": [
         {
