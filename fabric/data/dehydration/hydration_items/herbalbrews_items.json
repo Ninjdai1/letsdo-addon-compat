@@ -2,76 +2,31 @@
     "2": {
         "replace": false,
         "items": [
-            {
-                "id": "herbalbrews:armor_flask",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:armor_flask_big",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:damage_flask",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:damage_flask_big",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:feral_flask",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:feral_flask_big",
-                "required": false
-            }
+            "herbalbrews:armor_flask",
+            "herbalbrews:armor_flask_big",
+            "herbalbrews:damage_flask",
+            "herbalbrews:damage_flask_big",
+            "herbalbrews:feral_flask",
+            "herbalbrews:feral_flask_big"
         ]
     },
     "3": {
         "replace": false,
         "items": [
-            {
-                "id": "herbalbrews:coffee",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:milk_coffee",
-                "required": false
-            }
+            "herbalbrews:coffee",
+            "herbalbrews:milk_coffee"
         ]
     },
     "4": {
         "replace": false,
         "items": [
-            {
-                "id": "herbalbrews:green_tea",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:black_tea",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:hibiscus_tea",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:lavender_tea",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:yerba_mate_tea",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:rooibos_tea",
-                "required": false
-            },
-            {
-                "id": "herbalbrews:oolong_tea",
-                "required": false
-            }
+            "herbalbrews:green_tea",
+            "herbalbrews:black_tea",
+            "herbalbrews:hibiscus_tea",
+            "herbalbrews:lavender_tea",
+            "herbalbrews:yerba_mate_tea",
+            "herbalbrews:rooibos_tea",
+            "herbalbrews:oolong_tea"
         ]
     }
 }

@@ -2,77 +2,35 @@
     "1": {
         "replace": false,
         "items": [
-            {
-                "id": "beachparty:coconut_open",
-                "required": false
-            },
-            {
-                "id": "beachparty:sweetberry_milkshake",
-                "required": false
-            },
-            {
-                "id": "beachparty:coconut_milkshake",
-                "required": false
-            },
-            {
-                "id": "beachparty:chocolate_milkshake",
-                "required": false
-            }
+            "beachparty:coconut_open",
+            "beachparty:sweetberry_milkshake",
+            "beachparty:coconut_milkshake",
+            "beachparty:chocolate_milkshake"
         ]
     },
     "2": {
         "replace": false,
         "items": [
-            {
-                "id": "beachparty:coconut_cocktail",
-                "required": false
-            },
-            {
-                "id": "beachparty:sweetberries_cocktail",
-                "required": false
-            },
-            {
-                "id": "beachparty:cocoa_cocktail",
-                "required": false
-            },
-            {
-                "id": "beachparty:pumpkin_cocktail",
-                "required": false
-            },
-            {
-                "id": "beachparty:melon_cocktail",
-                "required": false
-            },
-            {
-                "id": "beachparty:honey_cocktail",
-                "required": false
-            }
+            "beachparty:coconut_cocktail",
+            "beachparty:sweetberries_cocktail",
+            "beachparty:cocoa_cocktail",
+            "beachparty:pumpkin_cocktail",
+            "beachparty:melon_cocktail",
+            "beachparty:honey_cocktail"
         ]
     },
     "3": {
         "replace": false,
         "items": [
-            {
-                "id": "beachparty:sweetberry_icecream",
-                "required": false
-            },
-            {
-                "id": "beachparty:coconut_icecream",
-                "required": false
-            },
-            {
-                "id": "beachparty:chocolate_icecream",
-                "required": false
-            }
+            "beachparty:sweetberry_icecream",
+            "beachparty:coconut_icecream",
+            "beachparty:chocolate_icecream"
         ]
     },
     "5": {
         "replace": false,
         "items": [
-            {
-                "id": "beachparty:refreshing_drink",
-                "required": false
-            }
+            "beachparty:refreshing_drink"
         ]
     }
 }

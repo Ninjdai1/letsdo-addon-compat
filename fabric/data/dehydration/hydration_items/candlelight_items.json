@@ -2,28 +2,19 @@
     "1": {
         "replace": false,
         "items": [
-            {
-                "id": "candlelight:mozzarella",
-                "required": false
-            }
+            "candlelight:mozzarella"
         ]
     },
     "4": {
         "replace": false,
         "items": [
-            {
-                "id": "candlelight:mushroom_soup",
-                "required": false
-            }
+            "candlelight:mushroom_soup"
         ]
     },
     "5": {
         "replace": false,
         "items": [
-            {
-                "id": "candlelight:tomato_soup",
-                "required": false
-            }
+            "candlelight:tomato_soup"
         ]
     }
 }
