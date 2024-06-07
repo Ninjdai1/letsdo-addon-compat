@@ -1,42 +1,48 @@
 {
-    "1": [
-        {
-            "id": "brewery:whiskey_jojannik",
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_lilitusinglemalt",
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_cristelwalker",
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_carrasconlabel",
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_magoallan",
-            "required": false
-        }
-    ],
-    "4": [
-        {
-            "id": "brewery:beer_wheat",
-            "required": false
-        },
-        {
-            "id": "brewery:beer_barley",
-            "required": false
-        },
-        {
-            "id": "brewery:beer_hops",
-            "required": false
-        },
-        {
-            "id": "brewery:beer_haley",
-            "required": false
-        }
-    ]
+    "1": {
+        "replace": false,
+        "items": [
+            {
+                "id": "brewery:whiskey_jojannik",
+                "required": false
+            },
+            {
+                "id": "brewery:whiskey_lilitusinglemalt",
+                "required": false
+            },
+            {
+                "id": "brewery:whiskey_cristelwalker",
+                "required": false
+            },
+            {
+                "id": "brewery:whiskey_carrasconlabel",
+                "required": false
+            },
+            {
+                "id": "brewery:whiskey_magoallan",
+                "required": false
+            }
+        ]
+    },
+    "4": {
+        "replace": false,
+        "items": [
+            {
+                "id": "brewery:beer_wheat",
+                "required": false
+            },
+            {
+                "id": "brewery:beer_barley",
+                "required": false
+            },
+            {
+                "id": "brewery:beer_hops",
+                "required": false
+            },
+            {
+                "id": "brewery:beer_haley",
+                "required": false
+            }
+        ]
+    }
 }

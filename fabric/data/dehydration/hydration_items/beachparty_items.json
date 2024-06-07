@@ -1,66 +1,78 @@
 {
-    "1": [
-        {
-            "id": "beachparty:coconut_open",
-            "required": false
-        },
-        {
-            "id": "beachparty:sweetberry_milkshake",
-            "required": false
-        },
-        {
-            "id": "beachparty:coconut_milkshake",
-            "required": false
-        },
-        {
-            "id": "beachparty:chocolate_milkshake",
-            "required": false
-        }
-    ],
-    "2": [
-        {
-            "id": "beachparty:coconut_cocktail",
-            "required": false
-        },
-        {
-            "id": "beachparty:sweetberries_cocktail",
-            "required": false
-        },
-        {
-            "id": "beachparty:cocoa_cocktail",
-            "required": false
-        },
-        {
-            "id": "beachparty:pumpkin_cocktail",
-            "required": false
-        },
-        {
-            "id": "beachparty:melon_cocktail",
-            "required": false
-        },
-        {
-            "id": "beachparty:honey_cocktail",
-            "required": false
-        }
-    ],
-    "3": [
-        {
-            "id": "beachparty:sweetberry_icecream",
-            "required": false
-        },
-        {
-            "id": "beachparty:coconut_icecream",
-            "required": false
-        },
-        {
-            "id": "beachparty:chocolate_icecream",
-            "required": false
-        }
-    ],
-    "5": [
-        {
-            "id": "beachparty:refreshing_drink",
-            "required": false
-        }
-    ]
+    "1": {
+        "replace": false,
+        "items": [
+            {
+                "id": "beachparty:coconut_open",
+                "required": false
+            },
+            {
+                "id": "beachparty:sweetberry_milkshake",
+                "required": false
+            },
+            {
+                "id": "beachparty:coconut_milkshake",
+                "required": false
+            },
+            {
+                "id": "beachparty:chocolate_milkshake",
+                "required": false
+            }
+        ]
+    },
+    "2": {
+        "replace": false,
+        "items": [
+            {
+                "id": "beachparty:coconut_cocktail",
+                "required": false
+            },
+            {
+                "id": "beachparty:sweetberries_cocktail",
+                "required": false
+            },
+            {
+                "id": "beachparty:cocoa_cocktail",
+                "required": false
+            },
+            {
+                "id": "beachparty:pumpkin_cocktail",
+                "required": false
+            },
+            {
+                "id": "beachparty:melon_cocktail",
+                "required": false
+            },
+            {
+                "id": "beachparty:honey_cocktail",
+                "required": false
+            }
+        ]
+    },
+    "3": {
+        "replace": false,
+        "items": [
+            {
+                "id": "beachparty:sweetberry_icecream",
+                "required": false
+            },
+            {
+                "id": "beachparty:coconut_icecream",
+                "required": false
+            },
+            {
+                "id": "beachparty:chocolate_icecream",
+                "required": false
+            }
+        ]
+    },
+    "5": {
+        "replace": false,
+        "items": [
+            {
+                "id": "beachparty:refreshing_drink",
+                "required": false
+            }
+        ]
+    }
 }

@@ -1,32 +1,35 @@
 {
-    "3": [
-        {
-            "id": "nethervinery:nether_fizz",
-            "required": false
-        },
-        {
-            "id": "nethervinery:blazewine_pinot",
-            "required": false
-        },
-        {
-            "id": "nethervinery:ghastly_grenache",
-            "required": false
-        },
-        {
-            "id": "nethervinery:netherite_nectar",
-            "required": false
-        },
-        {
-            "id": "nethervinery:lava_fizz",
-            "required": false
-        },
-        {
-            "id": "nethervinery:improved_lava_fizz",
-            "required": false
-        },
-        {
-            "id": "nethervinery:improved_nether_fizz",
-            "required": false
-        }
-    ]
+    "3": {
+        "replace": false,
+        "items": [
+            {
+                "id": "nethervinery:nether_fizz",
+                "required": false
+            },
+            {
+                "id": "nethervinery:blazewine_pinot",
+                "required": false
+            },
+            {
+                "id": "nethervinery:ghastly_grenache",
+                "required": false
+            },
+            {
+                "id": "nethervinery:netherite_nectar",
+                "required": false
+            },
+            {
+                "id": "nethervinery:lava_fizz",
+                "required": false
+            },
+            {
+                "id": "nethervinery:improved_lava_fizz",
+                "required": false
+            },
+            {
+                "id": "nethervinery:improved_nether_fizz",
+                "required": false
+            }
+        ]
+    }
 }

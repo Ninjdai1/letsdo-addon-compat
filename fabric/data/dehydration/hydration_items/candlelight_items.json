@@ -1,20 +1,29 @@
 {
-    "1": [
-        {
-            "id": "candlelight:mozzarella",
-            "required": false
-        }
-    ],
-    "4": [
-        {
-            "id": "candlelight:mushroom_soup",
-            "required": false
-        }
-    ],
-    "5": [
-        {
-            "id": "candlelight:tomato_soup",
-            "required": false
-        }
-    ]
+    "1": {
+        "replace": false,
+        "items": [
+            {
+                "id": "candlelight:mozzarella",
+                "required": false
+            }
+        ]
+    },
+    "4": {
+        "replace": false,
+        "items": [
+            {
+                "id": "candlelight:mushroom_soup",
+                "required": false
+            }
+        ]
+    },
+    "5": {
+        "replace": false,
+        "items": [
+            {
+                "id": "candlelight:tomato_soup",
+                "required": false
+            }
+        ]
+    }
 }
