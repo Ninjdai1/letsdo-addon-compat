@@ -1,21 +1,21 @@
 {
-    "type": "farmersdelight:pot_cooking",
+    "type": "candlelight:pot_cooking",
     "result": {
-        "item": "twilightdelight:lily_chicken_block"
+        "item": "twilightdelight:grilled_tomahawk_smeak"
     },
     "ingredients": [
         {
-            "item": "twilightforest:huge_lily_pad"
+            "item": "twilightdelight:raw_tomahawk_smeak"
         },
         {
-            "item": "farmersdelight:roast_chicken_block"
+            "item": "twilightdelight:mushgloom_sauce"
         },
         {
-            "item": "twilightforest:huge_water_lily"
+            "item": "farmersdelight:milk_bottle"
         }
     ],
     "container": {
-        "item": "minecraft:air"
+        "item": "minecraft:bowl"
     },
     "conditions": [
         {
@@ -24,7 +24,7 @@
         },
         {
             "type": "forge:mod_loaded",
-            "modid": "farmersdelight"
+            "modid": "candlelight"
         }
     ]
 }

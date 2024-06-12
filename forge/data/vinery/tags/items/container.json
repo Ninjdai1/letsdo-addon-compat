@@ -30,6 +30,10 @@
             "required": false
         },
         {
+            "id": "expandeddelight:glass_jar",
+            "required": false
+        },
+        {
             "id": "minecraft:bowl",
             "required": false
         },

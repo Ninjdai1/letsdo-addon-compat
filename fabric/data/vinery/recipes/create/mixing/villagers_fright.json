@@ -11,9 +11,6 @@
         },
         {
             "item": "minecraft:emerald"
-        },
-        {
-            "item": "minecraft:emerald"
         }
     ],
     "fabric:load_conditions": [

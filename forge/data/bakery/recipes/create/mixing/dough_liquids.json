@@ -2,7 +2,8 @@
     "type": "create:mixing",
     "results": [
         {
-            "item": "bakery:dough"
+            "item": "bakery:dough",
+            "count": 12
         }
     ],
     "ingredients": [

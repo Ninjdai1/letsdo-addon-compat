@@ -14,9 +14,6 @@
             "item": "twilightforest:huge_water_lily"
         }
     ],
-    "container": {
-        "item": "minecraft:bowl"
-    },
     "conditions": [
         {
             "type": "forge:mod_loaded",
