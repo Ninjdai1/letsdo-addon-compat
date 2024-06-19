@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:pot_cooking",
+    "type": "farmersdelight:cooking",
     "result": {
         "item": "frightsdelight:soup_spider_eye",
         "count": 1

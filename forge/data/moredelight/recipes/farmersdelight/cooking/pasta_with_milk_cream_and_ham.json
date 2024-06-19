@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:pot_cooking",
+    "type": "farmersdelight:cooking",
     "result": {
         "item": "moredelight:pasta_with_milk_cream_and_ham"
     },

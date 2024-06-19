@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:pot_cooking",
+    "type": "farmersdelight:cooking",
     "result": {
         "count": 3,
         "item": "minecraft:honey_bottle"

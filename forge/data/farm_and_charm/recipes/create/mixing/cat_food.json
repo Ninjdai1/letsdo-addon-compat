@@ -2,7 +2,8 @@
     "type": "create:mixing",
     "results": [
         {
-            "item": "farm_and_charm:cat_food"
+            "item": "farm_and_charm:cat_food",
+            "count": 6
         }
     ],
     "ingredients": [

@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:pot_cooking",
+    "type": "farmersdelight:cooking",
     "result": {
         "count": 4,
         "item": "ubesdelight:raw_polvorone_pinipig"

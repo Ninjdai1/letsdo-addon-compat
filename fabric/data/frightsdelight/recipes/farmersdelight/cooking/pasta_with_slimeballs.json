@@ -1,5 +1,5 @@
 {
-    "type": "farmersdelight:pot_cooking",
+    "type": "farmersdelight:cooking",
     "result": {
         "item": "frightsdelight:pasta_with_slimeballs",
         "count": 1
