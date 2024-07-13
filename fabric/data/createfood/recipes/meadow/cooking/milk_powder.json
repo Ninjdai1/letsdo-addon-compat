@@ -6,7 +6,7 @@
     },
     "ingredients": [
         {
-            "tag": "c:milk_buckets"
+            "item": "minecraft:milk_bucket"
         }
     ],
     "fabric:load_conditions": [

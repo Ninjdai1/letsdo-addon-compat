@@ -1,15 +1,15 @@
 {
     "type": "candlelight:pot_cooking",
     "result": {
-        "item": "createfood:bar_of_dark_chocolate"
+        "item": "createfood:sour_cream_bucket"
     },
     "ingredients": [
         {
-            "tag": "c:pressed_cocoa"
+            "tag": "c:heavy_cream_bucket"
         }
     ],
     "container": {
-        "item": "createfood:cacao_mass_bucket"
+        "tag": "c:milks"
     },
     "fabric:load_conditions": [
         {

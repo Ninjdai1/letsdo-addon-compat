@@ -1,0 +1,50 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "ends_delight:ender_noodle",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "tag": "forge:shulker_meat"
+        },
+        {
+            "item": "ends_delight:dried_endermite_meat"
+        },
+        {
+            "item": "ends_delight:chorus_sauce"
+        },
+        [
+            {
+                "item": "minecraft:warped_fungus"
+            },
+            {
+                "item": "minecraft:crimson_fungus"
+            },
+            {
+                "item": "minecraft:brown_mushroom"
+            },
+            {
+                "item": "minecraft:red_mushroom"
+            }
+        ],
+        [
+            {
+                "tag": "forge:dough"
+            },
+            {
+                "tag": "forge:pasta"
+            }
+        ]
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "ends_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

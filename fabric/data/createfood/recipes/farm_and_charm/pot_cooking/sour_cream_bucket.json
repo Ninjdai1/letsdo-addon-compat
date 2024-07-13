@@ -1,22 +1,22 @@
 {
-    "type": "bakery:pot_cooking",
+    "type": "farm_and_charm:pot_cooking",
     "result": {
-        "item": "createfood:bar_of_dark_chocolate"
+        "item": "createfood:sour_cream_bucket"
     },
     "ingredients": [
         {
-            "tag": "c:pressed_cocoa"
+            "tag": "c:heavy_cream_bucket"
         }
     ],
     "container": {
-        "item": "createfood:cacao_mass_bucket"
+        "tag": "c:milks"
     },
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",
             "values": [
                 "createfood",
-                "bakery"
+                "farm_and_charm"
             ]
         }
     ]

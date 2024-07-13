@@ -14,13 +14,13 @@
             "item": "farmersdelight:cooked_rice"
         },
         {
-            "tag": "c:crops/onion"
+            "tag": "c:foods/vegetables/onion"
         },
         {
-            "tag": "c:cooked_chicken"
+            "tag": "c:foods/cooked_meats/cooked_chicken"
         },
         {
-            "tag": "c:milk"
+            "tag": "c:milks"
         }
     ],
     "fabric:load_conditions": [

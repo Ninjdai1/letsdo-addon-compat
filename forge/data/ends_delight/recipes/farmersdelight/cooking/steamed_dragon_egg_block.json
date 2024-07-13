@@ -10,9 +10,14 @@
         {
             "tag": "forge:shulker_meat"
         },
-        {
-            "item": "minecraft:chorus_fruit"
-        },
+        [
+            {
+                "item": "minecraft:chorus_fruit"
+            },
+            {
+                "item": "ends_delight:chorus_fruit_grain"
+            }
+        ],
         {
             "item": "minecraft:brown_mushroom"
         },

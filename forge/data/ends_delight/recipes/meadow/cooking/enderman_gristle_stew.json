@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "ends_delight:enderman_gristle_stew"
+    },
+    "ingredients": [
+        {
+            "item": "ends_delight:enderman_gristle"
+        },
+        {
+            "item": "ends_delight:enderman_gristle"
+        },
+        {
+            "item": "ends_delight:dried_chorus_flower"
+        },
+        {
+            "item": "ends_delight:chorus_succulent"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "ends_delight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

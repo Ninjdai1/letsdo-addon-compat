@@ -10,7 +10,7 @@
             "tag": "vinery:grapejuice"
         },
         {
-            "item": "minecraft:emerald"
+            "item": "minecraft:arrow"
         }
     ],
     "fabric:load_conditions": [

@@ -7,9 +7,14 @@
         {
             "tag": "forge:raw_dragon_meat"
         },
-        {
-            "item": "minecraft:chorus_fruit"
-        },
+        [
+            {
+                "item": "minecraft:chorus_fruit"
+            },
+            {
+                "item": "ends_delight:chorus_fruit_grain"
+            }
+        ],
         {
             "item": "ends_delight:chorus_succulent"
         },

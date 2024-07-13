@@ -8,7 +8,7 @@
             "tag": "c:pressed_cocoa"
         },
         {
-            "item": "createfood:cacao_mass_bucket"
+            "tag": "c:cacao_mass_bucket"
         }
     ],
     "fabric:load_conditions": [

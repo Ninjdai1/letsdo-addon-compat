@@ -1,20 +1,18 @@
 {
     "type": "meadow:cooking",
     "result": {
-        "item": "ends_delight:ender_sauce"
+        "item": "ends_delight:shulker_soup"
     },
     "ingredients": [
         {
-            "item": "ends_delight:chorus_succulent"
+            "tag": "c:shulker_meat"
         },
-        [
-            {
-                "item": "minecraft:chorus_fruit"
-            },
-            {
-                "item": "ends_delight:chorus_fruit_grain"
-            }
-        ]
+        {
+            "item": "ends_delight:dried_chorus_flower"
+        },
+        {
+            "item": "ends_delight:chorus_succulent"
+        }
     ],
     "fabric:load_conditions": [
         {

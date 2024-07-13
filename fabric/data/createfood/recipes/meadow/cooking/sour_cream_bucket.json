@@ -1,0 +1,23 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "createfood:sour_cream_bucket"
+    },
+    "ingredients": [
+        {
+            "tag": "c:heavy_cream_bucket"
+        },
+        {
+            "tag": "c:milks"
+        }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "meadow"
+            ]
+        }
+    ]
+}

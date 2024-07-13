@@ -5,13 +5,13 @@
     },
     "ingredients": [
         {
-            "tag": "forge:cooked_crab"
+            "tag": "forge:crab_meat"
         },
         {
-            "tag": "forge:crops/rice"
+            "tag": "forge:grain/rice"
         },
         {
-            "tag": "forge:crops/onion"
+            "tag": "forge:vegetables/onion"
         }
     ],
     "container": {

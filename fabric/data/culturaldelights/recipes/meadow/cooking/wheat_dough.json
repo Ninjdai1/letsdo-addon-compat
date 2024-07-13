@@ -6,13 +6,13 @@
     },
     "ingredients": [
         {
-            "item": "minecraft:wheat"
+            "tag": "c:grains/wheat"
         },
         {
-            "item": "minecraft:wheat"
+            "tag": "c:grains/wheat"
         },
         {
-            "item": "minecraft:wheat"
+            "tag": "c:grains/wheat"
         }
     ],
     "fabric:load_conditions": [

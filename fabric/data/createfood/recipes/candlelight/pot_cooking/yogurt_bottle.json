@@ -1,0 +1,23 @@
+{
+    "type": "candlelight:pot_cooking",
+    "result": {
+        "item": "createfood:yogurt_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "c:sour_cream_bottle"
+        }
+    ],
+    "container": {
+        "tag": "c:milks"
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "createfood",
+                "candlelight"
+            ]
+        }
+    ]
+}

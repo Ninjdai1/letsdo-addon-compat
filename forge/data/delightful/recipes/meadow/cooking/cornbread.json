@@ -1,0 +1,32 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "hauntedharvest:cornbread",
+        "count": 2
+    },
+    "ingredients": [
+        {
+            "tag": "forge:vegetables/corn"
+        },
+        {
+            "tag": "forge:vegetables/corn"
+        },
+        {
+            "tag": "forge:grain/wheat"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "hauntedharvest"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

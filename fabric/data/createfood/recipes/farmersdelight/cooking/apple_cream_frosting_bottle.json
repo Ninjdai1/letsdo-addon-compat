@@ -11,7 +11,7 @@
             "tag": "c:milk"
         },
         {
-            "item": "minecraft:apple"
+            "tag": "c:apple"
         }
     ],
     "container": {

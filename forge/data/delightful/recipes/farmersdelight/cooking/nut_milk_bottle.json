@@ -1,0 +1,34 @@
+{
+    "type": "farmersdelight:cooking",
+    "result": {
+        "item": "vintagedelight:nut_milk_bottle"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:nuts"
+        },
+        {
+            "tag": "forge:nuts"
+        },
+        {
+            "tag": "forge:sugar"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "vintagedelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farmersdelight"
+        }
+    ]
+}

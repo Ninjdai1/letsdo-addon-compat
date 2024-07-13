@@ -1,0 +1,30 @@
+{
+    "type": "meadow:cooking",
+    "result": {
+        "item": "delightful:cantaloupe_gummy"
+    },
+    "ingredients": [
+        {
+            "tag": "forge:fruits/cantaloupe"
+        },
+        {
+            "tag": "forge:sugar"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "item": "minecraft:kelp"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "delightful"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "meadow"
+        }
+    ]
+}

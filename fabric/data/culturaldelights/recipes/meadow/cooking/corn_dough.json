@@ -6,13 +6,13 @@
     },
     "ingredients": [
         {
-            "tag": "c:crops/corn"
+            "tag": "c:foods/vegetables/corns"
         },
         {
-            "tag": "c:crops/corn"
+            "tag": "c:foods/vegetables/corns"
         },
         {
-            "tag": "c:crops/corn"
+            "tag": "c:foods/vegetables/corns"
         }
     ],
     "fabric:load_conditions": [

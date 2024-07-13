@@ -6,10 +6,10 @@
     },
     "ingredients": [
         {
-            "tag": "culturaldelights:regular_eggplants"
+            "tag": "c:foods/vegetables/eggplant"
         },
         {
-            "tag": "c:food/raw_pasta"
+            "tag": "c:foods/pastas"
         },
         {
             "item": "farmersdelight:tomato_sauce"

@@ -1,0 +1,30 @@
+{
+    "type": "farm_and_charm:pot_cooking",
+    "result": {
+        "item": "crabbersdelight:jar_of_pickles"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        }
+    ],
+    "container": {
+        "item": "minecraft:glass_bottle"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "crabbersdelight"
+        },
+        {
+            "type": "forge:mod_loaded",
+            "modid": "farm_and_charm"
+        }
+    ]
+}

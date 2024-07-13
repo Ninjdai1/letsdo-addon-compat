@@ -5,13 +5,13 @@
     },
     "ingredients": [
         {
-            "tag": "forge:crops/rice"
+            "tag": "forge:grain/rice"
         },
         {
             "tag": "forge:cooked_mutton"
         },
         {
-            "tag": "forge:crops/onion"
+            "tag": "forge:vegetables/onion"
         },
         {
             "tag": "forge:berries"

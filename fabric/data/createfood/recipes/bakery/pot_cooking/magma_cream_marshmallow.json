@@ -5,13 +5,13 @@
     },
     "ingredients": [
         {
+            "tag": "c:sugar"
+        },
+        {
             "tag": "c:water_buckets"
         },
         {
             "item": "nethersdelight:magma_gelatin"
-        },
-        {
-            "tag": "c:sugar"
         }
     ],
     "container": {
