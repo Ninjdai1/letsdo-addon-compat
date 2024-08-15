@@ -16,11 +16,12 @@
         },
         {
             "tag": "forge:sugar"
+        },
+        {
+            "item": "youkaishomecoming:saucer"
         }
     ],
-    "container": {
-        "item": "youkaishomecoming:saucer"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

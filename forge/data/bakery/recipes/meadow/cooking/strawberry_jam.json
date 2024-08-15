@@ -9,11 +9,12 @@
         },
         {
             "tag": "forge:sugar"
+        },
+        {
+            "item": "bakery:jar"
         }
     ],
-    "container": {
-        "item": "bakery:jar"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

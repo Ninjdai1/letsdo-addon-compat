@@ -9,11 +9,12 @@
         },
         {
             "item": "aquaculture:algae"
+        },
+        {
+            "item": "minecraft:bowl"
         }
     ],
-    "container": {
-        "item": "minecraft:bowl"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

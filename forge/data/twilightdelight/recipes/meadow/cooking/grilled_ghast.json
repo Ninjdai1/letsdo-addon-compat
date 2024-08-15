@@ -18,11 +18,12 @@
         },
         {
             "item": "twilightforest:experiment_115"
+        },
+        {
+            "item": "minecraft:bowl"
         }
     ],
-    "container": {
-        "item": "minecraft:bowl"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

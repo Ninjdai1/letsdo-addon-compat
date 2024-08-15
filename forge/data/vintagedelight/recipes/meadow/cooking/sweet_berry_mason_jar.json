@@ -21,11 +21,12 @@
         },
         {
             "tag": "forge:sugar"
+        },
+        {
+            "item": "vintagedelight:mason_jar"
         }
     ],
-    "container": {
-        "item": "vintagedelight:mason_jar"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

@@ -21,11 +21,12 @@
         },
         {
             "tag": "forge:berries"
+        },
+        {
+            "item": "minecraft:pumpkin"
         }
     ],
-    "container": {
-        "item": "minecraft:pumpkin"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

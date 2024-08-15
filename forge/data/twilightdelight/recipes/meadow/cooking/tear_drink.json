@@ -9,11 +9,12 @@
         },
         {
             "item": "minecraft:ghast_tear"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:glass_bottle"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

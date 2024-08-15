@@ -12,11 +12,12 @@
         },
         {
             "tag": "c:sugar"
+        },
+        {
+            "item": "bakery:jar"
         }
     ],
-    "container": {
-        "item": "bakery:jar"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

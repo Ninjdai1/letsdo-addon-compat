@@ -15,11 +15,12 @@
         },
         {
             "tag": "forge:milk"
+        },
+        {
+            "item": "quark:bottled_cloud"
         }
     ],
-    "container": {
-        "item": "quark:bottled_cloud"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

@@ -26,11 +26,12 @@
         },
         {
             "tag": "c:crops/tomato"
+        },
+        {
+            "item": "ends_delight:half_dragon_egg_shell"
         }
     ],
-    "container": {
-        "item": "ends_delight:half_dragon_egg_shell"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

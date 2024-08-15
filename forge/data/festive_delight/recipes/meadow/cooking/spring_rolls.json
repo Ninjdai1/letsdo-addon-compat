@@ -15,11 +15,12 @@
         },
         {
             "item": "farmersdelight:wheat_dought"
+        },
+        {
+            "item": "minecraft:air"
         }
     ],
-    "container": {
-        "item": "minecraft:air"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

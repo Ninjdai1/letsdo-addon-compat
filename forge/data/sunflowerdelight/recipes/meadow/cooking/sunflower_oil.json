@@ -12,11 +12,12 @@
         },
         {
             "item": "sunflowerdelight:peeled_sunflower_seed"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:glass_bottle"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

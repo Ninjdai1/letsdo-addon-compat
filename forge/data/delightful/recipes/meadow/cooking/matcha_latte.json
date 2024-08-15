@@ -9,11 +9,12 @@
         },
         {
             "tag": "forge:matcha"
+        },
+        {
+            "item": "minecraft:honey_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:honey_bottle"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

@@ -21,11 +21,12 @@
         },
         {
             "tag": "c:mushrooms"
+        },
+        {
+            "item": "farmersdelight:canvas"
         }
     ],
-    "container": {
-        "item": "farmersdelight:canvas"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

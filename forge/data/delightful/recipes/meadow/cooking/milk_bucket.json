@@ -9,11 +9,12 @@
         },
         {
             "tag": "forge:nut_butter"
+        },
+        {
+            "item": "minecraft:water_bucket"
         }
     ],
-    "container": {
-        "item": "minecraft:water_bucket"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

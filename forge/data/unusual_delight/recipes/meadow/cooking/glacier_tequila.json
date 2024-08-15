@@ -12,11 +12,12 @@
         },
         {
             "item": "unusual_delight:frostsugar"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:glass_bottle"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

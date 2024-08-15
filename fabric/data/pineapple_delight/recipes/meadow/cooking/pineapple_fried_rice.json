@@ -15,11 +15,12 @@
         },
         {
             "tag": "c:crops/carrot"
+        },
+        {
+            "item": "pineapple_delight:pineapple"
         }
     ],
-    "container": {
-        "item": "pineapple_delight:pineapple"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

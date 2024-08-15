@@ -9,11 +9,12 @@
         },
         {
             "item": "minecraft:chorus_flower"
+        },
+        {
+            "item": "endersdelight:shulker_bowl"
         }
     ],
-    "container": {
-        "item": "endersdelight:shulker_bowl"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

@@ -12,11 +12,12 @@
         },
         {
             "item": "farmersdelight:wheat_dough"
+        },
+        {
+            "item": "minecraft:spruce_leaves"
         }
     ],
-    "container": {
-        "item": "minecraft:spruce_leaves"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

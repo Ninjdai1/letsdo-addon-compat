@@ -21,11 +21,12 @@
         },
         {
             "tag": "forge:berries"
+        },
+        {
+            "item": "autumnity:large_pumpkin_slice"
         }
     ],
-    "container": {
-        "item": "autumnity:large_pumpkin_slice"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

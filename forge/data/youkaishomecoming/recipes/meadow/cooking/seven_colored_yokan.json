@@ -18,11 +18,12 @@
         },
         {
             "item": "youkaishomecoming:udumbara_flower"
+        },
+        {
+            "item": "youkaishomecoming:saucer"
         }
     ],
-    "container": {
-        "item": "youkaishomecoming:saucer"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

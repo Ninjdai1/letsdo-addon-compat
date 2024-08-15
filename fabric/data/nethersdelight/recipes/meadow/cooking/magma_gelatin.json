@@ -15,11 +15,12 @@
         },
         {
             "item": "nethersdelight:propelpearl"
+        },
+        {
+            "item": "minecraft:lava_bucket"
         }
     ],
-    "container": {
-        "item": "minecraft:lava_bucket"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

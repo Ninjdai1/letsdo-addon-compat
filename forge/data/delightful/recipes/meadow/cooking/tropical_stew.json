@@ -12,11 +12,12 @@
         },
         {
             "tag": "forge:vegetables/onion"
+        },
+        {
+            "item": "ecologics:coconut_slice"
         }
     ],
-    "container": {
-        "item": "ecologics:coconut_slice"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

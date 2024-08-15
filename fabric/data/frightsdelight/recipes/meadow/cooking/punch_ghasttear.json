@@ -16,12 +16,13 @@
         },
         {
             "tag": "c:water_buckets"
+        },
+        {
+            "item": "minecraft:glass_bottle",
+            "count": 4
         }
     ],
-    "container": {
-        "item": "minecraft:glass_bottle",
-        "count": 4
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

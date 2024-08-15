@@ -14,11 +14,12 @@
         },
         {
             "tag": "c:food/cheese"
+        },
+        {
+            "item": "minecraft:bowl"
         }
     ],
-    "container": {
-        "item": "minecraft:bowl"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

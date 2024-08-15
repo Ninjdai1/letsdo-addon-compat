@@ -10,11 +10,12 @@
         },
         {
             "item": "minecraft:cobweb"
+        },
+        {
+            "item": "minecraft:stick"
         }
     ],
-    "container": {
-        "item": "minecraft:stick"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

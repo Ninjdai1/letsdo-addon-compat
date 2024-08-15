@@ -18,11 +18,12 @@
         },
         {
             "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:shulker_shell"
         }
     ],
-    "container": {
-        "item": "minecraft:shulker_shell"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

@@ -21,11 +21,12 @@
         },
         {
             "tag": "forge:sugar"
+        },
+        {
+            "item": "minecraft:stick"
         }
     ],
-    "container": {
-        "item": "minecraft:stick"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

@@ -12,11 +12,12 @@
         },
         {
             "tag": "forge:sugar"
+        },
+        {
+            "item": "aether:skyroot_water_bucket"
         }
     ],
-    "container": {
-        "item": "aether:skyroot_water_bucket"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

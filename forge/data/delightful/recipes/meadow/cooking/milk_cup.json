@@ -12,11 +12,12 @@
         },
         {
             "tag": "forge:sugar"
+        },
+        {
+            "item": "miners_delight:water_cup"
         }
     ],
-    "container": {
-        "item": "miners_delight:water_cup"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

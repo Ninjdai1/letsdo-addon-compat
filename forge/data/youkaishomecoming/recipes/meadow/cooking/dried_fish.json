@@ -12,11 +12,12 @@
         },
         {
             "tag": "forge:raw_fishes"
+        },
+        {
+            "item": "youkaishomecoming:saucer"
         }
     ],
-    "container": {
-        "item": "youkaishomecoming:saucer"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

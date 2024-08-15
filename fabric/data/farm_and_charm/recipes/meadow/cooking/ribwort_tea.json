@@ -13,11 +13,12 @@
         },
         {
             "item": "farm_and_charm:wild_ribwort"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:glass_bottle"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

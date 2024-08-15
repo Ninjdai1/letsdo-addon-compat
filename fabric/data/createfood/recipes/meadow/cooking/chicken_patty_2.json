@@ -13,11 +13,12 @@
         },
         {
             "tag": "c:toast"
+        },
+        {
+            "item": "createfood:unbreaded_chicken_patty"
         }
     ],
-    "container": {
-        "item": "createfood:unbreaded_chicken_patty"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

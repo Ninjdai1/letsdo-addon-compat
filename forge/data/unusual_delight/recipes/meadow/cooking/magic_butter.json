@@ -12,11 +12,12 @@
         },
         {
             "item": "unusual_delight:raw_mite_meat"
+        },
+        {
+            "item": "minecraft:paper"
         }
     ],
-    "container": {
-        "item": "minecraft:paper"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

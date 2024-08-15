@@ -21,11 +21,12 @@
         },
         {
             "tag": "c:bread"
+        },
+        {
+            "item": "minecraft:cauldron"
         }
     ],
-    "container": {
-        "item": "minecraft:cauldron"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

@@ -21,11 +21,12 @@
         },
         {
             "tag": "c:espresso_powder"
+        },
+        {
+            "item": "minecraft:bucket"
         }
     ],
-    "container": {
-        "item": "minecraft:bucket"
-    },
+    "container": null,
     "fabric:load_conditions": [
         {
             "condition": "fabric:all_mods_loaded",

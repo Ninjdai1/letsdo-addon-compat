@@ -13,11 +13,12 @@
         },
         {
             "tag": "forge:fruits/strawberries"
+        },
+        {
+            "item": "minecraft:glass_bottle"
         }
     ],
-    "container": {
-        "item": "minecraft:glass_bottle"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",

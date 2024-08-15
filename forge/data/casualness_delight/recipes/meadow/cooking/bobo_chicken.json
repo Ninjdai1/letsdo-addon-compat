@@ -21,11 +21,12 @@
         },
         {
             "item": "casualness_delight:raw_chicken_bobo_chicken"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
         }
     ],
-    "container": {
-        "item": "farmersdelight:tomato_sauce"
-    },
+    "container": null,
     "conditions": [
         {
             "type": "forge:mod_loaded",
